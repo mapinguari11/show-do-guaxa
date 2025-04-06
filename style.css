@@ -1,0 +1,186 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input, button, textarea, select {
+  appearance: none;
+  -webkit-appearance: none;
+  background: none;
+  border: none;
+  font: inherit;
+}
+
+:root {
+  --main-color: #5abc5a;
+  --secondary-color: #19caca;
+  --accent-color: #D48FA8;
+}
+
+body {
+  background: url("https://www.deviante.com.br/wp-content/uploads/2019/06/rpg_destaque.jpg") no-repeat center
+    fixed;
+  background-size: cover;
+  font-family: "Gabarito", sans-serif;
+  margin: 20px;
+}
+
+.logo {
+  text-align: end;
+}
+
+.logo img {
+  width: 40%;
+}
+
+/* Caixa principal do jogo */
+.conteudo-jogo {
+  background: rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 5px var(--main-color);
+  margin: 30px;
+  padding: 20px;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.conteudo-jogo:hover {
+  background: rgba(0, 0, 0);
+  box-shadow: 0 0 5px var(--secondary-color);
+}
+
+/* Títulos e textos */
+h2,
+p {
+  color: white;
+}
+
+/* Estrutura do questionário */
+.questionario {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  width: 70%;
+  max-width: 70%;
+}
+
+/* Área de conteúdo */
+.conteudo {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 100%;
+  gap: 20px;
+}
+
+/* Estilo da pergunta */
+.pergunta {
+  font-weight: 600;
+  color: white;
+}
+
+/* Progresso da pergunta */
+.progresso {
+  text-align: end;
+  font-size: small;
+  font-weight: 500;
+  color: white;
+}
+
+/* Área das respostas */
+.respostas {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+/* Caixa de input para nome e atributo*/
+.input-criacao {
+  width: 100%;
+  height: 2.5rem;
+  padding: 5px;
+  border: none;
+  background: var(--main-color);
+  color: white;
+  font-family: inherit; /* Para manter a mesma fonte do restante do site */
+  font-size: inherit; /* Para manter o mesmo tamanho de fonte */
+  outline: none;
+}
+
+.input-criacao:focus {
+  background: var(--main-color, #5abc5a);
+  color: white;
+  /* Adicione qualquer estilo extra para o estado de foco, se desejar */
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.5); /* Exemplo: sombra sutil */
+}
+
+.input-criacao:not(:placeholder-shown) {
+  background: var(--main-color);
+  color: white;
+}
+
+.botao-enviar {
+  width: 100%;
+  height: 2.5rem;
+  padding: 5px;
+  border: none;
+  cursor: pointer;
+  background: var(--accent-color); 
+  color: white;
+  font-weight: bold; /* Texto em negrito para maior destaque */
+  text-align: center;
+  border-radius: 4px; /* Bordas levemente arredondadas */
+  transition: background 0.3s ease; /* Suaviza a transição de hover */
+  margin-top: 10px; /* Espaçamento acima do botão */
+}
+
+.botao-enviar:hover {
+  background: #cb0859;
+}
+
+.botao-enviar:active {
+  transform: scale(0.98); /* Leve redução no clique */
+}
+
+.botao-enviar:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(212, 143, 168, 0.3); /* Glow sutil */
+}
+
+/* Botões de resposta */
+.botao-resposta {
+  width: 100%;
+  height: 2.5rem;
+  text-align: start;
+  padding: 5px;
+  border: none;
+  cursor: pointer;
+  background: var(--main-color);
+  color: white;
+}
+
+.botao-resposta:hover {
+  background: var(--secondary-color);
+  font-weight: 600;
+}
+
+/* Tela de fim do jogo */
+.fim {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.fim span {
+  margin-bottom: 2rem;
+  text-align: center;
+  font-weight: 600;
+  color: white;
+}
+
+.hidden {
+  display: none;
+}

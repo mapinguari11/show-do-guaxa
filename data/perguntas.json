@@ -1,0 +1,573 @@
+{
+    "fases": [
+        {
+            "nivel": "facil",
+            "questoes": [
+                {
+                    "pergunta": "Qual o nome do sistema utilizado no RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Guaxinins & Gambiarras",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Dungeons & Dragons",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Tormenta 20",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Táquions",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Como se chama a parte final do episódio, em que o Guaxa comenta um pouco sobre a aventura e dá alguns avisos?",
+                    "alternativas": [
+                        {
+                            "texto": "Guaxaverso",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Escudo do Mestre",
+                            "correto": true
+                        },
+                        {
+                            "texto":"Fala, Guaxa!",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Epílogo",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual a verdadeira identidade da Morte?",
+                    "alternativas": [
+                        {
+                            "texto": "Ewa",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Sílvio",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Lillith",
+                            "correto": true
+                        },
+                        {
+                            "texto":"Lúcifer",
+                            "correto": false
+                        }
+                        
+                    ],
+                    "autoria": ["Fabíola Belo"]
+                },
+                {
+                    "pergunta": "A qual vilão pertence a icônica frase: \"Te achei, Coelhinha...!\"",
+                    "alternativas": [
+                        {
+                            "texto": "Rasturak",
+                            "correto": false
+                        },
+                        {
+                            "texto": "A Boba",
+                            "correto": false
+                        },
+                        {
+                            "texto": "O Pintor",
+                            "correto": false
+                        },
+                        {
+                            "texto":"Jaqueta Vermelha",
+                            "correto": true
+                        }
+                        
+                    ],
+                    "autoria": ["Jean Macedo"]
+                },
+                {
+                    "pergunta": "Qual o nome do principal unicórnio que auxilia os gnomos/elfos/duendes de Natal?",
+                    "alternativas": [
+                        {
+                            "texto": "Verso",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Capitão",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Grande Vermelho",
+                            "correto": false
+                        },
+                        {
+                            "texto":"Z-75",
+                            "correto": true
+                        }
+                        
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o refrigerante usado para controlar a mente das mulheres no episódio Eu Beijei Uma Garota?",
+                    "alternativas": [
+                        {
+                            "texto": "Soft Sofia",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Jazzy Juju",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Cherry Shelly",
+                            "correto": true
+                        },
+                        {
+                            "texto":"Fabulous Fabi",
+                            "correto": false
+                        }
+                        
+                    ],
+                    "autoria": []
+                }
+            ]
+        },
+        {
+            "nivel": "medio",
+            "questoes": [
+                {
+                    "pergunta": "Qual a cor da pedra que estava dentro da caixinha do episódio 1 do RPGuaxa: A bruxa, a Morte e as 4 gatas?",
+                    "alternativas": [
+                        {
+                            "texto": "Verde",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Amarela",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Azul",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Vermelha",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Qual brinquedo que Eliot levou consigo durante a aventura do episódio 2 do RPGuaxa: O Corvo?",
+                    "alternativas": [
+                        {
+                            "texto": "Um timão",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Um urso de pelúcia",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Um carrinho de controle remoto",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Um ioiô",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Quais os nomes dos 3 martelos que o Murin utilizou no episódio 3 do RPGuaxa: A Herança?",
+                    "alternativas": [
+                        {
+                            "texto": "Fúria, Fulgor, Ferrão",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Drama, Diálogo, Dueto",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Marmelo, Marchello, Martelin",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Perdão, Paciência, Paz",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Onde estava escondida a bomba que o Paper tentou desarmar no episódio 4: Pacto John Lennon?",
+                    "alternativas": [
+                        {
+                            "texto": "No banheiro",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Na mesa",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Debaixo da cadeira",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Num carro",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Qual foi a visão da cavaleira Violeta no episódio 8 do RPGuaxa: Cavaleiros do arco-íris?",
+                    "alternativas": [
+                        {
+                            "texto": "O Cavaleiro Amarelo Salvando seu bebê",
+                            "correto": false
+                        },
+                        {
+                            "texto": "A Cavaleira Verde caindo no chão",
+                            "correto": false
+                        },
+                        {
+                            "texto": "O Cavaleiro Vermelho sendo morto",
+                            "correto": false
+                        },
+                        {
+                            "texto": "O Cavaleiro Anil quebrando a janela da igreja",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Qual era a fraqueza do Carlos no episódio 9 do RPGuaxa: Nada de novo em Raccoon Town?",
+                    "alternativas": [
+                        {
+                            "texto": "Cílios",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Unhas",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Dentes",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Cobre",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "O que estava amarrado no chifre do Z-28 no episódio 10 do RPGuaxa: Especial de natal?",
+                    "alternativas": [
+                        {
+                            "texto": "Uma chave",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Uma lança",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Uma guirlanda",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Um cupcake",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Qual o nome da sacerdotisa do episódio 87 - O Verão da Cigarra?",
+                    "alternativas": [
+                        {
+                            "texto": "Astrid",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Kelly",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Yasmin",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Ângela",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Fabíola Belo"]
+                },
+                {
+                    "pergunta": "Qual o nome do guaxinim que aparece no episódio 107 - Cera?",
+                    "alternativas": [
+                        {
+                            "texto": "Cocada",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Paçoca",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Goiabada",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Marmelo",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Fabíola Belo"]
+                },
+                {
+                    "pergunta": "Em qual episódio foi a primeira participação de Felipe Xavier como jogador?",
+                    "alternativas": [
+                        {
+                            "texto": "Úrsula (5)",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Madruguinha do Oeste (13)",
+                            "correto": true
+                        },
+                        {
+                            "texto": "O Mistério de Rita (18)",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Os Cavaleiros do Bicho e a Cinderela do Baile (20)",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Fabíola Belo"]
+                },
+                {
+                    "pergunta": "Qual o primeiro episódio do RPGuaxa a ter um Guaxaverso?",
+                    "alternativas": [
+                        {
+                            "texto": "Pão, Margarina e um Meteoro (89)",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Os Cavaleiros do Bicho e a Cinderela do Baile (20)",
+                            "correto": false
+                        },
+                        {
+                            "texto": "A Fazenda do Seu Natalino (97)",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Sanatório Hollywood (21)",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Fabíola Belo"]
+                },
+                {
+                    "pergunta": "Qual é a marca registrada das personagens interpretadas/jogadas pela jogadora Cinara?",
+                    "alternativas": [
+                        {
+                            "texto": "Uma piscadela",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Um tapa na cara",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Um beliscão",
+                            "correto": true
+                        },
+                        {
+                            "texto": "\"Atire primeiro, pergunte depois\"",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Jean Macedo"]
+                },
+                {
+                    "pergunta": "Qual era o nome do grande herói que, com seus 7 companheiros, fundou os lendários Cavaleiros do Arco-íris?",
+                    "alternativas": [
+                        {
+                            "texto": "Winston",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Azhad",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Caim",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Ararat",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["Jean Macedo"]
+                },
+                {
+                    "pergunta": "O sistema Guaxinins & Gambiarras é inspirado em qual sistema?",
+                    "alternativas": [
+                        {
+                            "texto": "FATE acelerado",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Honey Heist",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Guaxa no Guaxaverso",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Lasers e Sentimentos",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                }
+            ]
+        },
+        {
+            "nivel": "dificil",
+            "questoes": [
+                {
+                    "pergunta": "Qual o nome que os Fermats deram para sua terra no episódio Úrsula (5)?",
+                    "alternativas": [
+                        {
+                            "texto": "Garganir",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Lora",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Zarco",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Itiê",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "O que foi roubado da loja em frente ao bar no episódio 6 do RPGuaxa: Billie Jean?",
+                    "alternativas": [
+                        {
+                            "texto": "Caixa de cerveja",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Arma",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Televisão",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Gasolina",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Qual o nome da cidade da universidade do episódio 7 do RPGuaxa: A Sombra de Tuluiazu?",
+                    "alternativas": [
+                        {
+                            "texto": "Grenville",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Nova Orleans",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Washington",
+                            "correto": false
+                        },
+                        {
+                            "texto": "La Paz",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Quantas vezes a Armadura de Coelho dos Cavaleiros do Bicho, foi vestida por pessoas diferentes que já apareceram nos episódios do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "1 vez",
+                            "correto": false
+                        },
+                        {
+                            "texto": "2 vezes",
+                            "correto": false
+                        },
+                        {
+                            "texto": "3 vezes",
+                            "correto": true
+                        },
+                        {
+                            "texto": "4 vezes",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Jean Macedo"]
+                },
+                {
+                    "pergunta": "Quem foi a Orquiza que se tornou Rainha e selou a paz entre povos de raças diferentes, ao selar um casamento entre Orcs e Humanos?",
+                    "alternativas": [
+                        {
+                            "texto": "Ameaça Silenciosa",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Pote de Mel",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Runa, Espada Negra",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Rita",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["Jean Macedo"]
+                }
+            ]
+        }
+    ]
+}
