@@ -40,7 +40,7 @@ body {
   box-shadow: 0 0 5px var(--main-color);
   margin: 30px;
   padding: 20px;
-  height: 50vh;
+  height: 70vh;
   display: flex;
   justify-content: center;
   margin-top: 2rem;
@@ -110,7 +110,7 @@ p {
 }
 
 .input-criacao:focus {
-  background: var(--main-color, #5abc5a);
+  background: var(--main-color);
   color: white;
   /* Adicione qualquer estilo extra para o estado de foco, se desejar */
   box-shadow: 0 0 5px rgba(255, 255, 255, 0.5); /* Exemplo: sombra sutil */

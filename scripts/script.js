@@ -460,11 +460,11 @@ function carregarPergunta() {
         // Se ainda houver perguntas, carrega a próxima pergunta
         if (indiceAtual < 15) {
           carregarPergunta(); // Carrega a próxima pergunta
-        }  
+        } else {
+          finalizarJogo();
+        } 
       } else {
-        // Se não houver mais perguntas ou se a pessoa errar, finaliza o jogo
-        //organizar diferentes fins de jogo
-        finalizarJogo();
+        mostrarDerrota();
       }
     };
 
@@ -486,7 +486,16 @@ function verificarNivel() {
 
 //Função para mostrar a tela final
 function finalizarJogo() {
-  textoFinal.innerHTML = `Você acertou ${acertos} de ${perguntas.length}`; // Exibe o resultado
+  textoFinal.innerHTML = `Parabéns, ${nomeJogador}! Você acertou todas as perguntas sobre o RPGuaxa e ganhou UM MILHÃO DE GUAXININS! <br>
+  Quer dizer, você ganhou o Show do Guaxão, este questionário feito para celebrar os 200 episódios do nosso amado podcast! <br>
+  Por que não tentar novamente? São muitas perguntas diferentes!`; // Exibe o resultado
+  conteudo.style.display = "none"; // Esconde as perguntas
+  conteudoFinal.style.display = "flex"; // Mostra a tela final
+}
+
+//Função para mostrar a tela no caso de derrota
+function mostrarDerrota() {
+  textoFinal.innerHTML = `Que pena, ${nomeJogador}! Você errou a pergunta ${indiceAtual+1}! Por que não tentar de novo?`;
   conteudo.style.display = "none"; // Esconde as perguntas
   conteudoFinal.style.display = "flex"; // Mostra a tela final
 }
