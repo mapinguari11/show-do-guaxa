@@ -138,6 +138,29 @@
                         
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "Quais são os nomes das 4 gatas do primeiro episódio do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Dora, Erick, Flávio e Romildo",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Leia, Nala, Traça e Branca de Neve",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Grum, Dedé, Gabriel e Lilith",
+                            "correto": false
+                        },
+                        {
+                            "texto":"Lari, Pines, Apple e Blueberry",
+                            "correto": false
+                        }
+                        
+                    ],
+                    "autoria": ["anônimo"]
                 }
             ]
         },
@@ -451,6 +474,116 @@
                         }
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "Há uma linhagem de anões que aparece mais de uma vez nos episódios de fantasia medieval do RPGuaxa. O primeiro deles é Murin. O segundo, seu descendente distante, é Sorin. Qual o sobrenome dos pertencentes a essa linhagem?",
+                    "alternativas": [
+                        {
+                            "texto": "FerroForte",
+                            "correto": false
+                        },
+                        {
+                            "texto": "CherryShelly",
+                            "correto": false
+                        },
+                        {
+                            "texto": "ForjaPrata",
+                            "correto": true
+                        },
+                        {
+                            "texto": "HammerFist",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Qual é o - suposto - nome da organização liderada pela magnata do submundo: Pietro Dante?",
+                    "alternativas": [
+                        {
+                            "texto": "Circo dos Horrores",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Garra do Corvo",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Família Trapani",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Irmãos Marcelo",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Quais são os 3 morros protegidos pelo atual trio de Cavaleiros do Bicho?",
+                    "alternativas": [
+                        {
+                            "texto": "Morros do Coelho, do Tigre e do Cachorro",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Morros do Burrinho, do Coelho, e do Gato",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Morros da Cobra, do Tigre e do Cavalo",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Morros do Jacaré, do Galo e do Touro",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Qual jogador(a) participou de 3 episódios seguidos?",
+                    "alternativas": [
+                        {
+                            "texto": "Juliana Leyva",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Shelly",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Jean Macedo",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Felipe Xavier",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Quem foi o vencedor do MonsterChef?",
+                    "alternativas": [
+                        {
+                            "texto": "Lupita",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Xavi",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Mixora",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Gordon Ramsés",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -566,6 +699,50 @@
                         }
                     ],
                     "autoria": ["Jean Macedo"]
+                },
+                {
+                    "pergunta": "Quantos guizos tem o chapéu da Boba?",
+                    "alternativas": [
+                        {
+                            "texto": "3",
+                            "correto": true
+                        },
+                        {
+                            "texto": "2",
+                            "correto": false
+                        },
+                        {
+                            "texto": "4",
+                            "correto": false
+                        },
+                        {
+                            "texto": "5",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Tera e Keka são que tipo de animais?",
+                    "alternativas": [
+                        {
+                            "texto": "Pássaros",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Gatos",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Uncórnios",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Guaxinins",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         }

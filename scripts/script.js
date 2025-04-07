@@ -378,8 +378,8 @@ let atributoJogador;
 //Variáveis para controle do jogo
 let indiceAtual = 0; // Índice da pergunta atual
 //let acertos = 0; // Contador de acertos (para modo teste?)
-let indiceNivel = 0;
 let nivelPerguntas = 0; //para nível de dificuldade
+let perguntasSorteadas = []; //para armazenar perguntas, para não repetir
 
 //Função para iniciar o jogo
 function iniciarJogo() {
@@ -431,11 +431,19 @@ function carregarPergunta() {
     progressoElemento.innerHTML = `${indiceAtual+1}/Nível Difícil`;
   }
 
-  if (indiceNivel > 4) {
-    indiceNivel = 0;
+  //tentativa para randomizar a ordem das perguntas
+  let indiceAleatorio = Math.floor(Math.random() * (perguntas[nivelPerguntas].questoes.length));
+
+  const perguntaAtual = perguntas[nivelPerguntas].questoes[indiceAleatorio]; // Pega a pergunta atual
+  
+  //verificar se a pergunta escolhida já foi sorteada. Caso sim, faz novo sorteio. Caso não, inclui na lista de sorteadas e prossegue
+  if (perguntasSorteadas.includes(perguntaAtual.pergunta)) {
+    return carregarPergunta();
+  } else {
+    perguntasSorteadas.push(perguntaAtual.pergunta);
+    console.log(perguntasSorteadas);
   }
 
-  const perguntaAtual = perguntas[nivelPerguntas].questoes[indiceNivel]; // Pega a pergunta atual
   perguntaElemento.innerHTML = perguntaAtual.pergunta; // Exibe a pergunta
 
   respostasElemento.innerHTML = ""; // Limpa as respostas anteriores
@@ -456,7 +464,6 @@ function carregarPergunta() {
       if (alternativa.correto) {
       // Avança para a próxima pergunta
         indiceAtual++;
-        indiceNivel++;
         // Se ainda houver perguntas, carrega a próxima pergunta
         if (indiceAtual < 15) {
           carregarPergunta(); // Carrega a próxima pergunta
