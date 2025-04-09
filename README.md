@@ -1,5 +1,5 @@
 # SHOW DO GUAXÃO 🦝🎙️
-Este é um quiz, no estilo "Show do Milhão", para celebrar o episódio 200 do podcast [Realidades Paralelas do Guaxinim (PRGuaxa)] (https://www.deviante.com.br/podcasts/rpguaxa/)
+Este é um quiz, no estilo "Show do Milhão", para celebrar o episódio 200 do podcast [Realidades Paralelas do Guaxinim (PRGuaxa)](https://www.deviante.com.br/podcasts/rpguaxa/)
 
 ## Linguagens 💻
 O projeto utiliza HTML, CSS e JavaScript, consumindo dois arquivos JSON.
@@ -35,7 +35,7 @@ Será disponibilizada uma lista com os nomes de todas as pessoas que contribuír
 ## Desenvolvimento 🧩
 O responsável pelo quiz é Allan Penoni.
 
-As perguntas do quiz são criadas de forma colaborativa, através de envios dos ouvintes do podcast por um [formulário disponível online] (https://forms.gle/3nawWDW98icCsEGy6).
+As perguntas do quiz são criadas de forma colaborativa, através de envios dos ouvintes do podcast por um [formulário disponível online](https://forms.gle/3nawWDW98icCsEGy6).
 
 ## Colaborações 🎁
 **Sugestões de perguntas**
