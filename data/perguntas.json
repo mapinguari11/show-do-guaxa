@@ -161,6 +161,74 @@
                         
                     ],
                     "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Qual o nome dos episódios de leitura de comentários?",
+                    "alternativas": [
+                        {
+                            "texto": "Guaxaverso",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Escudo do Mestre",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Fala, Guaxa!",
+                            "correto": false
+                        },
+                        {
+                            "texto":"Epílogo",
+                            "correto": false
+                        }
+                        
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "O que acontece se o jogador tira o seu atributo no dado?",
+                    "alternativas": [
+                        {
+                            "texto": "É um acerto crítico",
+                            "correto": true
+                        },
+                        {
+                            "texto": "É um erro crítico",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Ele rola mais um dado",
+                            "correto": false
+                        },
+                        {
+                            "texto":"Ele recupera todos os pontos de vida",
+                            "correto": false
+                        }
+                        
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em que ano foi publicado o primeiro episódio do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "2017",
+                            "correto": false
+                        },
+                        {
+                            "texto": "2018",
+                            "correto": true
+                        },
+                        {
+                            "texto": "2019",
+                            "correto": false
+                        },
+                        {
+                            "texto": "2020",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -564,6 +632,28 @@
                     "autoria": ["anônimo"]
                 },
                 {
+                    "pergunta": "Cherry Shelly aparece em um episódio cujo título faz referência a qual cantora?",
+                    "alternativas": [
+                        {
+                            "texto": "Lady Gaga",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Shakira",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Katy Perry",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Beyoncé",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
                     "pergunta": "Quem foi o vencedor do MonsterChef?",
                     "alternativas": [
                         {
@@ -580,6 +670,94 @@
                         },
                         {
                             "texto": "Gordon Ramsés",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "No primeiro ano em que o RPGuaxa foi publicado (ou seja, terminando em dezembro do ano de lançamento do podcast), quantos episódios foram lançados?",
+                    "alternativas": [
+                        {
+                            "texto": "7",
+                            "correto": false
+                        },
+                        {
+                            "texto": "8",
+                            "correto": false
+                        },
+                        {
+                            "texto": "9",
+                            "correto": false
+                        },
+                        {
+                            "texto": "10",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem foi a primeira madrinha a jogar em um episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "Luana Sabijon",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Ágata Sofia",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Agatha",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Cinara",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Um episódio começou com 5 jogadores. Qual foi?",
+                    "alternativas": [
+                        {
+                            "texto": "O Solo de Lídia",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Na Sombra das Ondas",
+                            "correto": false
+                        },
+                        {
+                            "texto": "O Reflexo de Tuluiazu",
+                            "correto": true
+                        },
+                        {
+                            "texto": "A Sombra de Tuluiazu",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual desses objetos não foi resgatado de Tuluiazu?",
+                    "alternativas": [
+                        {
+                            "texto": "Chapéu de palha",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Ídolo de ouro",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Pergaminhos",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Moeda",
                             "correto": false
                         }
                     ],
@@ -740,6 +918,72 @@
                         {
                             "texto": "Guaxinins",
                             "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Vô Lipe e a Volta do Saci, o que foi usado para enfrentar o lobisomem?",
+                    "alternativas": [
+                        {
+                            "texto": "Um rosário abençoado",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Um crucifixo com óleo bento",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Uma laranja com espinhos",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Um sapato de salto alto",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi o primeiro episódio a ter jogadores que foram convidados a participar por serem padrinhos?",
+                    "alternativas": [
+                        {
+                            "texto": "Madruguinha do Oeste",
+                            "correto": false
+                        },
+                        {
+                            "texto": "O Suicídio de Anthony C. Smith",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Nada de Novo em Raccoon Town",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Pacto Raul",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Contos da Meia-Noite - Letícia, qual era o número do episódio que relatava a história da única sobrevivente?",
+                    "alternativas": [
+                        {
+                            "texto": "137",
+                            "correto": false
+                        },
+                        {
+                            "texto": "183",
+                            "correto": false
+                        },
+                        {
+                            "texto": "182",
+                            "correto": false
+                        },
+                        {
+                            "texto": "152",
+                            "correto": true
                         }
                     ],
                     "autoria": []

@@ -8,34 +8,51 @@
 
 </head>
 <body>
-<div class="sidebar">
-  <nav class="sidebar__navigation"></nav>
-</div>
-<div class="logo">
-    <img src="" alt="" />
-  </div>
-
   <div class="titulo">
     <h2>SHOW DO GUAXÃO</h2>
-</div>
-
-  <div class="conteudo-jogo">
-    <section class="questionario">
-      <div class="conteudo">
-        <span class="progresso"></span>
-        <span class="pergunta"></span>
-        <div class="respostas">
-          <input type="text" class="input-criacao" id="input-nome" placeholder="Digite seu nome">
-          <input type="text" class="input-criacao" id="input-atributo" placeholder="Digite seu atributo (2, 3, 4 ou 5)">
-          <button onclick="validarAtributo()" class="botao-enviar" id="botao-enviar">Enviar</button>
-          <button onclick="limparTela()" class="botao-enviar hidden" id="botao-iniciar">Iniciar!</button>
-        </div>
+  </div>
+  <div class="jogo">
+    <div class="sidebar">
+      <a href="">Regras do jogo</a>
+      <div class="ajudas">
+        <p>Ajudas</p>
+        <span class="span-ajuda">
+          <img src="./src/mic.png" alt="microfone e fones de ouvido" class="img-ajudas">
+          <p>Personagem Convidado</p>
+        </span>
+        <span class="span-ajuda">
+          <img src="./src/corrida.png" alt="carro de corrida dourado" class="img-ajudas">
+          <p>Corrida contra Personagens</p>
+        </span>
+        <span class="span-ajuda">
+          <img src="./src/grafico.png" alt="gráfico de barras com quatro barras coloridas" class="img-ajudas">
+          <p>Porcentagens dos Padrinhos</p>
+        </span>
       </div>
-
-      <div class="fim">
-        <span></span>
-       
+    </div>
+    <div class="logo">
+        <img src="" alt="" />
       </div>
+    
+      <div class="conteudo-jogo">
+        <section class="questionario">
+          <div class="conteudo">
+            <span class="progresso"></span>
+            <span class="pergunta"></span>
+            <div class="respostas">
+              <input type="text" class="input-criacao" id="input-nome" placeholder="Digite seu nome">
+              <input type="text" class="input-criacao" id="input-atributo" placeholder="Digite seu atributo (2, 3, 4 ou 5)">
+              <button onclick="validarAtributo()" class="botao-enviar" id="botao-enviar">Enviar</button>
+              <button onclick="limparTela()" class="botao-enviar hidden" id="botao-iniciar">Iniciar!</button>
+            </div>
+          </div>
+    
+          <div class="fim">
+            <span></span>
+           
+          </div>
+  </div>
+
     </section>
   </div>
 </body>
