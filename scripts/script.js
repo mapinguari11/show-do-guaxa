@@ -423,6 +423,7 @@ const campoNomeEpisodio = document.getElementById('nome-episodio'); //para o epi
 const ajudas = document.getElementById('ajudas');
 const sidebar = document.getElementById('sidebar');
 const interacaoAjuda = document.getElementById('interacao-ajuda');
+const campoFalaConvidado = document.getElementById('fala-convidado');
 
 //Informações do jogador
 let nomeJogador;
@@ -579,9 +580,13 @@ function convidarPersonagem() {
     interacaoAjuda.classList.remove('hidden');
 
     //apresentar informações do personagem convidado (nome, jogador, episódio(s) que participou). Usar pronomes corretos e plural ou singular para falar do episódio em que ele esteve persente.
-    campoNomePersonagem.innerText = personagemConvidado.personagem;
-    campoNomeJogador.innerText = personagemConvidado.interprete;
-    campoNomeEpisodio.innerText = personagemConvidado.episodio.join(', ');
+    if (personagemConvidado.personagem === 'Marcelo Guaxinim') {
+        campoFalaConvidado.innerHTML = "Olá! Eu sou o <strong>Marcelo Guaxinim</strong>, narrador, produtor e idealizador do podcast <strong>Realidades Paralelas do Guaxinim</strong> e... eu estou aqui para ajudar você! Aperte o botão Resposta e eu vou te dar a resposta da sua pergunta!";
+    } else {
+        campoNomePersonagem.innerText = personagemConvidado.personagem;
+        campoNomeJogador.innerText = personagemConvidado.interprete;
+        campoNomeEpisodio.innerText = personagemConvidado.episodio.join(', ');
+    }
 }
 
 //rolar 2d6: se crítico: 3 pts. se acerto: 1 pt. se erro: 0 pt.
