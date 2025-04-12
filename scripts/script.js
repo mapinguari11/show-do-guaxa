@@ -1,7 +1,7 @@
 //###VARIÁVEIS GERAIS###
 //Lista de perguntas e respostas
 let perguntasRPGuaxa; // Variável global para armazenar o JSON
-// pequena mostra para testes
+// pequena mostra de perguntas para testes
 const perguntas = [
   {
     "nivel": "Fácil",
@@ -353,6 +353,53 @@ const perguntas = [
   }
 ]; 
 
+//pequena mostra de personagens para testes das ajudas.
+const personagensConvidados = [
+    {
+        "personagem": "Anísia",
+        "interprete": "Shelly",
+        "episodio": ["Os Cavaleiros do Bicho e a Cinderela do Baile", "Cavaleiros do Bicho vs Sao Paolo", "Cavaleiros do Bicho Parte 3", "Os Cavaleiros do Bicho: A Batalha Final"],
+        "pronome": "Ela"
+    },
+    {
+        "personagem": "Gulliver",
+        "interprete": "Gus",
+        "episodio": ["A Voz da Garotinha"],
+        "pronome": "Ele"
+    },
+    {
+        "personagem": "Josephine Trambley",
+        "interprete": "Isabela Fontanella",
+        "episodio": ["O tipo certo de garota"],
+        "pronome": "Ela"
+    },
+    {
+        "personagem": "Loreanne",
+        "interprete": "Jujuba",
+        "episodio": ["Onde está o Natal norte coreano?", "O Natal do Cauê", "O Fim do Natal"],
+        "pronome": "Ela"
+    },
+    {
+        "personagem": "Marcelo Guaxinim",
+        "interprete": "Marcelo Guaxinim",
+        "episodio": ["RPG na Educação (SciCast#593)"],
+        "pronome": "Ele"
+    },
+    {
+        "personagem": "Sofia Melosa",
+        "interprete": "Ágata Sofia",
+        "episodio": ["O Poderoso N"],
+        "pronome": "Ela"
+    },
+    {
+        "personagem": "Xaví",
+        "interprete": "Allan Penoni",
+        "episodio": ["MonsterChef"],
+        "pronome": "Elu"
+    }
+]
+
+
 //Quando o código estiver pronto, esta deve ser a primeira função chamada.
 async function importarPerguntas() {
   const resposta = await fetch('../data/perguntas.json')
@@ -370,16 +417,26 @@ const progressoElemento = document.querySelector(".progresso");
 const textoFinal = document.querySelector(".fim span");
 const conteudo = document.querySelector(".conteudo");
 const conteudoFinal = document.querySelector(".fim");
+const campoNomePersonagem = document.getElementById('nome-personagem'); //para o nome do personagem convidado
+const campoNomeJogador = document.getElementById('nome-jogador'); //para o nome do jogador que interpretou o personagem
+const campoNomeEpisodio = document.getElementById('nome-episodio'); //para o episódio em que o personagem convidado participou
+const ajudas = document.getElementById('ajudas');
+const sidebar = document.getElementById('sidebar');
+const interacaoAjuda = document.getElementById('interacao-ajuda');
 
 //Informações do jogador
 let nomeJogador;
 let atributoJogador;
 
 //Variáveis para controle do jogo
+const umDSeis = () => Math.floor(Math.random() * 6) + 1;
 let indiceAtual = 0; // Índice da pergunta atual
 //let acertos = 0; // Contador de acertos (para modo teste?)
 let nivelPerguntas = 0; //para nível de dificuldade
 let perguntasSorteadas = []; //para armazenar perguntas, para não repetir
+let perguntaFeita; //armazena todas as informações da pergunta atual, incluindo .pergunta e .alternativa[i]
+let personagensSorteados = [];
+
 
 //Função para iniciar o jogo
 function iniciarJogo() {
@@ -442,6 +499,7 @@ function carregarPergunta() {
   } else {
     perguntasSorteadas.push(perguntaAtual.pergunta);
     console.log(perguntasSorteadas);
+    perguntaFeita = perguntaAtual; //para permitir resgatar a pergunta fora dessa função
   }
 
   perguntaElemento.innerHTML = perguntaAtual.pergunta; // Exibe a pergunta
@@ -506,6 +564,58 @@ function mostrarDerrota() {
   conteudo.style.display = "none"; // Esconde as perguntas
   conteudoFinal.style.display = "flex"; // Mostra a tela final
 }
+
+//Função para ajuda "Personagem convidado"
+function convidarPersonagem() {
+    console.log("botão clicado");
+//sortear personagem da lista personagensConvidados
+    let personagemConvidado = personagensConvidados[(Math.floor(Math.random()*personagensConvidados.length))];
+    if (personagensSorteados.includes(personagemConvidado)) {
+        return convidarPersonagem();
+    }
+    personagensSorteados.push(personagemConvidado);
+
+    sidebar.classList.add('hidden');
+    interacaoAjuda.classList.remove('hidden');
+
+    //apresentar informações do personagem convidado (nome, jogador, episódio(s) que participou). Usar pronomes corretos e plural ou singular para falar do episódio em que ele esteve persente.
+    campoNomePersonagem.innerText = personagemConvidado.personagem;
+    campoNomeJogador.innerText = personagemConvidado.interprete;
+    campoNomeEpisodio.innerText = personagemConvidado.episodio.join(', ');
+}
+
+//rolar 2d6: se crítico: 3 pts. se acerto: 1 pt. se erro: 0 pt.
+//calcular pts: 
+
+function testarConvidado() {
+    let dado1 = umDSeis();
+    let dado2 = umDSeis();
+    let pontosDoTeste = 0;
+    
+    if (dado1 == atributoJogador) {
+        pontosDoTeste +=3;
+    } else if ( dado1 > atributoJogador) {
+        pontosDoTeste += 1;
+    }
+
+    if (dado2 == atributoJogador) {
+        pontosDoTeste +=3;
+    } else if ( dado2 > atributoJogador) {
+        pontosDoTeste += 1;
+    }
+
+    //definindo a resposta do personagem
+    switch (pontosDoTeste) {
+        case pontosDoTeste>=3: //o personagem tem certeza e a resposta está certa.
+        break;
+        case pontosDoTeste===2: //o personagem tem quase certeza e a resposta está certa.
+        break;
+        case pontosDoTeste===1: //um novo teste é feito, com um dado. Se é um acerto, o personagem acerta, mas sem certeza. Se é um erro, o personagem erra, mas sem certeza.
+        break;
+        default: //o personagem erra achando que está certo
+    }
+}    
+
 
 //Iniciando o jogo pela primeira vez
 iniciarJogo();

@@ -12,23 +12,30 @@
     <h2>SHOW DO GUAXÃO</h2>
   </div>
   <div class="jogo">
-    <div class="sidebar">
+    <div class="sidebar" id="sidebar">
       <a href="">Regras do jogo</a>
-      <div class="ajudas">
+      <div class="ajudas" id="ajudas">
         <p>Ajudas</p>
-        <span class="span-ajuda">
+        <button class="button-ajuda" onclick="convidarPersonagem()">
           <img src="./src/mic.png" alt="microfone e fones de ouvido" class="img-ajudas">
           <p>Personagem Convidado</p>
-        </span>
-        <span class="span-ajuda">
+        </button>
+        <button class="button-ajuda">
           <img src="./src/corrida.png" alt="carro de corrida dourado" class="img-ajudas">
           <p>Corrida contra Personagens</p>
-        </span>
-        <span class="span-ajuda">
+        </button>
+        <button class="button-ajuda">
           <img src="./src/grafico.png" alt="gráfico de barras com quatro barras coloridas" class="img-ajudas">
           <p>Porcentagens dos Padrinhos</p>
-        </span>
+        </button>
       </div>
+    </div>
+    <div class="sidebar hidden" id="interacao-ajuda">
+      <img src="./src/telefone.png" alt="telefone verde" class="img-convidado">
+      <span class="apresentacao-convidado" id="apresentacao-convidado">
+        <p>Alô! Aqui é <strong id="nome-personagem"></strong>. Lembra de mim? Quem me interpretou foi <strong id="nome-jogador"></strong> em <strong id="nome-episodio"></strong>! Estou aqui para te ajudar. Aperte o botão abaixo e eu vou ler a pergunta e darei minha resposta.</p>
+        <button class="botao-enviar" onclick="">Resposta</button>
+      </span>
     </div>
     <div class="logo">
         <img src="" alt="" />
