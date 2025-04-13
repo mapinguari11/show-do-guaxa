@@ -229,6 +229,50 @@
                         }
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "Em geral, quantos jogadores tem um episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "5",
+                            "correto": false
+                        },
+                        {
+                            "texto": "4",
+                            "correto": false
+                        },
+                        {
+                            "texto": "3",
+                            "correto": true
+                        },
+                        {
+                            "texto": "2",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quantas jogadoras participaram do primeiro episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "1",
+                            "correto": false
+                        },
+                        {
+                            "texto": "2",
+                            "correto": false
+                        },
+                        {
+                            "texto": "3",
+                            "correto": false
+                        },
+                        {
+                            "texto": "4",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -459,7 +503,7 @@
                     "pergunta": "Qual o primeiro episódio do RPGuaxa a ter um Guaxaverso?",
                     "alternativas": [
                         {
-                            "texto": "Pão, Margarina e um Meteoro (89)",
+                            "texto": "Acredite! (57)",
                             "correto": true
                         },
                         {
@@ -471,11 +515,11 @@
                             "correto": false
                         },
                         {
-                            "texto": "Sanatório Hollywood (21)",
+                            "texto": "Pão, Margarina e um Meteoro (89)",
                             "correto": false
                         }
                     ],
-                    "autoria": ["Fabíola Belo"]
+                    "autoria": ["Fabíola Belo", "anônimo"]
                 },
                 {
                     "pergunta": "Qual é a marca registrada das personagens interpretadas/jogadas pela jogadora Cinara?",
@@ -742,7 +786,7 @@
                     "autoria": []
                 },
                 {
-                    "pergunta": "Qual desses objetos não foi resgatado de Tuluiazu?",
+                    "pergunta": "Qual desses objetos não está relacionado com Tuluiazu?",
                     "alternativas": [
                         {
                             "texto": "Chapéu de palha",
@@ -753,11 +797,55 @@
                             "correto": true
                         },
                         {
-                            "texto": "Pergaminhos",
+                            "texto": "Violino",
                             "correto": false
                         },
                         {
                             "texto": "Moeda",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual é o primeiro pacto?",
+                    "alternativas": [
+                        {
+                            "texto": "John Lennon",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Raul",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Belchior",
+                            "correto": false
+                        },
+                        {
+                            "texto": "EVA",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o nome do episódio 100?",
+                    "alternativas": [
+                        {
+                            "texto": "Quando Você Morre?",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Águas Passadas",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Nina",
+                            "correto": false
+                        },
+                        {
+                            "texto": "TÉO",
                             "correto": false
                         }
                     ],
@@ -984,6 +1072,28 @@
                         {
                             "texto": "152",
                             "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual desses elementos da cultura pop não é referenciado no episódio O Lobo?",
+                    "alternativas": [
+                        {
+                            "texto": "Abracadabra (Hocus Pocus)",
+                            "correto": false
+                        },
+                        {
+                            "texto": "My Chemical Romance",
+                            "correto": false
+                        },
+                        {
+                            "texto": "A Bússola de Ouro",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Largados e Pelados (Naked and Afraid)",
+                            "correto": false
                         }
                     ],
                     "autoria": []
