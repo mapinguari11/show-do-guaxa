@@ -438,6 +438,7 @@ let perguntasSorteadas = []; //para armazenar perguntas, para não repetir
 let perguntaFeita; //armazena todas as informações da pergunta atual, incluindo .pergunta e .alternativa[i]
 let personagensSorteados = [];
 
+//FUNÇÕES DO FLUXO DO JOGO
 
 //Função para iniciar o jogo
 function iniciarJogo() {
@@ -471,7 +472,6 @@ function validarAtributo() {
 function limparTela() {
   perguntaElemento.textContent = "";
   botaoIniciar.classList.add("hidden");
-  console.log("Tudo limpo!");
   carregarPergunta();
 }
 
@@ -479,8 +479,6 @@ function limparTela() {
 function carregarPergunta() {
   verificarNivel(); //verifica nível antes de exibir pergunta
 
-  //Exibir número da pergunta e nível da pergunta atual
-  console.log(`Indice atual ${indiceAtual}, nivel de perguntas ${nivelPerguntas}`)
   if (nivelPerguntas === 0) {
     progressoElemento.innerHTML = `${indiceAtual+1}/Nível Fácil`;
   } else if (nivelPerguntas === 1) {
@@ -489,7 +487,7 @@ function carregarPergunta() {
     progressoElemento.innerHTML = `${indiceAtual+1}/Nível Difícil`;
   }
 
-  //tentativa para randomizar a ordem das perguntas
+  //randomiza a ordem das perguntas
   let indiceAleatorio = Math.floor(Math.random() * (perguntas[nivelPerguntas].questoes.length));
 
   const perguntaAtual = perguntas[nivelPerguntas].questoes[indiceAleatorio]; // Pega a pergunta atual
@@ -568,7 +566,10 @@ function mostrarDerrota() {
 
 //Função para ajuda "Personagem convidado"
 function convidarPersonagem() {
-    console.log("botão clicado");
+    if (perguntasSorteadas.length === 0) {
+        alert('As ajudas só são liberadas quando o jogo começa!');
+        return;
+    }
 //sortear personagem da lista personagensConvidados
     let personagemConvidado = personagensConvidados[(Math.floor(Math.random()*personagensConvidados.length))];
     if (personagensSorteados.includes(personagemConvidado)) {
@@ -581,7 +582,7 @@ function convidarPersonagem() {
 
     //apresentar informações do personagem convidado (nome, jogador, episódio(s) que participou). Usar pronomes corretos e plural ou singular para falar do episódio em que ele esteve persente.
     if (personagemConvidado.personagem === 'Marcelo Guaxinim') {
-        campoFalaConvidado.innerHTML = "Olá! Eu sou o <strong>Marcelo Guaxinim</strong>, narrador, produtor e idealizador do podcast <strong>Realidades Paralelas do Guaxinim</strong> e... eu estou aqui para ajudar você! Aperte o botão Resposta e eu vou te dar a resposta da sua pergunta!";
+        campoFalaConvidado.innerHTML = "Olá! Eu sou o <strong>Marcelo Guaxinim</strong>, narrador, produtor e idealizador do podcast <strong>Realidades Paralelas do Guaxinim</strong> e... eu estou aqui para ajudar você! Aperte o botão Resposta e eu vou te ajudar com a pergunta!";
     } else {
         campoNomePersonagem.innerText = personagemConvidado.personagem;
         campoNomeJogador.innerText = personagemConvidado.interprete;
