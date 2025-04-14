@@ -3,13 +3,13 @@ Este é um quiz, no estilo "Show do Milhão", para celebrar o episódio 200 do p
 
 | Tabela de Conteúdos |
 |---------------------|
-| [Lançamento](##lançamento) |
-| [Andamento do projeto](##andamento-do-projeto) |
-| [Linguagens](##linguagens) |
-| [Features planejadas](##features-planejadas) |
-| [Desenvolvimento](##desenvolvimento) |
-| [Colaborações](##colaborações) |
-| [Agradecimentos](##agradecimentos) |
+| [Lançamento](##lançamento-) |
+| [Andamento do projeto](##andamento-do-projeto-) |
+| [Linguagens](##linguagens-) |
+| [Features planejadas](##features-planejadas-) |
+| [Desenvolvimento](##desenvolvimento-) |
+| [Colaborações](##colaborações-) |
+| [Agradecimentos](##agradecimentos-) |
 
 ## Lançamento 📅
 A previsão do lançamento do projeto é 11/9/2025, uma semana antes do lançamento do episódio 200, que deve sair no dia 18/9/2025 (se a programação continuar 1 episódio a cada 15 dias). Se houver mudança na programação do podcast, a gente muda aqui também!
@@ -30,11 +30,11 @@ A previsão do lançamento do projeto é 11/9/2025, uma semana antes do lançame
 O projeto utiliza HTML, CSS e JavaScript, consumindo dois arquivos JSON.
 
 ## Features planejadas 🗒️
-- [Modo clássico](###modo-clássico)
-- [Modo endurance](###modo-endurance)
-- [Sistema de ajudas](###ajudas)
-- [Explicação das regras](###explicação-das-regras)
-- [Lista de colaboradores do projeto](###lista-de-colaboradores-do-projeto) 
+- [Modo clássico](###modo-clássico-)
+- [Modo endurance](###modo-endurance-)
+- [Sistema de ajudas](###ajudas-)
+- [Explicação das regras](###explicação-das-regras-)
+- [Lista de colaboradores do projeto](###lista-de-colaboradores-do-projeto-) 
 
 ### Modo clássico 🕹️
 O jogo terá 15 perguntas, divididas em 3 níveis: fácil, médio e difícil. As perguntas serão aleatórias, recebidas de um arquivo JSON.
