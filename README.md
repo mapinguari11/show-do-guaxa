@@ -1,15 +1,40 @@
 # SHOW DO GUAXÃO 🦝🎙️
 Este é um quiz, no estilo "Show do Milhão", para celebrar o episódio 200 do podcast [Realidades Paralelas do Guaxinim (PRGuaxa)](https://www.deviante.com.br/podcasts/rpguaxa/)
 
+| Tabela de Conteúdos |
+|---------------------|
+| [Lançamento](##lançamento) |
+| [Andamento do projeto](##andamento-do-projeto) |
+| [Linguagens](##linguagens) |
+| [Features planejadas](##features-planejadas) |
+| [Desenvolvimento](##desenvolvimento) |
+| [Colaborações](##colaborações) |
+| [Agradecimentos](##agradecimentos) |
+
+## Lançamento 📅
+A previsão do lançamento do projeto é 11/9/2025, uma semana antes do lançamento do episódio 200, que deve sair no dia 18/9/2025 (se a programação continuar 1 episódio a cada 15 dias). Se houver mudança na programação do podcast, a gente muda aqui também!
+
+## Andamento do projeto ⌛
+| Etapa | Andamento | Detalhes |
+| ----- | --------- | -------- |
+| Base do projeto | Finalizada | Inspirada no projeto final da 9ª Imersão Dev da Alura|
+| Criação do JSON com as perguntas | Em desenvolvimento | Atualmente com 51 perguntas (13 fáceis, 28 médias, 10 difíceis) |
+| Criação do JSON com os personagens convidados | Em desenvolvimento | Arquivo criado a partir de planilha disponibilizada por Felipe Xavier. Faltam apenas os personagens dos episódios de 2025 |
+| Criação das ajudas | Em desenvolvimento | Atualmente trabalhando na ajuda "Personagem Convidado" |
+| Modo endurance | A seguir | ⌛ |
+| Página de regras do jogo | A seguir | ⌛ |
+| Página de agradecimentos | A seguir | ⌛ |
+| Deploy | A seguir | Previsto para 11/9/2025|
+
 ## Linguagens 💻
 O projeto utiliza HTML, CSS e JavaScript, consumindo dois arquivos JSON.
 
 ## Features planejadas 🗒️
-- Modo clássico
-- Modo endurance
-- Sistema de ajudas
-- Explicação das regras
-- Lista de colaboradores do projeto 
+- [Modo clássico](###modo-clássico)
+- [Modo endurance](###modo-endurance)
+- [Sistema de ajudas](###ajudas)
+- [Explicação das regras](###explicação-das-regras)
+- [Lista de colaboradores do projeto](###lista-de-colaboradores-do-projeto) 
 
 ### Modo clássico 🕹️
 O jogo terá 15 perguntas, divididas em 3 níveis: fácil, médio e difícil. As perguntas serão aleatórias, recebidas de um arquivo JSON.
@@ -42,11 +67,12 @@ As perguntas do quiz são criadas de forma colaborativa, através de envios dos 
 - Fabíola Belo
 - Felipe Xavier
 - Jean Macedo
-- Anônimo
+- Anônimo(s)
 
 **Auxílio técnico**
-- Raquel Araújo
-- Thiago de Souza
+- Felipe Xavier - planilha de personagens
+- Raquel Araújo - auxílio com JSON
+- Thiago de Souza - auxílio com JSON
 
 ## Agradecimentos 💚
 - Marcelo Guaxinim, pela criação do RPGuaxa e pelo conseguinte surgimento da "guaxomunidade";
