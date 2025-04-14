@@ -273,6 +273,50 @@
                         }
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "Em RPGuaxa #121, qual é a cor do terno do homem que ajuda a Boba em missões",
+                    "alternativas": [
+                        {
+                            "texto": "Branco",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Dourado",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Anil",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Carmim",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Qual era a cor da jaqueta do serial killer que matou Billie Jean?",
+                    "alternativas": [
+                        {
+                            "texto": "Preta",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Verde e Amarela",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Vermelha",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Ele não usava jaquetas",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["anônimo"]
                 }
             ]
         },
@@ -850,6 +894,72 @@
                         }
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "Qual o SEGUNDO atributo mais jogado no RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "2",
+                            "correto": false
+                        },
+                        {
+                            "texto": "3",
+                            "correto": true
+                        },
+                        {
+                            "texto": "4",
+                            "correto": false
+                        },
+                        {
+                            "texto": "5",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Qual era o verdadeiro nome da Deusa, ex-discípula do Poderoso N?",
+                    "alternativas": [
+                        {
+                            "texto": "Saori",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Agata",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Sofia",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Lilith",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Quem são os dois filhos de Gabriel e Morte?",
+                    "alternativas": [
+                        {
+                            "texto": "Didi e Pena",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Thanatos e Apolyon",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Gog e Magog",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Grum e Dedé",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["anônimo"]
                 }
             ]
         },
