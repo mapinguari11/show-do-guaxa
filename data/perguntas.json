@@ -317,6 +317,50 @@
                         }
                     ],
                     "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Em qual episódio aparece pela primeira vez o icônico NPC conhecido simplesmente como \"O Pintor\"?",
+                    "alternativas": [
+                        {
+                            "texto": "O Corvo",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Sanatório Hollywood",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Billie Jean",
+                            "correto": false
+                        },
+                        {
+                            "texto": "A Última Volta No Carrossel",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em A Ilha Condenada, qual o apelido da personagem Martha, interpretada pela Isabela Fontanella?",
+                    "alternativas": [
+                        {
+                            "texto": "Ice Queen",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Evil Queen",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Beauty Queen",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Dancing Queen",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -960,6 +1004,226 @@
                         }
                     ],
                     "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "No episódio A Última Volta No Carrossel, o que o homem ameaçador segurava no estacionamento?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em que tipo de estabelecimento viviam Fênix Rubra, Dustin e Gramtag, do episódio O Anão, O Dragão E A Bruxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Um bordel",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Uma taberna",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Um orfanato",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Uma casa comercial",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Os Cavaleiros do Bicho e a Cinderela do Baile, como os herois evitam que seu Zeca abra os olhos?",
+                    "alternativas": [
+                        {
+                            "texto": "Colocando uma venda",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Jogando pimenta em seus olhos",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Sequestrando sua cerveja",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Implorando de joelhos",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "As vampiras de Pirâmide das Almas eram de qual geração?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": true
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem traiu os shinobi das quatro estações?",
+                    "alternativas": [
+                        {
+                            "texto": "Yuki",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Kameko",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Suzano",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Maru",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em EVA, o que Moana usa como remédio para veneno de cobra?",
+                    "alternativas": [
+                        {
+                            "texto": "Suplementos recuperados do pod de fuga",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Água de coco",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Algas marinhas",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Areia da praia",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Pacto Belchior, a criança que fica sob a incumbência dos pilotos é filha de qual demônio?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Sal do Himalaia, quem é que os jogadores devem resgatar?",
+                    "alternativas": [
+                        {
+                            "texto": "O filho mais velho da primeira-ministra",
+                            "correto": false
+                        },
+                        {
+                            "texto": "O filho mais novo da primeira-ministra",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual rapper aparece como o Cavaleiro de Leão em Cavaleiros do Bicho vs Sao Paolo?",
+                    "alternativas": [
+                        {
+                            "texto": "Criolo",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Rincon Sapiência",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Rael",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Emicida",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual a verdadeira identidade de Mary Shelley, personagem da Shelly em Eu Estarei Lá?",
+                    "alternativas": [
+                        {
+                            "texto": "Ming, de A Sombra de Tuluiazu",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Anira Carter, de Uma Última Volta No Carrossel",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Billie, de Billie Jean",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Blueberry, de Eu Beijei Uma Garota",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -1190,20 +1454,174 @@
                     "pergunta": "Qual desses elementos da cultura pop não é referenciado no episódio O Lobo?",
                     "alternativas": [
                         {
-                            "texto": "Abracadabra (Hocus Pocus)",
+                            "texto": "O filme Abracadabra",
                             "correto": false
                         },
                         {
-                            "texto": "My Chemical Romance",
+                            "texto": "A banda My Chemical Romance",
                             "correto": false
                         },
                         {
-                            "texto": "A Bússola de Ouro",
+                            "texto": "O livro A Bússola de Ouro",
                             "correto": true
                         },
                         {
-                            "texto": "Largados e Pelados (Naked and Afraid)",
+                            "texto": "O reality show Largados e Pelados",
                             "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o nome da filha do prefeito em O Suicídio de Anthony C. Smith?",
+                    "alternativas": [
+                        {
+                            "texto": "Emma",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem é o responsável pela destruição da ilha em A Deusa Menina?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": true
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Na vida ao final de O Mistério de Rita, qual a profissão de Ulfgorn?",
+                    "alternativas": [
+                        {
+                            "texto": "Advogado",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Médico",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Engenheiro",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Ulfgorn não conseguiu nascer",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em que se baseava a religião ... no episódio Sangue no Espaço?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual era o sino a ser tocado em O Lobo de Enio?",
+                    "alternativas": [
+                        {
+                            "texto": "O 3º",
+                            "correto": false
+                        },
+                        {
+                            "texto": "O 5º",
+                            "correto": false
+                        },
+                        {
+                            "texto": "O 7º",
+                            "correto": true
+                        },
+                        {
+                            "texto": "O 1º",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Depois que o grupo liderado por Alex Sander foi em ..., quantas moedas ainda faltavam no imposto da cidade no episódio O Imposto e o Pé de Galinha?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Segundo a informação no Escudo do Mestre, quem fez a voz que responde a um determinado código ouvido no rádio no episódio Na Sombra das Ondas?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
                         }
                     ],
                     "autoria": []
