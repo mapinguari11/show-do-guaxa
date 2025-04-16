@@ -427,6 +427,28 @@
                         }
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "Qual ex-aliado trai os Cavaleiros do Bicho e proíbe a música no Brasil?",
+                    "alternativas": [
+                        {
+                            "texto": "Zeca",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Fada Madrinha",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Sapão",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Zé Droguinha",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -1422,6 +1444,28 @@
                         }
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "A menina Nicky apareceu pela primeira vez em qual episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "A Nova Residente",
+                            "correto": false
+                        },
+                        {
+                            "texto": "A Casa",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Caixa de Brinquedos",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Casa de Bonecas",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -1605,7 +1649,7 @@
                     "autoria": []
                 },
                 {
-                    "pergunta": "Qual foi o primeiro episódio a ter jogadores que foram convidados a participar por serem padrinhos?",
+                    "pergunta": "Qual foi o primeiro episódio a ter padrinhos convidados a jogar?",
                     "alternativas": [
                         {
                             "texto": "Madruguinha do Oeste",
@@ -1898,7 +1942,7 @@
                             "correto": true
                         },
                         {
-                            "texto": "Phil",
+                            "texto": "Philip",
                             "correto": false
                         },
                         {
@@ -1907,6 +1951,50 @@
                         },
                         {
                             "texto": "Penn",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Segundo informações do Escudo do Mestre, o episódio Sábado 14 teve inspiração em vídeos de qual canal do YouTube?",
+                    "alternativas": [
+                        {
+                            "texto": "BRKsEDU",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Coisa de Nerd",
+                            "correto": true
+                        },
+                        {
+                            "texto": "alanzoka",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Cellbit",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o código usado por Katherine Price para controlar Russel em Parte de Mim?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        },
+                        {
+                            "texto": "",
                             "correto": false
                         }
                     ],
