@@ -6,7 +6,7 @@ Este é um quiz, no estilo "Show do Milhão", para celebrar o episódio 200 do p
 | [Lançamento](#lançamento-) |
 | [Andamento do projeto](#andamento-do-projeto-) |
 | [Linguagens](#linguagens-) |
-| [Features planejadas](#features-planejadas) |
+| [Features planejadas](#Features-planejadas-) |
 | [Desenvolvimento](#desenvolvimento-) |
 | [Colaborações](#colaborações-) |
 | [Agradecimentos](#agradecimentos-) |
@@ -18,7 +18,7 @@ A previsão do lançamento do projeto é 11/9/2025, uma semana antes do lançame
 | Etapa | Andamento | Detalhes |
 | ----- | --------- | -------- |
 | Base do projeto | Finalizada | Inspirada no projeto final da 9ª Imersão Dev da Alura|
-| Criação do JSON com as perguntas | Em desenvolvimento | Atualmente com 70 perguntas (15 fáceis, 38 médias, 17 difíceis) |
+| Criação do JSON com as perguntas | Em desenvolvimento | Atualmente com 83 perguntas (18 fáceis, 44 médias, 21 difíceis) |
 | Criação do JSON com os personagens convidados | Em desenvolvimento | Arquivo criado a partir de planilha disponibilizada por Felipe Xavier. Faltam apenas os personagens dos episódios de 2025 |
 | Criação das ajudas | Em desenvolvimento | Atualmente trabalhando na ajuda "Personagem Convidado" |
 | Modo endurance | A seguir | ⌛ |
