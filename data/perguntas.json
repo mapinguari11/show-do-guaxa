@@ -361,6 +361,72 @@
                         }
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "Quem era o presidente do Brasil em O Natal do Cauê, o segundo especial de Natal do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "O Grinch",
+                            "correto": true
+                        },
+                        {
+                            "texto": "O Inominável Homem das Neves",
+                            "correto": false
+                        },
+                        {
+                            "texto": "O Polvo de Souza",
+                            "correto": false
+                        },
+                        {
+                            "texto": "O Grande Vermelho",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem estava por trás dos eventos do episódio Passarinhos?",
+                    "alternativas": [
+                        {
+                            "texto": "A Garra do Corvo",
+                            "correto": false
+                        },
+                        {
+                            "texto": "D3BB13",
+                            "correto": true
+                        },
+                        {
+                            "texto": "O Cuco",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Pitchola",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual característica física de Nelson chama a atenção dos personagens em O Samba da Criação?",
+                    "alternativas": [
+                        {
+                            "texto": "Ele tinha um terceiro olho",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Ele não tinha pés e flutuava acima do chão",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Ele não tinha umbigo",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Seus cabelos eram feitos de ouro",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -1224,6 +1290,138 @@
                         }
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "Em A Avó, O Aniversário E As Três Gatas, em qual coleira NÃO foi colocada a nota de cem reais para a compra do presente do neto?",
+                    "alternativas": [
+                        {
+                            "texto": "Da Nami",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Da Pompom",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Da Quatrana",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Ela foi colocada em todas as coleiras",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Era Uma Vez Três Crianças, Evelyn se encanta pela \"Pequena Sereia\". Qual pecado ela representava?",
+                    "alternativas": [
+                        {
+                            "texto": "Inveja",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Luxúria",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Gula",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Soberba",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual a língua falada no local onde Lucas, Enzo e Valentina passam as férias em O Pôr do Sol?",
+                    "alternativas": [
+                        {
+                            "texto": "Francês",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Espanhol",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Inglês",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Italiano",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual a relação entre as personagens Kate (episódio: Amada Filha) e Josephine (episódio: O Tipo Certo De Garota), ambas interpretadas pela Isabela Fontanella?",
+                    "alternativas": [
+                        {
+                            "texto": "Mãe e filha",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Tia e sobrinha",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Namoradas",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Inimigas",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em O Contrato de Micli, que madrinha fez a voz de Micli?",
+                    "alternativas": [
+                        {
+                            "texto": "Cinara",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Amanda Evangelista",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Ágata Sofia",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Mell",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi a primeira vez que a Ciranda da Bailarina foi cantada no RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Uma Última Volta No Carrossel",
+                            "correto": false
+                        },
+                        {
+                            "texto": "A Boba, O Circo E As Crianças",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Onde Está O Natal Norte Coreano?",
+                            "correto": false
+                        },
+                        {
+                            "texto": "O Circo Pirata",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -1622,6 +1820,94 @@
                         {
                             "texto": "",
                             "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "No episódio De Volta Para A Pista, qual o nome do corredor que passa a trabalhar para o governo ditatorial?",
+                    "alternativas": [
+                        {
+                            "texto": "Federico",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Raúl",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Carlos",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Rubén",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual desses filmes não é mencionado como parte do álibi dado pela mãe de ... no episódio Amada Filha?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "No episódio A Falta da Michele, como se chamava o fantasma que os alunos diziam existir na escola?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": true
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        },
+                        {
+                            "texto": "",
+                            "correto": false
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Duke, qual a identidade assumida pela criatura metamorfa dentro do departamento policial?",
+                    "alternativas": [
+                        {
+                            "texto": "Allan",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Phil",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Rock",
+                            "correto": false
+                        },
+                        {
+                            "texto": "Penn",
+                            "correto": false
                         }
                     ],
                     "autoria": []
