@@ -1,4 +1,4 @@
-# SHOW DO GUAXÃO 🦝🎙️
+# SHOW DO MILHÃO DE GUAXININS 🦝🎙️
 Este é um quiz, no estilo "Show do Milhão", para celebrar o episódio 200 do podcast [Realidades Paralelas do Guaxinim (PRGuaxa)](https://www.deviante.com.br/podcasts/rpguaxa/)
 
 | Tabela de Conteúdos |
