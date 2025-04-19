@@ -399,6 +399,47 @@ const personagensConvidados = [
     }
 ]
 
+//Informações do jogador
+let nomeJogador;
+let atributoJogador;
+
+//Variáveis para controle do jogo
+const umDSeis = () => Math.floor(Math.random() * 6) + 1;
+
+//Variáveis de pergunta
+let perguntasSorteadas = []; //para armazenar perguntas, para não repetir
+let perguntaFeita; //armazena todas as informações da pergunta atual, incluindo .pergunta e .alternativa[i]
+let indiceAtual = 0; // Índice da pergunta atual
+//let acertos = 0; // Contador de acertos (para modo teste?)
+let nivelPerguntas = 0; //para nível de dificuldade
+
+//Variáveis de ajuda
+let personagemConvidado;
+const personagensSorteados = [];
+const ajudasUsadas = [];
+
+//PEGANDO ELEMENTOS HTML
+//Estrutura do jogo
+const conteudo = document.querySelector(".conteudo");
+const conteudoFinal = document.querySelector(".fim");
+//Jogador
+const entradaNome = document.getElementById("input-nome");
+const entradaAtributo = document.getElementById("input-atributo");
+//Pergunta e resposta
+const perguntaElemento = document.querySelector(".pergunta");
+const respostasElemento = document.querySelector(".respostas");
+//Progresso do jogo
+const botaoIniciar = document.getElementById("botao-iniciar");
+const progressoElemento = document.querySelector(".progresso");
+const textoFinal = document.querySelector(".fim span");
+//Ajudas
+const ajudas = document.getElementById('ajudas');
+const sidebar = document.getElementById('sidebar');
+const interacaoAjuda = document.getElementById('interacao-ajuda');
+const campoFalaConvidado = document.getElementById('fala-convidado');
+const campoNomePersonagem = document.getElementById('nome-personagem'); //para o nome do personagem convidado
+const campoNomeJogador = document.getElementById('nome-jogador'); //para o nome do jogador que interpretou o personagem
+const campoNomeEpisodio = document.getElementById('nome-episodio'); //para o episódio em que o personagem convidado participou
 
 //Quando o código estiver pronto, esta deve ser a primeira função chamada.
 async function importarPerguntas() {
@@ -406,37 +447,6 @@ async function importarPerguntas() {
   perguntasRPGuaxa = await resposta.json();
   iniciarJogo();
 }
-
-//Pegando os elementos do HTML
-const perguntaElemento = document.querySelector(".pergunta");
-const respostasElemento = document.querySelector(".respostas");
-const entradaNome = document.getElementById("input-nome");
-const entradaAtributo = document.getElementById("input-atributo");
-const botaoIniciar = document.getElementById("botao-iniciar");
-const progressoElemento = document.querySelector(".progresso");
-const textoFinal = document.querySelector(".fim span");
-const conteudo = document.querySelector(".conteudo");
-const conteudoFinal = document.querySelector(".fim");
-const campoNomePersonagem = document.getElementById('nome-personagem'); //para o nome do personagem convidado
-const campoNomeJogador = document.getElementById('nome-jogador'); //para o nome do jogador que interpretou o personagem
-const campoNomeEpisodio = document.getElementById('nome-episodio'); //para o episódio em que o personagem convidado participou
-const ajudas = document.getElementById('ajudas');
-const sidebar = document.getElementById('sidebar');
-const interacaoAjuda = document.getElementById('interacao-ajuda');
-const campoFalaConvidado = document.getElementById('fala-convidado');
-
-//Informações do jogador
-let nomeJogador;
-let atributoJogador;
-
-//Variáveis para controle do jogo
-const umDSeis = () => Math.floor(Math.random() * 6) + 1;
-let indiceAtual = 0; // Índice da pergunta atual
-//let acertos = 0; // Contador de acertos (para modo teste?)
-let nivelPerguntas = 0; //para nível de dificuldade
-let perguntasSorteadas = []; //para armazenar perguntas, para não repetir
-let perguntaFeita; //armazena todas as informações da pergunta atual, incluindo .pergunta e .alternativa[i]
-let personagensSorteados = [];
 
 //FUNÇÕES DO FLUXO DO JOGO
 
@@ -448,18 +458,17 @@ function iniciarJogo() {
 //Validar atributo
 function validarAtributo() {
   let nomeEscolhido = entradaNome.value;
-  let atributoEscolhido = entradaAtributo.value;
-  if (atributoEscolhido !== "2" &&
-      atributoEscolhido !== "3" &&
-      atributoEscolhido !== "4" &&
-      atributoEscolhido !== "5"
+  let atributoEscolhido = parseInt(entradaAtributo.value);
+  if (atributoEscolhido !== 2 &&
+      atributoEscolhido !== 3 &&
+      atributoEscolhido !== 4 &&
+      atributoEscolhido !== 5
    ) {
     alert("Digite um atributo válido!");
     return;
    }
     nomeJogador = nomeEscolhido;
     atributoJogador = atributoEscolhido;
-    console.log(`${nomeJogador}, atributo: ${atributoJogador}`);
 
     entradaNome.classList.add("hidden");
     entradaAtributo.classList.add("hidden");
@@ -497,7 +506,6 @@ function carregarPergunta() {
     return carregarPergunta();
   } else {
     perguntasSorteadas.push(perguntaAtual.pergunta);
-    console.log(perguntasSorteadas);
     perguntaFeita = perguntaAtual; //para permitir resgatar a pergunta fora dessa função
   }
 
@@ -570,8 +578,8 @@ function convidarPersonagem() {
         alert('As ajudas só são liberadas quando o jogo começa!');
         return;
     }
-//sortear personagem da lista personagensConvidados
-    let personagemConvidado = personagensConvidados[(Math.floor(Math.random()*personagensConvidados.length))];
+    //sortear personagem da lista personagensConvidados
+    personagemConvidado = personagensConvidados[(Math.floor(Math.random()*personagensConvidados.length))];
     if (personagensSorteados.includes(personagemConvidado)) {
         return convidarPersonagem();
     }
@@ -580,7 +588,7 @@ function convidarPersonagem() {
     sidebar.classList.add('hidden');
     interacaoAjuda.classList.remove('hidden');
 
-    //apresentar informações do personagem convidado (nome, jogador, episódio(s) que participou). Usar pronomes corretos e plural ou singular para falar do episódio em que ele esteve persente.
+    //apresentar informações do personagem convidado (nome, jogador, episódio(s) que participou).
     if (personagemConvidado.personagem === 'Marcelo Guaxinim') {
         campoFalaConvidado.innerHTML = "Olá! Eu sou o <strong>Marcelo Guaxinim</strong>, narrador, produtor e idealizador do podcast <strong>Realidades Paralelas do Guaxinim</strong> e... eu estou aqui para ajudar você! Aperte o botão Resposta e eu vou te ajudar com a pergunta!";
     } else {
@@ -588,39 +596,75 @@ function convidarPersonagem() {
         campoNomeJogador.innerText = personagemConvidado.interprete;
         campoNomeEpisodio.innerText = personagemConvidado.episodio.join(', ');
     }
-}
-
-//rolar 2d6: se crítico: 3 pts. se acerto: 1 pt. se erro: 0 pt.
-//calcular pts: 
+} 
 
 function testarConvidado() {
+    //rolar 2d6: se crítico: 3 pts. se acerto: 1 pt. se erro: 0 pt.
     let dado1 = umDSeis();
     let dado2 = umDSeis();
+    //calcular pts:
     let pontosDoTeste = 0;
     
-    if (dado1 == atributoJogador) {
+    if (dado1 === atributoJogador) {
         pontosDoTeste +=3;
     } else if ( dado1 > atributoJogador) {
         pontosDoTeste += 1;
     }
 
-    if (dado2 == atributoJogador) {
+    if (dado2 === atributoJogador) {
         pontosDoTeste +=3;
     } else if ( dado2 > atributoJogador) {
         pontosDoTeste += 1;
     }
 
-    //definindo a resposta do personagem
-    switch (pontosDoTeste) {
-        case pontosDoTeste>=3: //o personagem tem certeza e a resposta está certa.
-        break;
-        case pontosDoTeste===2: //o personagem tem quase certeza e a resposta está certa.
-        break;
-        case pontosDoTeste===1: //um novo teste é feito, com um dado. Se é um acerto, o personagem acerta, mas sem certeza. Se é um erro, o personagem erra, mas sem certeza.
-        break;
-        default: //o personagem erra achando que está certo
+    console.log("pontos do teste: " + pontosDoTeste);
+    if (personagemConvidado.personagem === 'Marcelo Guaxinim') {
+        pontosDoTeste = 6;
     }
-}    
+    console.log("pontos do teste: " + pontosDoTeste);
+
+    const alternativaCorreta = perguntaFeita.alternativas.find(alternativa => alternativa.correto === true);
+
+    //definindo a resposta do personagem
+    if (pontosDoTeste >= 3) {
+        // Personagem tem certeza e a resposta está certa.
+        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Com certeza é ${alternativaCorreta.texto}.`;
+    } else if (pontosDoTeste === 2) {
+        // Personagem tem quase certeza e a resposta está certa.
+        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Se eu não me engano, é ${alternativaCorreta.texto}.`;
+    } else if (pontosDoTeste === 1) {
+        // Personagem não tem certeza e escolhe aleatoriamente.
+        const indiceAleatorio = Math.floor(Math.random() * 4); // 0 a 3 (já que são 4 alternativas)
+        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Nossa, eu não sei não... Acho que é... ${perguntaFeita.alternativas[indiceAleatorio].texto}`;
+    } else {
+        // Personagem erra com confiança (escolhe uma alternativa errada aleatória).
+        let alternativaErrada;
+        do {
+            const indiceAleatorio = Math.floor(Math.random() * 4); // 0 a 3
+            alternativaErrada = perguntaFeita.alternativas[indiceAleatorio];
+        } while (alternativaErrada === alternativaCorreta);
+    
+        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Com certeza é ${alternativaErrada.texto}.`;
+    }
+
+    ajudasUsadas.push('Personagem Convidado'); //sinaliza que esta ajuda foi usada, para futuramente previnir que ela seja usada novamente.
+
+    const botaoResposta = document.getElementById('botao-resposta');
+    botaoResposta.classList.add('hidden');
+
+    const botaoDispensar = document.createElement('button');
+
+    botaoDispensar.textContent = 'Dispensar';
+    botaoDispensar.id = 'botao-dispensar';
+    botaoDispensar.className = 'botao-enviar';
+    botaoDispensar.addEventListener('click', limparSidebar); //sem parênteses no nome da função, para não chamá-la imediatamente
+    document.getElementById('apresentacao-convidado').appendChild(botaoDispensar);
+}  
+
+function limparSidebar() {
+    interacaoAjuda.classList.add('hidden');
+    sidebar.classList.remove('hidden');
+}
 
 
 //Iniciando o jogo pela primeira vez
