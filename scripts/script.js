@@ -1,6 +1,7 @@
 //###VARIÁVEIS GERAIS###
 //Lista de perguntas e respostas
-let perguntasRPGuaxa; // Variável global para armazenar o JSON
+//let perguntasRPGuaxa; // Variável global para armazenar o JSON (descomentar depois)
+
 // pequena mostra de perguntas para testes
 const perguntas = [
   {
@@ -15,15 +16,18 @@ const perguntas = [
             },
             {
                 "texto": "Dungeons & Dragons",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "Tormenta 20",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "Táquions",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             }
         ],
         "autoria": []
@@ -33,7 +37,8 @@ const perguntas = [
         "alternativas": [
             {
                 "texto": "Guaxaverso",
-                "correto": false
+                "correto": false,
+                "erro_num":  "erro1"
             },
             {
                 "texto": "Escudo do Mestre",
@@ -41,11 +46,13 @@ const perguntas = [
             },
             {
                 "texto":"Fala, Guaxa!",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "Epílogo",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             }
         ],
         "autoria": []
@@ -55,11 +62,13 @@ const perguntas = [
         "alternativas": [
             {
                 "texto": "Ewa",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "Sílvio",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "Lillith",
@@ -67,7 +76,8 @@ const perguntas = [
             },
             {
                 "texto":"Lúcifer",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             }
             
         ],
@@ -78,15 +88,18 @@ const perguntas = [
         "alternativas": [
             {
                 "texto": "Rasturak",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "A Boba",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "O Pintor",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             },
             {
                 "texto":"Jaqueta Vermelha",
@@ -101,15 +114,18 @@ const perguntas = [
         "alternativas": [
             {
                 "texto": "Verso",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "Capitão",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "Grande Vermelho",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             },
             {
                 "texto":"Z-75",
@@ -133,15 +149,18 @@ const perguntas = [
             },
             {
                 "texto": "Amarela",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "Azul",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "Vermelha",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             }
         ],
         "autoria": ["Felipe Xavier"]
@@ -151,7 +170,8 @@ const perguntas = [
         "alternativas": [
             {
                 "texto": "Um timão",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "Um urso de pelúcia",
@@ -159,11 +179,13 @@ const perguntas = [
             },
             {
                 "texto": "Um carrinho de controle remoto",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "Um ioiô",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             }
         ],
         "autoria": ["Felipe Xavier"]
@@ -173,11 +195,13 @@ const perguntas = [
         "alternativas": [
             {
                 "texto": "Fúria, Fulgor, Ferrão",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "Drama, Diálogo, Dueto",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "Marmelo, Marchello, Martelin",
@@ -185,7 +209,8 @@ const perguntas = [
             },
             {
                 "texto": "Perdão, Paciência, Paz",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             }
         ],
         "autoria": ["Felipe Xavier"]
@@ -195,15 +220,18 @@ const perguntas = [
         "alternativas": [
             {
                 "texto": "No banheiro",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "Na mesa",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "Debaixo da cadeira",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             },
             {
                 "texto": "Num carro",
@@ -217,15 +245,18 @@ const perguntas = [
         "alternativas": [
             {
                 "texto": "O Cavaleiro Amarelo Salvando seu bebê",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "A Cavaleira Verde caindo no chão",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "O Cavaleiro Vermelho sendo morto",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             },
             {
                 "texto": "O Cavaleiro Anil quebrando a janela da igreja",
@@ -244,15 +275,18 @@ const perguntas = [
         "alternativas": [
             {
                 "texto": "Garganir",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "Lora",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "Zarco",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             },
             {
                 "texto": "Itiê",
@@ -266,11 +300,13 @@ const perguntas = [
         "alternativas": [
             {
                 "texto": "Caixa de cerveja",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "Arma",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "Televisão",
@@ -278,7 +314,8 @@ const perguntas = [
             },
             {
                 "texto": "Gasolina",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             }
         ],
         "autoria": ["Felipe Xavier"]
@@ -288,7 +325,8 @@ const perguntas = [
         "alternativas": [
             {
                 "texto": "Grenville",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "Nova Orleans",
@@ -296,11 +334,13 @@ const perguntas = [
             },
             {
                 "texto": "Washington",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "La Paz",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             }
         ],
         "autoria": ["Felipe Xavier"]
@@ -310,11 +350,13 @@ const perguntas = [
         "alternativas": [
             {
                 "texto": "1 vez",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "2 vezes",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "3 vezes",
@@ -322,7 +364,8 @@ const perguntas = [
             },
             {
                 "texto": "4 vezes",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             }
         ],
         "autoria": ["Jean Macedo"]
@@ -336,15 +379,18 @@ const perguntas = [
             },
             {
                 "texto": "Pote de Mel",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro1"
             },
             {
                 "texto": "Runa, Espada Negra",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro2"
             },
             {
                 "texto": "Rita",
-                "correto": false
+                "correto": false,
+                "erro_num": "erro3"
             }
         ],
         "autoria": ["Jean Macedo"]
@@ -412,9 +458,13 @@ let perguntaFeita; //armazena todas as informações da pergunta atual, incluind
 let indiceAtual = 0; // Índice da pergunta atual
 //let acertos = 0; // Contador de acertos (para modo teste?)
 let nivelPerguntas = 0; //para nível de dificuldade
+let errada1;
+let errada2;
+let errada3;
 
 //Variáveis de ajuda
-let personagemConvidado;
+let personagemConvidado; //usado em Personagem Convidado
+let convidado1, convidado2, convidado3; //usados em Corrida contra Personagens
 const personagensSorteados = [];
 const ajudasUsadas = [];
 
@@ -437,16 +487,17 @@ const ajudas = document.getElementById('ajudas');
 const sidebar = document.getElementById('sidebar');
 const interacaoAjuda = document.getElementById('interacao-ajuda');
 const campoFalaConvidado = document.getElementById('fala-convidado');
+const botaoResposta = document.getElementById('botao-resposta'); //botão para convidado dar a resposta
 const campoNomePersonagem = document.getElementById('nome-personagem'); //para o nome do personagem convidado
 const campoNomeJogador = document.getElementById('nome-jogador'); //para o nome do jogador que interpretou o personagem
 const campoNomeEpisodio = document.getElementById('nome-episodio'); //para o episódio em que o personagem convidado participou
 
-//Quando o código estiver pronto, esta deve ser a primeira função chamada.
-async function importarPerguntas() {
-  const resposta = await fetch('../data/perguntas.json')
-  perguntasRPGuaxa = await resposta.json();
-  iniciarJogo();
-}
+//Quando o código estiver pronto, esta deve ser a primeira função chamada. (descomentar)
+// async function importarPerguntas() {
+//   const resposta = await fetch('../data/perguntas.json')
+//   perguntasRPGuaxa = await resposta.json();
+//   iniciarJogo();
+// }
 
 //FUNÇÕES DO FLUXO DO JOGO
 
@@ -578,24 +629,26 @@ function convidarPersonagem() {
         alert('As ajudas só são liberadas quando o jogo começa!');
         return;
     }
-    //sortear personagem da lista personagensConvidados
-    personagemConvidado = personagensConvidados[(Math.floor(Math.random()*personagensConvidados.length))];
-    if (personagensSorteados.includes(personagemConvidado)) {
-        return convidarPersonagem();
+    if (ajudasUsadas.includes('Personagem Convidado')) {
+        alert('Recurso já usado, tente outra ajuda');
+        return;
     }
-    personagensSorteados.push(personagemConvidado);
+    //sortear personagem da lista personagensConvidados
+    personagemConvidado = sortearConvidado();
 
-    sidebar.classList.add('hidden');
-    interacaoAjuda.classList.remove('hidden');
+    limparSidebar();
+    mostrarBotaoResposta();
 
     //apresentar informações do personagem convidado (nome, jogador, episódio(s) que participou).
     if (personagemConvidado.personagem === 'Marcelo Guaxinim') {
-        campoFalaConvidado.innerHTML = "Olá! Eu sou o <strong>Marcelo Guaxinim</strong>, narrador, produtor e idealizador do podcast <strong>Realidades Paralelas do Guaxinim</strong> e... eu estou aqui para ajudar você! Aperte o botão Resposta e eu vou te ajudar com a pergunta!";
+        campoFalaConvidado.innerHTML = "Olá! Eu sou o <strong>Marcelo Guaxinim</strong>, narrador, produtor e idealizador do podcast <strong>Realidades Paralelas do Guaxinim</strong> e aqui... aqui eu ajudo você! Aperte o botão Resposta e eu vou te dou a resposta da pergunta!";
     } else {
         campoNomePersonagem.innerText = personagemConvidado.personagem;
         campoNomeJogador.innerText = personagemConvidado.interprete;
         campoNomeEpisodio.innerText = personagemConvidado.episodio.join(', ');
     }
+    botaoResposta.removeEventListener('click', disputarCorrida);
+    botaoResposta.addEventListener('click', testarConvidado);
 } 
 
 function testarConvidado() {
@@ -649,21 +702,145 @@ function testarConvidado() {
 
     ajudasUsadas.push('Personagem Convidado'); //sinaliza que esta ajuda foi usada, para futuramente previnir que ela seja usada novamente.
 
-    const botaoResposta = document.getElementById('botao-resposta');
+    
     botaoResposta.classList.add('hidden');
+    criarBotaoDispensar();
+    
+}  
 
+function correrContraPersonagens() {
+    if (perguntasSorteadas.length === 0) {
+        alert('As ajudas só são liberadas quando o jogo começa!');
+        return;
+    }
+    if (ajudasUsadas.includes('Corrida contra Personagens')) {
+        alert('Recurso já usado, tente outra ajuda');
+        return;
+    } 
+
+    //sortear personagens da lista personagensConvidados
+    do {
+        convidado1 = sortearConvidado();
+    } while (convidado1.personagem === 'Marcelo Guaxinim');
+
+    do {
+        convidado2 = sortearConvidado();
+    } while (convidado2.personagem === 'Marcelo Guaxinim');
+
+    do {
+        convidado3 = sortearConvidado();
+    } while (convidado3.personagem === 'Marcelo Guaxinim');
+    console.log(`convidado 1: ${convidado1.personagem}, convidado 2: ${convidado2.personagem}, convidado 3: ${convidado3.personagem}`)
+
+    limparSidebar();
+    mostrarBotaoResposta();
+
+    campoFalaConvidado.innerHTML = `Na Raia 1 temos ${nomeJogador}, que correrá contra... <br> 
+    <li><strong>${convidado1.personagem}</strong> (por ${convidado1.interprete}) em <strong>${convidado1.episodio.join(', ')}</strong>,</li> <li><strong>${convidado2.personagem}</strong> (por ${convidado2.interprete}) em <strong>${convidado2.episodio.join(', ')}</strong> e</li> <li><strong>${convidado3.personagem}</strong> (por ${convidado3.interprete}) em <strong>${convidado3.episodio.join(', ')}</strong></li>`;
+
+    botaoResposta.innerText = 'Correr!';
+    botaoResposta.removeEventListener('click', testarConvidado);
+    botaoResposta.addEventListener('click', function () {
+        botaoResposta.classList.add('hidden');
+    });
+    botaoResposta.addEventListener('click', disputarCorrida);
+}
+
+function disputarCorrida() {
+    //rolar 2d6: se crítico: 3 pts. se acerto: 1 pt. se erro: 0 pt.
+    let dado1 = umDSeis();
+    let dado2 = umDSeis();
+    //calcular pts:
+    let pontosDoTeste = 0;
+    
+    if (dado1 === atributoJogador) {
+        pontosDoTeste +=3;
+    } else if ( dado1 < atributoJogador) {
+        pontosDoTeste += 1;
+    }
+
+    if (dado2 === atributoJogador) {
+        pontosDoTeste +=3;
+    } else if ( dado2 < atributoJogador) {
+        pontosDoTeste += 1;
+    }
+
+    console.log(dado1, dado2);
+    console.log(pontosDoTeste);
+
+    const corredores = [convidado1.personagem, convidado2.personagem, convidado3.personagem];
+    const ordemChegada = [...corredores];
+
+    //sortear ordem de chegada dos corredores (Fisher-Yates)
+    for (let i = ordemChegada.length -1; i > 0; i--) {
+        const j = Math.floor(Math.random()* (i +1));
+        [ordemChegada[i], ordemChegada[j]] = [ordemChegada[j], ordemChegada[i]];
+    }
+    
+    errada1 = perguntaFeita.alternativas.find(alternativas => alternativas.erro_num === 'erro1');
+    errada2 = perguntaFeita.alternativas.find(alternativas => alternativas.erro_num === 'erro2');
+    errada3 = perguntaFeita.alternativas.find(alternativas => alternativas.erro_num === 'erro3');
+
+    const erradas = [errada1, errada2, errada3];
+    const ordemErradas = [...erradas]
+
+    //sortear ordem das erradas (Fisher-Yates)
+    for (let i = ordemErradas.length -1; i > 0; i--) {
+        const j = Math.floor(Math.random()* (i +1));
+        [ordemErradas[i], ordemErradas[j]] = [ordemErradas[j], ordemErradas[i]];
+    }
+
+    if (pontosDoTeste >=3) {
+        //o jogador teve ao menos 1 acerto crítico. Ele chegou em primeiro e consegue eliminar 3 respostas erradas.
+        campoFalaConvidado.innerHTML = `Você venceu a corrida. Os personagens vão dizer quais são as alternativas <u>erradas</u>!<li> <strong>${ordemChegada[0]}</strong>, 2º lugar: \"${ordemErradas[0].texto}\" está errado<li> <strong>${ordemChegada[1]}</strong>, 3º lugar: \"${ordemErradas[1].texto}\" está errado<li> <strong>${ordemChegada[2]}</strong>, 4º lugar: \"${ordemErradas[2].texto}\" está errado `
+    } else if (pontosDoTeste === 2) {
+        //o jogador teve 2 acertos simples. Ele chegou em segundo e consegue eliminar 2 respostas erradas
+        campoFalaConvidado.innerHTML = `Você ficou em segundo lugar. Quem venceu foi <strong>${ordemChegada[0]}</strong>. Os outros personagens vão dizer duas alternativas <u>erradas</u>!<li> <strong>${ordemChegada[1]}</strong>, 3º lugar: \"${ordemErradas[1].texto}\" está errado<li> <strong>${ordemChegada[2]}</strong>, 4º lugar: \"${ordemErradas[2].texto}\" está errado `
+    } else if (pontosDoTeste === 1) {
+        //o jogador teve 1 acerto simples. Ele chegou em terceiro e consegue eliminar 1 resposta errada
+        campoFalaConvidado.innerHTML = `Você ficou em terceiro lugar. Quem venceu foi <strong>${ordemChegada[0]}</strong> e o segundo lugar foi <strong>${ordemChegada[1]}</strong>. O quarto lugar vai revelar <u>uma alternativa errada</u>!<li> <strong>${ordemChegada[2]}</strong>: \"${ordemErradas[2].texto}\" está errado `
+    } else {
+        //o jogador teve 2 erros. Ele chega em último e não elimina nenhuma resposta errada.
+        campoFalaConvidado.innerHTML = `Que pena! Você chegou em último! Os personagens não te ajudam desta vez! O pódio ficou assim: <li> 1º lugar: <strong>${ordemChegada[0]}</strong>, <li> 2º lugar: <strong>${ordemChegada[1]}</strong>, <li> 3º lugar: <strong>${ordemChegada[2]}</strong>`
+    }
+
+    ajudasUsadas.push('Corrida contra Personagens'); //sinaliza que esta ajuda foi usada, para futuramente previnir que ela seja usada novamente.
+
+    criarBotaoDispensar();
+}
+
+//FUNÇÕES USADAS PELAS AJUDAS
+function sortearConvidado() {
+    let novoConvidado = personagensConvidados[(Math.floor(Math.random()*personagensConvidados.length))];
+    if (personagensSorteados.includes(novoConvidado)) {
+        return sortearConvidado();
+    }
+    personagensSorteados.push(novoConvidado);
+    return novoConvidado;
+}
+
+function mostrarBotaoResposta() {
+    if (botaoResposta.classList.contains('hidden')) {
+        botaoResposta.classList.remove('hidden');
+    }
+}
+
+function limparSidebar() {
+    interacaoAjuda.classList.toggle('hidden');
+    sidebar.classList.toggle('hidden');
+}
+
+function criarBotaoDispensar() {
     const botaoDispensar = document.createElement('button');
 
     botaoDispensar.textContent = 'Dispensar';
     botaoDispensar.id = 'botao-dispensar';
     botaoDispensar.className = 'botao-enviar';
+    botaoDispensar.addEventListener('click', function () {
+        botaoDispensar.classList.add('hidden');
+    });
     botaoDispensar.addEventListener('click', limparSidebar); //sem parênteses no nome da função, para não chamá-la imediatamente
-    document.getElementById('apresentacao-convidado').appendChild(botaoDispensar);
-}  
-
-function limparSidebar() {
-    interacaoAjuda.classList.add('hidden');
-    sidebar.classList.remove('hidden');
+    interacaoAjuda.appendChild(botaoDispensar);
 }
 
 
