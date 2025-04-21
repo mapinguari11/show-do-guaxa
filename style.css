@@ -73,7 +73,6 @@ p {
   width: 400px;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
   gap: 2rem;
   margin-top: 2rem;
@@ -82,6 +81,13 @@ p {
 .sidebar:hover {
   background: rgba(0, 0, 0);
   box-shadow: 0 0 5px var(--secondary-color);
+}
+
+.interacao-sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.8rem;
 }
 
 .ajudas {
