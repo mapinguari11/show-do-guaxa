@@ -18,9 +18,9 @@ A previsão do lançamento do projeto é 11/9/2025, uma semana antes do lançame
 | Etapa | Andamento | Detalhes |
 | ----- | --------- | -------- |
 | Base do projeto | Finalizada | Projeto iniciado em 5/4/2025. Base inspirada no projeto final da 9ª Imersão Dev da Alura |
-| Criação do JSON com as perguntas | Em andamento | Atualmente com 112 perguntas (22 fáceis, 58 médias, 32 difíceis) |
-| Criação do JSON com os personagens convidados | Em andamento | Arquivo criado a partir de planilha disponibilizada por Felipe Xavier. Faltam apenas os personagens dos episódios de 2025 |
-| Criação das ajudas | Em andamento | Atualmente trabalhando na ajuda "Personagem Convidado" |
+| Criação do JSON com as perguntas | Em andamento | Atualmente com 118 perguntas (22 fáceis, 61 médias, 35 difíceis) |
+| Criação do JSON com os personagens convidados | Em andamento | Arquivo criado a partir de planilha disponibilizada por Felipe Xavier. Faltam os personagens dos episódios de 2025 |
+| Criação das ajudas | Em andamento | - Personagem Convidado ✅ - Corrida Contra Personagens ✅ - Placas dos Padrinhos ⌛ - Saltar Pergunta ⌛ |
 | Correção e melhoramento do código | Em andamento | Fazendo à medida que aprendo mais |
 | Modo endurance | A seguir | ⌛ |
 | Página de regras do jogo | A seguir | ⌛ |
