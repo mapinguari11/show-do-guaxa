@@ -6,7 +6,7 @@ Este é um quiz, no estilo "Show do Milhão", para celebrar o episódio 200 do p
 | [Lançamento](#lançamento-) |
 | [Andamento do projeto](#andamento-do-projeto-) |
 | [Linguagens](#linguagens-) |
-| [Features planejadas](#Features-planejadas-) |
+| [Features planejadas](#features-planejadas-%EF%B8%8F) |
 | [Desenvolvimento](#desenvolvimento-) |
 | [Colaborações](#colaborações-) |
 | [Agradecimentos](#agradecimentos-) |
@@ -31,7 +31,7 @@ A previsão do lançamento do projeto é 11/9/2025, uma semana antes do lançame
 O projeto utiliza HTML, CSS e JavaScript, consumindo dois arquivos JSON.
 
 ## Features planejadas 🗒️
-- [Modo clássico](#modo-clássico-)
+- [Modo clássico](#modo-clássico-%EF%B8%8F)
 - [Modo endurance](#modo-endurance-)
 - [Sistema de ajudas](#ajudas-)
 - [Explicação das regras](#explicação-das-regras-)
