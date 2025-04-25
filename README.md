@@ -18,7 +18,7 @@ A previsão do lançamento do projeto é 11/9/2025, uma semana antes do lançame
 | Etapa | Andamento | Detalhes |
 | ----- | --------- | -------- |
 | Base do projeto | Finalizada | Projeto iniciado em 5/4/2025. Base inspirada no projeto final da 9ª Imersão Dev da Alura |
-| Criação do JSON com as perguntas | Em andamento | Atualmente com 127 perguntas (23 fáceis, 64 médias, 40 difíceis) |
+| Criação do JSON com as perguntas | Em andamento | Atualmente com 130 perguntas (23 fáceis, 66 médias, 41 difíceis) |
 | Criação do JSON com os personagens convidados | Em andamento | Arquivo criado a partir de planilha disponibilizada por Felipe Xavier. Faltam os personagens dos episódios de 2025 |
 | Criação das ajudas | Em andamento | - Personagem Convidado ✅ - Corrida Contra Personagens ✅ - Placas dos Padrinhos ⌛ - Saltar Pergunta ⌛ |
 | Correção e melhoramento do código | Em andamento | Fazendo à medida que aprendo mais |
@@ -49,29 +49,31 @@ Neste modo, o jogador terá 5 ajudas.
 São 3 ajudas que o jogador pode solicitar no jogo clássico, e mais duas, que poderão ser solicitadas no modo endurance:
 - 📞**Personagem convidado**: Funciona como o "Pedir ajuda aos universitários", do Show do Milhão, ou o "Fazer uma ligação", do "Quem quer ser um milionário?". Um personagem de algum episódio do RPGuaxa é sorteado de uma lista, e ele dá a resposta para o jogador. Mas cuidado: ele pode estar errado! Por isso, é o jogador quem decide se vai aceitar a resposta dada ou não. (Mecanicamente, no início do jogo, o jogador escolherá um "atributo". Usando as regras do Guaxinins & Gambiarras, será feito um teste mental normal, para determinar se o personagem convidado vai responder corretamente a pergunta ou não. Quanto menor for o atributo do jogador, maior a chance do personagem dar a resposta correta.)
 
-*Porcentagem de receber a resposta correta se o atributo for...*
+*Chance de receber a resposta correta se o atributo for...*
 | 2 | 3 | 4 | 5 |
 | - | - | - | - |
-| 88,55% | 63,88% | 50 % | 38,88% |
+| 60,88% | 56,94% | 53,47 % | 50,46% |
 
 - 🏎️**Corrida contra personagens**: Funciona como a ajuda "Cartas", do Show do Milhão. O jogador disputa contra 3 personagens e, para cada um que é derrotado, uma alternativa errada é eliminada. (Mecanicamente, será feito um teste físico normal, para determinar o resultado do jogador na "corrida" contra os personagens. Quanto maior for o atributo do jogador, maior a chance de chegar em primeiro, eliminando 3 alternativas erradas.)
 
-*Porcentagem de eliminar 3 respostas erradas se o atributo for...*
+*Chance de eliminar 3 respostas erradas se o atributo for...*
 | 2 | 3 | 4 | 5 |
 | - | - | - | - |
 | 30,55% | 30,55% | 30,55% | 30,55% |
 
-*Porcentagem de eliminar 2 respostas erradas se o atributo for...*
+- Isso é correspondente a tirar um acerto crítico. A chance de critar em um lance de dados é igual para todos os atributos, por isso todos tem a mesma porcentagem!
+
+*Chance de eliminar 2 respostas erradas se o atributo for...*
 | 2 | 3 | 4 | 5 |
 | - | - | - | - |
 | 2,77% | 11,11% | 25% | 44,44% |
 
-*Porcentagem de eliminar 1 resposta errada se o atributo for...*
+*Chance de eliminar 1 resposta errada se o atributo for...*
 | 2 | 3 | 4 | 5 |
 | - | - | - | - |
 | 22,22% | 33,33% | 33,33% | 22,22% |
 
-*Porcentagem de eliminar 0 respostas erradas se o atributo for...*
+*Chance de eliminar 0 respostas erradas se o atributo for...*
 | 2 | 3 | 4 | 5 |
 | - | - | - | - |
 | 44,44% | 25% | 11,11% | 2,77% |
