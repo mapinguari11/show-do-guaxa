@@ -678,26 +678,39 @@ function testarConvidado() {
 
     const alternativaCorreta = perguntaFeita.alternativas.find(alternativa => alternativa.correto === true);
 
+    errada1 = perguntaFeita.alternativas.find(alternativas => alternativas.erro_num === 'erro1');
+    errada2 = perguntaFeita.alternativas.find(alternativas => alternativas.erro_num === 'erro2');
+    errada3 = perguntaFeita.alternativas.find(alternativas => alternativas.erro_num === 'erro3');
+
+    const erradas = [errada1, errada2, errada3];
+    const ordemErradas = [...erradas];
+    console.log(`array das respostas erradas: ${ordemErradas.map(obj => obj.texto)}`);
+
     //definindo a resposta do personagem
     if (pontosDoTeste >= 3) {
+        //100% de chance de acertar
         // Personagem tem certeza e a resposta está certa.
         campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Com certeza é ${alternativaCorreta.texto}.`;
     } else if (pontosDoTeste === 2) {
-        // Personagem tem quase certeza e a resposta está certa.
-        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Se eu não me engano, é ${alternativaCorreta.texto}.`;
+        //1/2 de chance de acertar
+        // Personagem tem quase certeza.
+        const pool50PorCento = [alternativaCorreta, ordemErradas[0]];
+        console.log(`array 50%: ${pool50PorCento.map(obj => obj.texto)}`);
+        const resposta50PorCento = Math.floor(Math.random()*2);
+        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Estou entre duas... Mas creio que a resposta seja ${pool50PorCento[resposta50PorCento].texto}.`;
     } else if (pontosDoTeste === 1) {
+        //1/3 de chance de acertar
         // Personagem não tem certeza e escolhe aleatoriamente.
-        const indiceAleatorio = Math.floor(Math.random() * 4); // 0 a 3 (já que são 4 alternativas)
-        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Nossa, eu não sei não... Acho que é... ${perguntaFeita.alternativas[indiceAleatorio].texto}`;
+        const poolUmTerco = [ordemErradas[0], alternativaCorreta, ordemErradas[1]];
+        console.log(`array 1/3: ${poolUmTerco.map(obj => obj.texto)}`);
+        const respostaUmTerco = Math.floor(Math.random() * 3);
+        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Nossa, eu não sei não... Acho que é... ${poolUmTerco[respostaUmTerco].texto}`;
     } else {
-        // Personagem erra com confiança (escolhe uma alternativa errada aleatória).
-        let alternativaErrada;
-        do {
-            const indiceAleatorio = Math.floor(Math.random() * 4); // 0 a 3
-            alternativaErrada = perguntaFeita.alternativas[indiceAleatorio];
-        } while (alternativaErrada === alternativaCorreta);
-    
-        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Com certeza é ${alternativaErrada.texto}.`;
+        //1/4 de chance de acertar.
+        let indiceChute = Math.floor(Math.random() * 4);
+        const chute = perguntaFeita.alternativas[indiceChute];
+
+        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Vish, não sei... Vou chutar ${chute.texto}.`;
     }
 
     ajudasUsadas.push('Personagem Convidado'); //sinaliza que esta ajuda foi usada, para futuramente previnir que ela seja usada novamente.
