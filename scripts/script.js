@@ -501,7 +501,7 @@ const botaoResposta = document.getElementById('botao-resposta'); //botão para c
 
 //Função para iniciar o jogo
 function iniciarJogo() {
-  perguntaElemento.textContent = "Boas vindas, Guaxouvinte! Logo, logo começaremos o Show do Guaxão... Mas antes, me diga: qual o seu nome e seu atributo?";
+  perguntaElemento.innerHTML = `Boas vindas, Guaxouvinte!<br> Logo, logo começaremos o Show do Guaxão... Mas antes, me diga: qual o seu nome e seu atributo?`;
 }
 
 //Validar atributo
