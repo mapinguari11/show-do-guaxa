@@ -12,7 +12,7 @@ Este é um quiz, no estilo "Show do Milhão", para celebrar o episódio 200 do p
 | [Agradecimentos](#agradecimentos-) |
 
 ## Lançamento 📅
-A previsão do lançamento do projeto é 11/9/2025, uma semana antes do lançamento do episódio 200, que deve sair no dia 18/9/2025 (se a programação continuar 1 episódio a cada 15 dias). Se houver mudança na programação do podcast, a gente muda aqui também!
+A previsão do lançamento do projeto é 18/9/2025, uma semana antes do lançamento do episódio 200, que deve sair no dia 25/9/2025 (se a programação continuar 1 episódio a cada 15 dias). Se houver mudança na programação do podcast, a gente muda aqui também!
 
 ## Andamento do projeto ⌛
 | Etapa | Andamento | Detalhes |
