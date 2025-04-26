@@ -487,10 +487,8 @@ const ajudas = document.getElementById('ajudas');
 const sidebar = document.getElementById('sidebar');
 const interacaoAjuda = document.getElementById('interacao-ajuda');
 const campoFalaConvidado = document.getElementById('fala-convidado');
+const falaConvidadoOriginal = campoFalaConvidado.innerHTML; //para recuperar o conteúdo na função convidarPersonagem();
 const botaoResposta = document.getElementById('botao-resposta'); //botão para convidado dar a resposta
-const campoNomePersonagem = document.getElementById('nome-personagem'); //para o nome do personagem convidado
-const campoNomeJogador = document.getElementById('nome-jogador'); //para o nome do jogador que interpretou o personagem
-const campoNomeEpisodio = document.getElementById('nome-episodio'); //para o episódio em que o personagem convidado participou
 
 //Quando o código estiver pronto, esta deve ser a primeira função chamada. (descomentar)
 // async function importarPerguntas() {
@@ -633,6 +631,13 @@ function convidarPersonagem() {
         alert('Recurso já usado, tente outra ajuda');
         return;
     }
+
+    campoFalaConvidado.innerHTML = falaConvidadoOriginal;
+
+    const campoNomePersonagem = document.getElementById('nome-personagem'); //para o nome do personagem convidado
+    const campoNomeJogador = document.getElementById('nome-jogador'); //para o nome do jogador que interpretou o personagem
+    const campoNomeEpisodio = document.getElementById('nome-episodio'); //para o episódio em que o personagem convidado participou
+
     //sortear personagem da lista personagensConvidados
     personagemConvidado = sortearConvidado();
 
@@ -649,6 +654,9 @@ function convidarPersonagem() {
     }
     botaoResposta.removeEventListener('click', disputarCorrida);
     botaoResposta.removeEventListener('click', pegarPorcentagens);
+    botaoResposta.addEventListener('click', function () {
+        botaoResposta.classList.add('hidden');
+    });
     botaoResposta.addEventListener('click', testarConvidado);
 } 
 
