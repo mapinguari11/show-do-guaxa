@@ -648,6 +648,7 @@ function convidarPersonagem() {
         campoNomeEpisodio.innerText = personagemConvidado.episodio.join(', ');
     }
     botaoResposta.removeEventListener('click', disputarCorrida);
+    botaoResposta.removeEventListener('click', pegarPorcentagens);
     botaoResposta.addEventListener('click', testarConvidado);
 } 
 
@@ -717,8 +718,7 @@ function testarConvidado() {
 
     
     botaoResposta.classList.add('hidden');
-    criarBotaoDispensar();
-    
+    criarBotaoDispensar(); 
 }  
 
 function correrContraPersonagens() {
@@ -753,6 +753,7 @@ function correrContraPersonagens() {
 
     botaoResposta.innerText = 'Correr!';
     botaoResposta.removeEventListener('click', testarConvidado);
+    botaoResposta.removeEventListener('click', pegarPorcentagens);
     botaoResposta.addEventListener('click', function () {
         botaoResposta.classList.add('hidden');
     });
@@ -818,6 +819,121 @@ function disputarCorrida() {
     }
 
     ajudasUsadas.push('Corrida contra Personagens'); //sinaliza que esta ajuda foi usada, para futuramente previnir que ela seja usada novamente.
+
+    criarBotaoDispensar();
+}
+
+function ouvirPadrinhos() {
+    if (perguntasSorteadas.length === 0) {
+        alert('As ajudas só são liberadas quando o jogo começa!');
+        return;
+    }
+    if (ajudasUsadas.includes('Ouvir Padrinhos')) {
+        alert('Recurso já usado, tente outra ajuda');
+        return;
+    }
+    
+    limparSidebar();
+    mostrarBotaoResposta();
+
+    campoFalaConvidado.innerHTML = `Meu nome é Allan Penoni e eu sou padrinho do RPGuaxa porque eu amo as histórias contadas pelo Guaxa e pelos jogadores, e também encontrei na Guaxomunidade pessoas incríveis com ideias geniais. <br> Além disso, essa é uma quebra da 4ª parede, porque eu sou o responsável pelo quiz. Espero que você esteja curtindo! Se encontrar algum bug, me avisa. <br> Enfim... me dá um segundo que eu vou ali no grupo de padrinhos e já volto com as porcentagens das respostas pra esta pergunta!`;
+
+    botaoResposta.innerText = 'Porcentagens';
+    botaoResposta.removeEventListener('click', testarConvidado);
+    botaoResposta.removeEventListener('click', disputarCorrida);
+    botaoResposta.addEventListener('click', function () {
+        botaoResposta.classList.add('hidden');
+    });
+    botaoResposta.addEventListener('click', pegarPorcentagens);
+}
+
+function pegarPorcentagens() {
+    const alternativaCorreta = perguntaFeita.alternativas.find(alternativa => alternativa.correto === true);
+    errada1 = perguntaFeita.alternativas.find(alternativas => alternativas.erro_num === 'erro1');
+    errada2 = perguntaFeita.alternativas.find(alternativas => alternativas.erro_num === 'erro2');
+    errada3 = perguntaFeita.alternativas.find(alternativas => alternativas.erro_num === 'erro3');
+
+    const erradas = [errada1, errada2, errada3];
+    const ordemErradas = [...erradas]
+
+    //sortear ordem das erradas (Fisher-Yates)
+    for (let i = ordemErradas.length -1; i > 0; i--) {
+        const j = Math.floor(Math.random()* (i +1));
+        [ordemErradas[i], ordemErradas[j]] = [ordemErradas[j], ordemErradas[i]];
+    }
+
+    //Se o atributo for 2 ou 3, é feito um teste físico. Se o atributo é 4 ou 5, é feito um teste mental. O teste é fácil.
+    let dado1 = umDSeis();
+    let dado2 = umDSeis();
+    let dado3 = umDSeis();
+
+    let pontosDoTeste = 0;
+
+    if (atributoJogador <=3) {
+        if (dado1 === atributoJogador) {
+            pontosDoTeste +=3;
+        } else if ( dado1 < atributoJogador) {
+            pontosDoTeste += 1;
+        }
+    
+        if (dado2 === atributoJogador) {
+            pontosDoTeste +=3;
+        } else if ( dado2 < atributoJogador) {
+            pontosDoTeste += 1;
+        }
+
+        if (dado3 === atributoJogador) {
+            pontosDoTeste +=3;
+        } else if ( dado3 < atributoJogador) {
+            pontosDoTeste += 1;
+        }
+    }
+
+    if (atributoJogador >=4) {
+        if (dado1 === atributoJogador) {
+            pontosDoTeste +=3;
+        } else if ( dado1 > atributoJogador) {
+            pontosDoTeste += 1;
+        }
+    
+        if (dado2 === atributoJogador) {
+            pontosDoTeste +=3;
+        } else if ( dado2 > atributoJogador) {
+            pontosDoTeste += 1;
+        }
+
+        if (dado3 === atributoJogador) {
+            pontosDoTeste +=3;
+        } else if ( dado3 > atributoJogador) {
+            pontosDoTeste += 1;
+        }
+    }
+    console.log(`dado 1: ${dado1}, dado 2: ${dado2}, dado 3: ${dado3}`)
+    console.log(`pontos do teste ${pontosDoTeste}`);
+
+    if (pontosDoTeste === 9) {
+        campoFalaConvidado.innerHTML = `<strong>Allan Penoni</strong>: Aqui estão as respostas dos padrinhos... <li> ${alternativaCorreta.texto}: 90%; </li> <li> ${ordemErradas[0].texto}: 5%;</li> <li> ${ordemErradas[1].texto}: 3%</li> <li> ${ordemErradas[2].texto}: 2%</li>`
+    } else if (pontosDoTeste >= 6) {
+        campoFalaConvidado.innerHTML = `<strong>Allan Penoni</strong>: Aqui estão as respostas dos padrinhos... <li> ${alternativaCorreta.texto}: 70%; </li> <li> ${ordemErradas[0].texto}: 15%;</li> <li> ${ordemErradas[1].texto}: 10%</li> <li> ${ordemErradas[2].texto}: 5%</li>`
+    } else if (pontosDoTeste >= 3) {
+        campoFalaConvidado.innerHTML = `<strong>Allan Penoni</strong>: Aqui estão as respostas dos padrinhos... <li> ${alternativaCorreta.texto}: 55%; </li> <li> ${ordemErradas[0].texto}: 25%;</li> <li> ${ordemErradas[1].texto}: 10%</li> <li> ${ordemErradas[2].texto}: 10%</li>`
+    } else if (pontosDoTeste >= 1) {
+        campoFalaConvidado.innerHTML = `<strong>Allan Penoni</strong>: Aqui estão as respostas dos padrinhos... <li> ${alternativaCorreta.texto}: 35%; </li> <li> ${ordemErradas[0].texto}: 30%;</li> <li> ${ordemErradas[1].texto}: 20%</li> <li> ${ordemErradas[2].texto}: 15%</li>`
+    } else {
+        const respostas = [errada1, errada2, errada3, alternativaCorreta]
+        const ordemRespostas = [...respostas]
+
+        //sortear ordem das erradas (Fisher-Yates)
+        for (let i = ordemRespostas.length -1; i > 0; i--) {
+            const j = Math.floor(Math.random()* (i +1));
+            [ordemRespostas[i], ordemRespostas[j]] = [ordemRespostas[j], ordemRespostas[i]];
+        }
+
+        campoFalaConvidado.innerHTML = `<strong>Allan Penoni</strong>: Aqui estão as respostas dos padrinhos... <li> ${ordemRespostas[0].texto}: 30%; </li> <li> ${ordemRespostas[3].texto}: 20%;</li> <li> ${ordemRespostas[1].texto}: 25%</li> <li> ${ordemRespostas[2].texto}: 25%</li>`
+
+    }
+
+    ajudasUsadas.push('Ouvir Padrinhos'); //sinaliza que esta ajuda foi usada, para futuramente previnir que ela seja usada novamente.
 
     criarBotaoDispensar();
 }
