@@ -1,0 +1,3401 @@
+{
+    "fases": [
+        {
+            "nivel": "facil",
+            "questoes": [
+                {
+                    "pergunta": "Qual o nome do sistema utilizado no RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Guaxinins & Gambiarras",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Dungeons & Dragons",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Tormenta 20",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Táquions",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Como se chama a parte final do episódio, em que o Guaxa comenta um pouco sobre a aventura e dá alguns avisos?",
+                    "alternativas": [
+                        {
+                            "texto": "Guaxaverso",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Escudo do Mestre",
+                            "correto": true
+                        },
+                        {
+                            "texto":"Fala, Guaxa!",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Epílogo",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "A qual vilão pertence a icônica frase: \"Te achei, Coelhinha...!\"",
+                    "alternativas": [
+                        {
+                            "texto": "Rasturak",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "A Boba",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "O Pintor",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto":"Jaqueta Vermelha",
+                            "correto": true
+                        }
+                        
+                    ],
+                    "autoria": ["Jean Macedo"]
+                },
+                {
+                    "pergunta": "Qual o nome do principal unicórnio que auxilia os gnomos/elfos/duendes de Natal?",
+                    "alternativas": [
+                        {
+                            "texto": "Verso",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Capitão",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Grande Vermelho",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto":"Z-75",
+                            "correto": true
+                        }
+                        
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o refrigerante usado para controlar a mente das mulheres no episódio Eu Beijei Uma Garota?",
+                    "alternativas": [
+                        {
+                            "texto": "Soft Sofia",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Jazzy Juju",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Cherry Shelly",
+                            "correto": true
+                        },
+                        {
+                            "texto":"Fabulous Fabi",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                        
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quais são os nomes das 4 gatas do primeiro episódio do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Dora, Erick, Flávio e Romildo",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Leia, Nala, Traça e Branca de Neve",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Grum, Dedé, Gabriel e Lilith",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto":"Lari, Pines, Apple e Blueberry",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                        
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Qual o nome dos episódios de leitura de comentários?",
+                    "alternativas": [
+                        {
+                            "texto": "Guaxaverso",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Escudo do Mestre",
+                            "correto": true,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Fala, Guaxa!",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto":"Epílogo",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                        
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "O que acontece se o jogador tira o seu atributo no dado?",
+                    "alternativas": [
+                        {
+                            "texto": "É um acerto crítico",
+                            "correto": true
+                        },
+                        {
+                            "texto": "É um erro crítico",
+                            "correto": true,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Ele rola mais um dado",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto":"Ele recupera todos os pontos de vida",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                        
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em que ano foi publicado o primeiro episódio do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "2017",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "2018",
+                            "correto": true
+                        },
+                        {
+                            "texto": "2019",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "2020",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em geral, quantos jogadores tem um episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "5",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "4",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "3",
+                            "correto": true
+                        },
+                        {
+                            "texto": "2",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quantas jogadoras participaram do primeiro episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "1",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "2",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "3",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "4",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em RPGuaxa #121, qual é a cor do terno do homem que ajuda a Boba em missões",
+                    "alternativas": [
+                        {
+                            "texto": "Branco",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Dourado",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Anil",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Carmim",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Qual era a cor da jaqueta do serial killer que matou Billie Jean?",
+                    "alternativas": [
+                        {
+                            "texto": "Preta",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Verde e Amarela",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Vermelha",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Ele não usava jaquetas",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Em qual episódio aparece pela primeira vez o icônico NPC conhecido simplesmente como \"O Pintor\"?",
+                    "alternativas": [
+                        {
+                            "texto": "O Corvo",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Sanatório Hollywood",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Billie Jean",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "A Última Volta No Carrossel",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em A Ilha Condenada, qual o apelido da personagem Martha, interpretada pela Isabela Fontanella?",
+                    "alternativas": [
+                        {
+                            "texto": "Ice Queen",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Evil Queen",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Beauty Queen",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Dancing Queen",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem era o presidente do Brasil em O Natal do Cauê, o segundo especial de Natal do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "O Grinch",
+                            "correto": true
+                        },
+                        {
+                            "texto": "O Inominável Homem das Neves",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "O Polvo de Souza",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "O Grande Vermelho",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem estava por trás dos eventos do episódio Passarinhos?",
+                    "alternativas": [
+                        {
+                            "texto": "A Garra do Corvo",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "D3BB13",
+                            "correto": true
+                        },
+                        {
+                            "texto": "O Cuco",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Pitchola",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual característica física de Nelson chama a atenção dos personagens em O Samba da Criação?",
+                    "alternativas": [
+                        {
+                            "texto": "Ele tinha um terceiro olho",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Ele não tinha pés e flutuava acima do chão",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Ele não tinha umbigo",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Seus cabelos eram feitos de ouro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual ex-aliado trai os Cavaleiros do Bicho e proíbe a música no Brasil?",
+                    "alternativas": [
+                        {
+                            "texto": "Zeca",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Fada Madrinha",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Sapão",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Zé Droguinha",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi o primeiro episódio a ter apenas 3 jogadores?",
+                    "alternativas": [
+                        {
+                            "texto": "Billie Jean",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Pacto John Lennon",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "A Bruxa, A Morte e As Quatro Gatas",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "O Corvo",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi o primeiro episódio a ter apenas 2 jogadores?",
+                    "alternativas": [
+                        {
+                            "texto": "A Paranóia dos Números",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Bichos Escrotos",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "A Morte, A Corva e O Contrato Mais Antigo",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Cinco",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Até abril de 2025, apenas uma mulher narrou um episódio do RPGuaxa. Quem foi?",
+                    "alternativas": [
+                        {
+                            "texto": "Ágata Sofia",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Ju Leyva",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Shelly",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Deba",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": ["Domenica Mendes"]
+                },
+                {
+                    "pergunta": "Como o criador desse universo gosta de ser chamado?",
+                    "alternativas": [
+                        {
+                            "texto": "Guaxa",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Narrador",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Mestre",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Guaxinim",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": ["Domenica Mendes"]
+                }
+            ]
+        },
+        {
+            "nivel": "medio",
+            "questoes": [
+                {
+                    "pergunta": "Qual a cor da pedra que estava dentro da caixinha do episódio 1 do RPGuaxa: A bruxa, a Morte e as 4 gatas?",
+                    "alternativas": [
+                        {
+                            "texto": "Verde",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Amarela",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Azul",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Vermelha",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Qual brinquedo que Eliot levou consigo durante a aventura do episódio 2 do RPGuaxa: O Corvo?",
+                    "alternativas": [
+                        {
+                            "texto": "Um timão",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Um urso de pelúcia",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Um carrinho de controle remoto",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Um ioiô",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Quais os nomes dos 3 martelos que o Murin utilizou no episódio 3 do RPGuaxa: A Herança?",
+                    "alternativas": [
+                        {
+                            "texto": "Fúria, Fulgor, Ferrão",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Drama, Diálogo, Dueto",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Marmelo, Marchello, Martelin",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Perdão, Paciência, Paz",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Onde estava escondida a bomba que o Paper tentou desarmar no episódio 4: Pacto John Lennon?",
+                    "alternativas": [
+                        {
+                            "texto": "No banheiro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Na mesa",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Debaixo da cadeira",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Num carro",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Qual foi a visão da cavaleira Violeta no episódio 8 do RPGuaxa: Cavaleiros do arco-íris?",
+                    "alternativas": [
+                        {
+                            "texto": "O Cavaleiro Amarelo Salvando seu bebê",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "A Cavaleira Verde caindo no chão",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "O Cavaleiro Vermelho sendo morto",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "O Cavaleiro Anil quebrando a janela da igreja",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Qual era a fraqueza do Carlos no episódio 9 do RPGuaxa: Nada de novo em Raccoon Town?",
+                    "alternativas": [
+                        {
+                            "texto": "Cílios",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Unhas",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Dentes",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Cobre",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "O que estava amarrado no chifre do Z-28 no episódio 10 do RPGuaxa: Especial de natal?",
+                    "alternativas": [
+                        {
+                            "texto": "Uma chave",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Uma lança",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Uma guirlanda",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Um cupcake",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Qual o nome da sacerdotisa do episódio 87 - O Verão da Cigarra?",
+                    "alternativas": [
+                        {
+                            "texto": "Astrid",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Kelly",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Yasmin",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Ângela",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": ["Fabíola Belo"]
+                },
+                {
+                    "pergunta": "Qual o nome do guaxinim que aparece no episódio 107 - Cera?",
+                    "alternativas": [
+                        {
+                            "texto": "Cocada",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Paçoca",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Goiabada",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Marmelo",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": ["Fabíola Belo"]
+                },
+                {
+                    "pergunta": "Em qual episódio foi a primeira participação de Felipe Xavier como jogador?",
+                    "alternativas": [
+                        {
+                            "texto": "Úrsula (5)",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Madruguinha do Oeste (13)",
+                            "correto": true
+                        },
+                        {
+                            "texto": "O Mistério de Rita (18)",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Os Cavaleiros do Bicho e a Cinderela do Baile (20)",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": ["Fabíola Belo"]
+                },
+                {
+                    "pergunta": "Qual o primeiro episódio do RPGuaxa a ter um Guaxaverso?",
+                    "alternativas": [
+                        {
+                            "texto": "Acredite! (57)",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Os Cavaleiros do Bicho e a Cinderela do Baile (20)",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "A Fazenda do Seu Natalino (97)",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Pão, Margarina e um Meteoro (89)",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": ["Fabíola Belo", "anônimo"]
+                },
+                {
+                    "pergunta": "Qual é a marca registrada das personagens interpretadas/jogadas pela jogadora Cinara?",
+                    "alternativas": [
+                        {
+                            "texto": "Uma piscadela",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Um tapa na cara",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Um beliscão",
+                            "correto": true
+                        },
+                        {
+                            "texto": "\"Atire primeiro, pergunte depois\"",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": ["Jean Macedo"]
+                },
+                {
+                    "pergunta": "Qual era o nome do grande herói que, com seus 7 companheiros, fundou os lendários Cavaleiros do Arco-íris?",
+                    "alternativas": [
+                        {
+                            "texto": "Winston",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Azhad",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Caim",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Ararat",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["Jean Macedo"]
+                },
+                {
+                    "pergunta": "O sistema Guaxinins & Gambiarras é inspirado em qual sistema?",
+                    "alternativas": [
+                        {
+                            "texto": "FATE acelerado",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Honey Heist",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Guaxa no Guaxaverso",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Lasers e Sentimentos",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Há uma linhagem de anões que aparece mais de uma vez nos episódios de fantasia medieval do RPGuaxa. O primeiro deles é Murin. O segundo, seu descendente distante, é Sorin. Qual o sobrenome dos pertencentes a essa linhagem?",
+                    "alternativas": [
+                        {
+                            "texto": "FerroForte",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "CherryShelly",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "ForjaPrata",
+                            "correto": true
+                        },
+                        {
+                            "texto": "HammerFist",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Qual é o - suposto - nome da organização liderada pela magnata do submundo: Pietro Dante?",
+                    "alternativas": [
+                        {
+                            "texto": "Circo dos Horrores",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Garra do Corvo",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Família Trapani",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Irmãos Marcelo",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Quais são os 3 morros protegidos pelo atual trio de Cavaleiros do Bicho?",
+                    "alternativas": [
+                        {
+                            "texto": "Morros do Coelho, do Tigre e do Cachorro",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Morros do Burrinho, do Coelho, e do Gato",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Morros da Cobra, do Tigre e do Cavalo",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Morros do Jacaré, do Galo e do Touro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Qual jogador(a) participou de 3 episódios seguidos?",
+                    "alternativas": [
+                        {
+                            "texto": "Juliana Leyva",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Shelly",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Jean Macedo",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Felipe Xavier",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Cherry Shelly aparece em um episódio cujo título faz referência a qual cantora?",
+                    "alternativas": [
+                        {
+                            "texto": "Lady Gaga",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Shakira",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Katy Perry",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Beyoncé",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem foi o vencedor do MonsterChef?",
+                    "alternativas": [
+                        {
+                            "texto": "Lupita",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Xavi",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Mixora",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Gordon Ramsés",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "No primeiro ano em que o RPGuaxa foi publicado (ou seja, terminando em dezembro do ano de lançamento do podcast), quantos episódios foram lançados?",
+                    "alternativas": [
+                        {
+                            "texto": "7",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "8",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "9",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "10",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem foi a primeira madrinha a jogar em um episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "Luana Sabijon",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Ágata Sofia",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Agatha",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Cinara",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Um episódio começou com 5 jogadores. Qual foi?",
+                    "alternativas": [
+                        {
+                            "texto": "O Solo de Lídia",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Na Sombra das Ondas",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "O Reflexo de Tuluiazu",
+                            "correto": true
+                        },
+                        {
+                            "texto": "A Sombra de Tuluiazu",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual desses objetos não está relacionado com Tuluiazu?",
+                    "alternativas": [
+                        {
+                            "texto": "Chapéu de palha",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Ídolo de jade",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Sacola de couro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Moeda",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual é o primeiro pacto?",
+                    "alternativas": [
+                        {
+                            "texto": "John Lennon",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Raul",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Belchior",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "EVA",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o nome do episódio 100?",
+                    "alternativas": [
+                        {
+                            "texto": "Quando Você Morre?",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Águas Passadas",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Nina",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "TÉO",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o SEGUNDO atributo mais jogado no RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "2",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "3",
+                            "correto": true
+                        },
+                        {
+                            "texto": "4",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "5",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Qual era o verdadeiro nome da Deusa, ex-discípula do Poderoso N?",
+                    "alternativas": [
+                        {
+                            "texto": "Saori",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Agata",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Sofia",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Lilith",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Quem são os dois filhos de Gabriel e Morte?",
+                    "alternativas": [
+                        {
+                            "texto": "Didi e Pena",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Thanatos e Apolyon",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Gog e Magog",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Grum e Dedé",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "No episódio Uma Última Volta No Carrossel, o que o homem segurava no estacionamento?",
+                    "alternativas": [
+                        {
+                            "texto": "Uma rosa",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Um balão",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Uma machadinha",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Uma faca",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em que tipo de estabelecimento viviam Fênix Rubra, Dustin e Gramtag, do episódio O Anão, O Dragão E A Bruxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Um bordel",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Uma taberna",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Um orfanato",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Uma casa comercial",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Os Cavaleiros do Bicho e a Cinderela do Baile, como os herois evitam que seu Zeca abra os olhos?",
+                    "alternativas": [
+                        {
+                            "texto": "Colocando uma venda",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Jogando pimenta em seus olhos",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Sequestrando sua cerveja",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Implorando de joelhos",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "As vampiras de Pirâmide das Almas eram de qual geração?",
+                    "alternativas": [
+                        {
+                            "texto": "2ª",
+                            "correto": true
+                        },
+                        {
+                            "texto": "3ª",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "4ª",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "5ª",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem traiu os shinobi das quatro estações?",
+                    "alternativas": [
+                        {
+                            "texto": "Yuki",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Kameko",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Suzano",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Maru",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em EVA, o que Moana usa como remédio para veneno de cobra?",
+                    "alternativas": [
+                        {
+                            "texto": "Suplementos recuperados do pod de fuga",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Água de coco",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Algas marinhas",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Areia da praia",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Pacto Belchior, a criança que fica sob a incumbência dos pilotos é filha de qual demônio?",
+                    "alternativas": [
+                        {
+                            "texto": "Ira",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Inveja",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Preguiça",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Soberba",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Sal do Himalaia, quem é que os jogadores devem resgatar?",
+                    "alternativas": [
+                        {
+                            "texto": "O filho da primeira-ministra inglesa",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "O filho do The Paper",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "O príncipe inglês mais velho",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "O príncipe inglês mais novo",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual rapper aparece como o Cavaleiro de Leão em Cavaleiros do Bicho vs Sao Paolo?",
+                    "alternativas": [
+                        {
+                            "texto": "Criolo",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Rincon Sapiência",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Rael",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Emicida",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual a verdadeira identidade de Mary Shelley, personagem da Shelly em Eu Estarei Lá?",
+                    "alternativas": [
+                        {
+                            "texto": "Ming, de A Sombra de Tuluiazu",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Anira Carter, de Uma Última Volta No Carrossel",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Billie, de Billie Jean",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Blueberry, de Eu Beijei Uma Garota",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual a verdadeira identidade da Morte?",
+                    "alternativas": [
+                        {
+                            "texto": "Ewa",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Sílvio",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Lillith",
+                            "correto": true
+                        },
+                        {
+                            "texto":"Lúcifer",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                        
+                    ],
+                    "autoria": ["Fabíola Belo"]
+                },
+                {
+                    "pergunta": "Em A Avó, O Aniversário E As Três Gatas, em qual coleira NÃO foi colocada a nota de cem reais para a compra do presente do neto?",
+                    "alternativas": [
+                        {
+                            "texto": "Da Nami",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Da Pompom",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Da Quatrana",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Ela foi colocada em todas as coleiras",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Era Uma Vez Três Crianças, Evelyn se encanta pela \"Pequena Sereia\". Qual pecado ela representava?",
+                    "alternativas": [
+                        {
+                            "texto": "Inveja",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Luxúria",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Gula",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Soberba",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual a língua falada no local onde Lucas, Enzo e Valentina passam as férias em O Pôr do Sol?",
+                    "alternativas": [
+                        {
+                            "texto": "Francês",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Espanhol",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Inglês",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Italiano",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual a relação entre as personagens Kate (episódio: Amada Filha) e Josephine (episódio: O Tipo Certo De Garota), ambas interpretadas pela Isabela Fontanella?",
+                    "alternativas": [
+                        {
+                            "texto": "Mãe e filha",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Tia e sobrinha",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Namoradas",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Inimigas",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em O Contrato de Micli, que madrinha fez a voz de Micli?",
+                    "alternativas": [
+                        {
+                            "texto": "Cinara",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Amanda Evangelista",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Ágata Sofia",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Mell",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi a primeira vez que a Ciranda da Bailarina foi cantada no RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Uma Última Volta No Carrossel",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "A Boba, O Circo E As Crianças",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Onde Está O Natal Norte Coreano?",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "O Circo Pirata",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "A menina Nicky apareceu pela primeira vez em qual episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "A Nova Residente",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "A Casa",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Caixa de Brinquedos",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Casa de Bonecas",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual é o NPC que teve o maior hiato entre suas aparições em episódios, sem ter uma mudança de voz?",
+                    "alternativas": [
+                        {
+                            "texto": "Jaqueta Vermelha",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Poderoso N",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Caim",
+                            "correto": true
+                        },
+                        {
+                            "texto": "D3BB13",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem era xerife em Por Um Punhado de Armas?",
+                    "alternativas": [
+                        {
+                            "texto": "Ronan",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Hillary",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Arcoverde",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Sinien",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual animal representava a família de Liz em A Luz do Farol?",
+                    "alternativas": [
+                        {
+                            "texto": "Golfinho",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Ovelha",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Corvo",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Harpia",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Paranóia Dos Números, qual foi o primeiro clone encontrado pelos jogadores (sem contar seus próprios personagens)?",
+                    "alternativas": [
+                        {
+                            "texto": "Selton Melo",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Palmirinha",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Michelle Rodriguez",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "The Rock com cabelo afro",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em que mês saiu o primeiro episódio do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Fevereiro",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Maio",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Julho",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Setembro",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": ["Luco Borgs"]
+                },
+                {
+                    "pergunta": "O que a maldição da cidade no episódio 14 - O Suicídio de Antony C. Smith faz?",
+                    "alternativas": [
+                        {
+                            "texto": "Enlouquece os visitantes que aparecem por lá",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Sequestra os moradores para outra dimensão",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Mata os que ficam muito felizes ou saem da cidade",
+                            "correto": true
+                        },
+                        {
+                            "texto": "A maldição era falsa, sendo apenas um golpe",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": ["Luco Borgs"]
+                },
+                {
+                    "pergunta": "O episódio 34 - Amada Filha é inspirado num filme. Qual?",
+                    "alternativas": [
+                        {
+                            "texto": "A Mãe",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Menina de Ouro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "De Repente 30",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Acusada aos 17",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["Luco Borgs"]
+                },
+                {
+                    "pergunta": "Em Os Herdeiros De Titi, o Caronte ouvia uma música do Art Popular em sua barca. Qual era?",
+                    "alternativas": [
+                        {
+                            "texto": "Primeiro Beijo",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Falando Segredo",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Temporal",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Pimpolho",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Cada ratinho de Alcantarilla tem uma profissão. Qual a de Misplode, interpretado por Felipe Queiroz?",
+                    "alternativas": [
+                        {
+                            "texto": "Bombeiro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Carteiro",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Cientista",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Eletricista",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em O Desaparecimento de Dylan, o que a Alexia, personagem da Shelly, é do Dylan?",
+                    "alternativas": [
+                        {
+                            "texto": "Colega de escola",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Ex-babá",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Tia",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Irmã mais velha",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Como a personagem Martha, interpretada por Isabela Fontanella em A Ilha Condenada, vai parar no mundo de A Viajante, A Exilada e a Xerife?",
+                    "alternativas": [
+                        {
+                            "texto": "Ela é enviada por um guaxinim",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Ela é atingida por uma bomba de transporte dimensional",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Ela vai para lá através de seus sonhos",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Não é a mesma personagem; é só o mesmo nome usado duas vezes pela mesma jogadora",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Como se chamava o motorista que levou Anísia, Crhis e Pedro ao baile?",
+                    "alternativas": [
+                        {
+                            "texto": "Renan",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Rogerinho",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Julinho",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Maurílio",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual representante do transporte alternativo levou Pedro, Anísia e Crhis na viagem de Laguna de Abril até San Paolo?",
+                    "alternativas": [
+                        {
+                            "texto": "Renan",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Rogerinho",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Julinho",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Maurílio",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em que país fica a cidade perdida de Tuluiazu?",
+                    "alternativas": [
+                        {
+                            "texto": "Mianmar",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Sri Lanka",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Camboja",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Vietnã",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o nome do Homem-Guaxinim em Nada de Novo Em Raccoon Town?",
+                    "alternativas": [
+                        {
+                            "texto": "Minixaug",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Marcelo",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Guaxinim",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Olecram",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual não é o requisito Fabi de participação no Guaxaverso?",
+                    "alternativas": [
+                        {
+                            "texto": "Ter gravado há mais tempo que os demais jogadores",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Ser a Jumosinha (Ju Leyva)",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Ter a voz do Gilles",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Nunca ter gravado Guaxaverso antes",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["Jujulili"]
+                },
+                {
+                    "pergunta": "Qual dessas frases é dita exatamente assim na abertura original do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Eu amarro uma corda e uso como arma",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "É, Romano, chama o clérigo!",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "O mago lança seu thunderbolt +15 no beholder",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Ataque de habilidade",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "De que país fugiram as lobas de As Lobas da Lua Vermelha?",
+                    "alternativas": [
+                        {
+                            "texto": "Bolívia",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Colômbia",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Equador",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Peru",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Como se chamava o homem que organizou a caçada em As Lobas da Lua Vermelha?",
+                    "alternativas": [
+                        {
+                            "texto": "Nestor",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Nelson",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Nélio",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Nelton",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Como se chama a vila em O Jardim de Auravél?",
+                    "alternativas": [
+                        {
+                            "texto": "Ventobravo",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Ilhacéu",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Terranuvem",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Ceuazul",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Até o episódio 189, quantos episódios do RPGuaxa não têm o Guaxa como o narrador do episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "1",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "2",
+                            "correto": true
+                        },
+                        {
+                            "texto": "3",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "4",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o nome do episódio comemorativo de 1 ano do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Onde Está O Natal Norte Coreano?",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Uma Última Volta No Carrossel",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Os Cavaleiros do Bicho e a Cinderela do Baile",
+                            "correto": true
+                        },
+                        {
+                            "texto": "As Quatro Estações Shinobi",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                }
+            ]
+        },
+        {
+            "nivel": "dificil",
+            "questoes": [
+                {
+                    "pergunta": "Qual o nome que os Fermats deram para sua terra no episódio Úrsula (5)?",
+                    "alternativas": [
+                        {
+                            "texto": "Garganir",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Lora",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Zarco",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Itiê",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "O que foi roubado da loja em frente ao bar no episódio 6 do RPGuaxa: Billie Jean?",
+                    "alternativas": [
+                        {
+                            "texto": "Caixa de cerveja",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Arma",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Televisão",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Gasolina",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Qual o nome da cidade da universidade do episódio 7 do RPGuaxa: A Sombra de Tuluiazu?",
+                    "alternativas": [
+                        {
+                            "texto": "Grenville",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Nova Orleans",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Washington",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "La Paz",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": ["Felipe Xavier"]
+                },
+                {
+                    "pergunta": "Quantas vezes a Armadura de Coelho dos Cavaleiros do Bicho, foi vestida por pessoas diferentes que já apareceram nos episódios do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "1 vez",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "2 vezes",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "3 vezes",
+                            "correto": true
+                        },
+                        {
+                            "texto": "4 vezes",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": ["Jean Macedo"]
+                },
+                {
+                    "pergunta": "Quem foi a Orquiza que se tornou Rainha e selou a paz entre povos de raças diferentes, ao selar um casamento entre Orcs e Humanos?",
+                    "alternativas": [
+                        {
+                            "texto": "Ameaça Silenciosa",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Pote de Mel",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Runa, Espada Negra",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Rita",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": ["Jean Macedo"]
+                },
+                {
+                    "pergunta": "Quantos guizos tem o chapéu da Boba?",
+                    "alternativas": [
+                        {
+                            "texto": "3",
+                            "correto": true
+                        },
+                        {
+                            "texto": "2",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "4",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "5",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Tera e Keka são que tipo de animais?",
+                    "alternativas": [
+                        {
+                            "texto": "Pássaros",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Gatos",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Uncórnios",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Guaxinins",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Vô Lipe e a Volta do Saci, o que foi usado para enfrentar o lobisomem?",
+                    "alternativas": [
+                        {
+                            "texto": "Um rosário abençoado",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Um crucifixo com óleo bento",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Uma laranja com espinhos",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Um sapato de salto alto",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi o primeiro episódio a ter padrinhos convidados a jogar?",
+                    "alternativas": [
+                        {
+                            "texto": "Madruguinha do Oeste",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "O Suicídio de Anthony C. Smith",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Nada de Novo em Raccoon Town",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Pacto Raul",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Contos da Meia-Noite - Letícia, qual era o número do episódio que relatava a história da única sobrevivente?",
+                    "alternativas": [
+                        {
+                            "texto": "137",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "183",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "182",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "152",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual desses elementos da cultura pop não é referenciado no episódio O Lobo?",
+                    "alternativas": [
+                        {
+                            "texto": "O filme Abracadabra",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "A banda My Chemical Romance",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "O livro A Bússola de Ouro",
+                            "correto": true
+                        },
+                        {
+                            "texto": "O reality show Largados e Pelados",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o nome da filha do prefeito em O Suicídio de Anthony C. Smith?",
+                    "alternativas": [
+                        {
+                            "texto": "Emma",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Natasha",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Jasmim",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Bella",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem é o responsável pelos terremotos e ataques à ilha no céu em A Deusa Menina?",
+                    "alternativas": [
+                        {
+                            "texto": "Duke",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Drielle",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Zero",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Uno",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Na vida ao final de O Mistério de Rita, qual a profissão de Ulfgorn?",
+                    "alternativas": [
+                        {
+                            "texto": "Advogado",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Médico",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Engenheiro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Ulfgorn não conseguiu nascer",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em que se baseava a religião ... no episódio Sangue no Espaço?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual era o sino a ser tocado em O Lobo de Enio?",
+                    "alternativas": [
+                        {
+                            "texto": "O 3º",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "O 5º",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "O 7º",
+                            "correto": true
+                        },
+                        {
+                            "texto": "O 1º",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Depois que o grupo liderado por Alex Sander foi em ..., quantas moedas ainda faltavam no imposto da cidade no episódio O Imposto e o Pé de Galinha?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Segundo a informação no Escudo do Mestre, quem fez a voz que responde a um determinado código ouvido no rádio no episódio Na Sombra das Ondas?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "No episódio De Volta Para A Pista, qual o nome do corredor que passa a trabalhar para o governo ditatorial?",
+                    "alternativas": [
+                        {
+                            "texto": "Federico",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Raúl",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Carlos",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Rubén",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual desses filmes não é mencionado como parte do álibi dado pela mãe de ... no episódio Amada Filha?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "No episódio A Falta da Michele, como se chamava o fantasma que os alunos diziam existir na escola?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": true
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Duke, qual a identidade assumida pela criatura metamorfa dentro do departamento policial?",
+                    "alternativas": [
+                        {
+                            "texto": "Allan",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Philip",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Rock",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Penn",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Segundo informações do Escudo do Mestre, o episódio Sábado 14 teve inspiração em vídeos de qual canal do YouTube?",
+                    "alternativas": [
+                        {
+                            "texto": "BRKsEDU",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Coisa de Nerd",
+                            "correto": true
+                        },
+                        {
+                            "texto": "alanzoka",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Cellbit",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi o primeiro episódio que recebeu uma poesia pelo Bardo Petiz no Guaxaverso?",
+                    "alternativas": [
+                        {
+                            "texto": "Episódio 90 - Morte na Casa de Esqui",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Episódio 100 - Quando você morre?",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Episódio 130 - Cinco",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Episódio 150 - Baile das Rosas: Doces ou Travessuras",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": ["Luco Borgs"]
+                },
+                {
+                    "pergunta": "Qual o código usado por Katherine Price para controlar Russel em Parte de Mim?",
+                    "alternativas": [
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi o primeiro número encontrado pelos jogadores em Paranóia dos Números?",
+                    "alternativas": [
+                        {
+                            "texto": "4",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "3",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "2",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "1",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "No episódio #93 - Chocados no Espaço a NPC que contrata os jogadores diz ter uma última espécie de um animal extinto no futuro. Que animal é esse?",
+                    "alternativas": [
+                        {
+                            "texto": "Guaxinim",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Galinha",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Coala",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Corvo",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": ["Luisa Aguiar"]
+                },
+                {
+                    "pergunta": "No episódio #72 - O Tesouro de Gary Boy os jogadores passam por um ataque de seu navio logo no início. Qual o unico membro da tripulação eles decidem salvar?",
+                    "alternativas": [
+                        {
+                            "texto": "Cartomante",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Dentista",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Cartógrafa",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Cozinheira",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": ["Luisa Aguiar"]
+                },
+                {
+                    "pergunta": "Em que país estavam Aline, Charlote e Louis no começo de O Último Hotel?",
+                    "alternativas": [
+                        {
+                            "texto": "Japão",
+                            "correto": true
+                        },
+                        {
+                            "texto": "França",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Brasil",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "África do Sul",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "O antagonista de Acredite! era casado com quem?",
+                    "alternativas": [
+                        {
+                            "texto": "Lari (do episódio \"Eu Beijei Uma Garota\")",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Katherine (do episódio \"Parte de Mim\")",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Rico (dos episódios \"A Chuva\" e \"Resiliente\")",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Kaleb (do episódio \"Resiliente\")",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "O personagem Lando, interpretado por Ricardo Nespoli no episódio A Escuridão da Caverna, tem características que lembram qual raça fantástica?",
+                    "alternativas": [
+                        {
+                            "texto": "Anãos",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Hobbits",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Elfos",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Orcs",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "A personagem interpretada por Cinara em Caixa de Brinquedos compartilha seu nome com a personagem interpretada por ela em que outro episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "Pacto Raul",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Eu Beijei Uma Garota",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "A Escuridão Da Caverna",
+                            "correto": true
+                        },
+                        {
+                            "texto": "A Medalha Do Charles",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Como se chama a ilha onde se passam os eventos de A Deusa Menina?",
+                    "alternativas": [
+                        {
+                            "texto": "Sky Nation",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Sky Island",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Skypiea",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Sky Land",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quantos anos tinha Drielle quando nasceu sua substituta em A Deusa Menina?",
+                    "alternativas": [
+                        {
+                            "texto": "120",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "60",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "30",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "15",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quantos anos tinha a deusa reinante quando nasceu Drielle, em A Deusa Menina?",
+                    "alternativas": [
+                        {
+                            "texto": "30",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "25",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "20",
+                            "correto": true
+                        },
+                        {
+                            "texto": "15",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o nome do homem que deveria repovoar a humanidade em EVA?",
+                    "alternativas": [
+                        {
+                            "texto": "Dwayne",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "David",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Adam",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Marcel",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual opção não é marcada no bingo do Guaxaverso?",
+                    "alternativas": [
+                        {
+                            "texto": "Comentarista deixando biscoitos",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Jogador que só comenta no episódio que participa",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Reclamação da duração da gravação",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "\"Ah, não! Um 'ver mais'!\"",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": ["Jujulili"]
+                },
+                {
+                    "pergunta": "Quem foi a primeira personagem de jogador a agir no RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Traça (Debbie Cabral)",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Nala (Crhis)",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Leia (Thais Boccia)",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Branca de Neve (Mari Ribeiro)",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual é a combinação correta de armas do primeiro episódio do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Traça - Arco e flecha",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Branca de Neve - Machado",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Nala - Cajado",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Leia - Espada e Escudo",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem as gatas deveriam encontrar no primeiro episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "A bruxa do Sul",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "A bruxa do Oeste",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "A bruxa do Norte",
+                            "correto": true
+                        },
+                        {
+                            "texto": "A bruxa do Leste",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quantos editores os RPGuaxa já teve, até o episódio 189?",
+                    "alternativas": [
+                        {
+                            "texto": "5",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "7",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "4",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "6",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": ["Jujulili"]
+                },
+                {
+                    "pergunta": "Sem contar o Guaxa, quem foi a primeira pessoa a editar o RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Danilo Batistini",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Lucy Ferratto",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "ATHELAS",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Jônatas Siqueira",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi o primeiro episódio do RPGuaxa a não ter a abertura original?",
+                    "alternativas": [
+                        {
+                            "texto": "Os Cavaleiros do Bicho e a Cinderela do Baile (20)",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Cavaleiros do Bicho Vs São Paolo (31)",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Quando Você Morre? (100)",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "0 Casamento da Bruxa (101)",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                }
+            ]
+        }
+    ]
+}
