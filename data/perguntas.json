@@ -3371,6 +3371,31 @@
                     "autoria": []
                 },
                 {
+                    "pergunta": "Todas as letras do alfabeto já foram usadas como inicial do nome de pelo menos 2 personagens de jogadores no RPGuaxa. Considerando os personagens jogados até o episódio 190, qual letra inicia o nome de pelo menos 3 personagens?",
+                    "alternativas": [
+                        {
+                            "texto": "Y",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "X",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "W",
+                            "correto": true
+                        },
+                        {
+                            "texto": "U",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
                     "pergunta": "Qual foi o primeiro episódio do RPGuaxa a não ter a abertura original?",
                     "alternativas": [
                         {
@@ -3391,6 +3416,56 @@
                             "texto": "0 Casamento da Bruxa (101)",
                             "correto": false,
                             "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual a letra que mais inicia nomes de personagens de jogadores no RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "A",
+                            "correto": true
+                        },
+                        {
+                            "texto": "C",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "J",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "M",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi a última letra a iniciar o nome de um personagem de jogador no RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Y",
+                            "correto": true
+                        },
+                        {
+                            "texto": "I",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Z",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Q",
+                            "correto": false,
+                            "erro_num": "erro2"
                         }
                     ],
                     "autoria": []
