@@ -54,6 +54,7 @@ let atributoJogador;
 
 //Variáveis para controle do jogo
 const umDSeis = () => Math.floor(Math.random() * 6) + 1;
+let jogoAtivo = true;
 
 //Variáveis de pergunta
 let perguntasSorteadas = []; //para armazenar perguntas, para não repetir
@@ -215,6 +216,7 @@ function finalizarJogo() {
   Por que não tentar novamente? São muitas perguntas diferentes!`; // Exibe o resultado
   conteudo.style.display = "none"; // Esconde as perguntas
   conteudoFinal.style.display = "flex"; // Mostra a tela final
+  jogoAtivo = false;
 }
 
 //Função para mostrar a tela no caso de derrota
@@ -222,12 +224,16 @@ function mostrarDerrota() {
   textoFinal.innerHTML = `Que pena, ${nomeJogador}! Você errou a pergunta ${indiceAtual+1}! Por que não tentar de novo?`;
   conteudo.style.display = "none"; // Esconde as perguntas
   conteudoFinal.style.display = "flex"; // Mostra a tela final
+  jogoAtivo = false;
 }
 
 //Função para ajuda "Personagem convidado"
 function convidarPersonagem() {
     if (perguntasSorteadas.length === 0) {
         alert('As ajudas só são liberadas quando o jogo começa!');
+        return;
+    }
+    if (!jogoAtivo) {
         return;
     }
     if (ajudasUsadas.includes('Personagem Convidado')) {
@@ -337,6 +343,9 @@ function correrContraPersonagens() {
         alert('As ajudas só são liberadas quando o jogo começa!');
         return;
     }
+    if (!jogoAtivo) {
+        return;
+    }
     if (ajudasUsadas.includes('Corrida contra Personagens')) {
         alert('Recurso já usado, tente outra ajuda');
         return;
@@ -437,6 +446,9 @@ function disputarCorrida() {
 function ouvirPadrinhos() {
     if (perguntasSorteadas.length === 0) {
         alert('As ajudas só são liberadas quando o jogo começa!');
+        return;
+    }
+    if (!jogoAtivo) {
         return;
     }
     if (ajudasUsadas.includes('Ouvir Padrinhos')) {
