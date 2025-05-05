@@ -1308,7 +1308,7 @@
                             "erro_num": "erro1"
                         },
                         {
-                            "texto": "Grum e Dedé",
+                            "texto": "Grumm e Dedé",
                             "correto": true
                         }
                     ],
@@ -2066,7 +2066,7 @@
                     "autoria": []
                 },
                 {
-                    "pergunta": "Qual representante do transporte alternativo levou Pedro, Anísia e Crhis na viagem de Laguna de Abril até San Paolo?",
+                    "pergunta": "Qual representante do transporte alternativo levou Pedro, Anísia e Crhis na viagem de Laguna de Abril até Sao Paolo?",
                     "alternativas": [
                         {
                             "texto": "Renan",
@@ -2314,6 +2314,106 @@
                         }
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "Em 1910: O Caso do Imperial Prata, qual foi a arma do crime?",
+                    "alternativas": [
+                        {
+                            "texto": "Um broche",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Uma caneta",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Um brinco",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Um anel",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi o primeiro episódio em que aconteceu uma cena de TPK? Os personagens podem ter voltado à vida depois ou não.",
+                    "alternativas": [
+                        {
+                            "texto": "O Pôr do Sol",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "O Imposto e o Pé de Galinha",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Zumbis: A Ilha Condenada",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "A Bruxa, A Morte e As Quatro Gatas",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "A inteligência artificial D3BB13 fez a sua primeira aparição em qual episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "A Paranóia dos Números",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Passarinhos",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "EVA",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Sangue no Espaço",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi o primeiro episódio em que aconteceu um TPK? Ou seja: os personagens não voltaram à vida depois.",
+                    "alternativas": [
+                        {
+                            "texto": "O Pôr do Sol",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "O Imposto e o Pé de Galinha",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Zumbis: A Ilha Condenada",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "A Bruxa, A Morte e As Quatro Gatas",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -2449,13 +2549,13 @@
                     "pergunta": "Quantos guizos tem o chapéu da Boba?",
                     "alternativas": [
                         {
-                            "texto": "3",
-                            "correto": true
-                        },
-                        {
                             "texto": "2",
                             "correto": false,
                             "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "3",
+                            "correto": true
                         },
                         {
                             "texto": "4",
@@ -2474,13 +2574,13 @@
                     "pergunta": "Tera e Keka são que tipo de animais?",
                     "alternativas": [
                         {
+                            "texto": "Gatos",
+                            "correto": true
+                        },
+                        {
                             "texto": "Pássaros",
                             "correto": false,
                             "erro_num": "erro1"
-                        },
-                        {
-                            "texto": "Gatos",
-                            "correto": true
                         },
                         {
                             "texto": "Uncórnios",
@@ -2671,24 +2771,24 @@
                     "autoria": []
                 },
                 {
-                    "pergunta": "Em que se baseava a religião ... no episódio Sangue no Espaço?",
+                    "pergunta": "Em que se baseava a religião Thaumasiana, no episódio Sangue no Espaço?",
                     "alternativas": [
                         {
-                            "texto": "",
+                            "texto": "Leituras de mapas astrogeológicos",
                             "correto": false,
                             "erro_num": "erro2"
                         },
                         {
-                            "texto": "",
+                            "texto": "Especulações sobre uma ruína em Marte",
                             "correto": true
                         },
                         {
-                            "texto": "",
+                            "texto": "Culto a um gênero de aranhas",
                             "correto": false,
                             "erro_num": "erro1"
                         },
                         {
-                            "texto": "",
+                            "texto": "Energização de minérios espaciais",
                             "correto": false,
                             "erro_num": "erro3"
                         }
@@ -2721,50 +2821,50 @@
                     "autoria": []
                 },
                 {
-                    "pergunta": "Depois que o grupo liderado por Alex Sander foi em ..., quantas moedas ainda faltavam no imposto da cidade no episódio O Imposto e o Pé de Galinha?",
+                    "pergunta": "Depois que o grupo liderado por Alex Sander foi em Suni, quantas moedas ainda faltavam no imposto da cidade no episódio O Imposto e o Pé de Galinha?",
                     "alternativas": [
                         {
-                            "texto": "",
+                            "texto": "3",
                             "correto": false,
                             "erro_num": "erro3"
                         },
                         {
-                            "texto": "",
+                            "texto": "10",
                             "correto": false,
                             "erro_num": "erro1"
                         },
                         {
-                            "texto": "",
+                            "texto": "25",
                             "correto": false,
                             "erro_num": "erro2"
                         },
                         {
-                            "texto": "",
+                            "texto": "50",
                             "correto": true
                         }
                     ],
                     "autoria": []
                 },
                 {
-                    "pergunta": "Segundo a informação no Escudo do Mestre, quem fez a voz que responde a um determinado código ouvido no rádio no episódio Na Sombra das Ondas?",
+                    "pergunta": "Em qual episódio é anunciado que não existem mais vagas no grupo de padrinhos no whatsapp?",
                     "alternativas": [
                         {
-                            "texto": "",
+                            "texto": "Pacto Belchior",
                             "correto": false,
                             "erro_num": "erro2"
                         },
                         {
-                            "texto": "",
+                            "texto": "O Sal do Himalaia",
                             "correto": false,
                             "erro_num": "erro1"
                         },
                         {
-                            "texto": "",
+                            "texto": "O Imposto e o Pé de Galinha",
                             "correto": false,
                             "erro_num": "erro3"
                         },
                         {
-                            "texto": "",
+                            "texto": "A Sombra das Ondas",
                             "correto": true
                         }
                     ],
@@ -2796,24 +2896,24 @@
                     "autoria": []
                 },
                 {
-                    "pergunta": "Qual desses filmes não é mencionado como parte do álibi dado pela mãe de ... no episódio Amada Filha?",
+                    "pergunta": "Qual desses filmes não é mencionado como parte do álibi dado pela mãe de Kimberly no episódio Amada Filha?",
                     "alternativas": [
                         {
-                            "texto": "",
+                            "texto": "Simplesmente Acontece",
                             "correto": false,
                             "erro_num": "erro3"
                         },
                         {
-                            "texto": "",
+                            "texto": "Um Lugar Chamado Notting Hill",
                             "correto": true
                         },
                         {
-                            "texto": "",
+                            "texto": "Dez Coisas Que Eu Odeio Em Você",
                             "correto": false,
                             "erro_num": "erro1"
                         },
                         {
-                            "texto": "",
+                            "texto": "Enquanto Você Dormia",
                             "correto": false,
                             "erro_num": "erro2"
                         }
@@ -2821,24 +2921,24 @@
                     "autoria": []
                 },
                 {
-                    "pergunta": "No episódio A Falta da Michele, como se chamava o fantasma que os alunos diziam existir na escola?",
+                    "pergunta": "No episódio A Falta da Michele, como se chamava o fantasma da escola?",
                     "alternativas": [
                         {
-                            "texto": "",
+                            "texto": "Pedrinho",
                             "correto": true
                         },
                         {
-                            "texto": "",
+                            "texto": "Filipinho",
                             "correto": false,
                             "erro_num": "erro1"
                         },
                         {
-                            "texto": "",
+                            "texto": "Zezinho",
                             "correto": false,
                             "erro_num": "erro2"
                         },
                         {
-                            "texto": "",
+                            "texto": "Jorginho",
                             "correto": false,
                             "erro_num": "erro3"
                         }
@@ -2921,25 +3021,25 @@
                     "autoria": ["Luco Borgs"]
                 },
                 {
-                    "pergunta": "Qual o código usado por Katherine Price para controlar Russel em Parte de Mim?",
+                    "pergunta": "Qual o código usado por Katherine Price para controlar Russell em Parte de Mim?",
                     "alternativas": [
                         {
-                            "texto": "",
+                            "texto": "Soldado CS722588",
                             "correto": false,
                             "erro_num": "erro3"
                         },
                         {
-                            "texto": "",
+                            "texto": "Soldado CS217560",
                             "correto": false,
                             "erro_num": "erro2"
                         },
                         {
-                            "texto": "",
+                            "texto": "Soldado CS727588",
                             "correto": false,
                             "erro_num": "erro1"
                         },
                         {
-                            "texto": "",
+                            "texto": "Soldado CS212560",
                             "correto": true
                         }
                     ],
@@ -3359,7 +3459,7 @@
                             "erro_num": "erro1"
                         },
                         {
-                            "texto": "ATHELAS",
+                            "texto": "Henrique Farofinha",
                             "correto": false,
                             "erro_num": "erro2"
                         },
@@ -3371,7 +3471,7 @@
                     "autoria": []
                 },
                 {
-                    "pergunta": "Todas as letras do alfabeto já foram usadas como inicial do nome de pelo menos 2 personagens de jogadores no RPGuaxa. Considerando os personagens jogados até o episódio 190, qual letra inicia o nome de pelo menos 3 personagens?",
+                    "pergunta": "Todas as letras do alfabeto já foram usadas como inicial do nome de pelo menos 1 personagem de jogador no RPGuaxa. Considerando os personagens jogados até o episódio 190, qual letra inicial menos comum?",
                     "alternativas": [
                         {
                             "texto": "Y",
@@ -3379,12 +3479,12 @@
                             "erro_num": "erro1"
                         },
                         {
-                            "texto": "X",
+                            "texto": "W",
                             "correto": false,
                             "erro_num": "erro3"
                         },
                         {
-                            "texto": "W",
+                            "texto": "X",
                             "correto": true
                         },
                         {
@@ -3449,11 +3549,11 @@
                     "pergunta": "Qual foi a última letra a iniciar o nome de um personagem de jogador no RPGuaxa?",
                     "alternativas": [
                         {
-                            "texto": "Y",
+                            "texto": "X",
                             "correto": true
                         },
                         {
-                            "texto": "I",
+                            "texto": "Y",
                             "correto": false,
                             "erro_num": "erro1"
                         },
@@ -3466,6 +3566,131 @@
                             "texto": "Q",
                             "correto": false,
                             "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual desses animais o prefeito menciona após \"matar\" as gatas no primeiro episódio",
+                    "alternativas": [
+                        {
+                            "texto": "Corvos",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Coiotes",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Urubus",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Chacais",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Inicialmente, como Branca de Neve diz chamar seu machado no primeiro episódio?",
+                    "alternativas": [
+                        {
+                            "texto": "Papear",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Dialogar",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Falar",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Conversar",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Ao final de A Bruxa, A Morte e As Quatro Gatas, quantas vidas as gatas ainda tinham sobrando?",
+                    "alternativas": [
+                        {
+                            "texto": "6",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "4",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "3",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "5",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem foi a primeira voz da Morte no RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Danilo Batistini",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Professor Barbado",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Tarik",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Elói",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem fez a primeira voz de NPC a aparecer no RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Fencas",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Diogo Bob",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Jujuba",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Elói",
+                            "correto": false,
+                            "erro_num": "erro3"
                         }
                     ],
                     "autoria": []
