@@ -285,7 +285,7 @@
                     "autoria": []
                 },
                 {
-                    "pergunta": "Em RPGuaxa #121, qual é a cor do terno do homem que ajuda a Boba em missões",
+                    "pergunta": "Em RPGuaxa #121, qual é a cor do terno do homem que ajuda a Boba em missões?",
                     "alternativas": [
                         {
                             "texto": "Branco",
@@ -2924,7 +2924,7 @@
                     "pergunta": "No episódio A Falta da Michele, como se chamava o fantasma da escola?",
                     "alternativas": [
                         {
-                            "texto": "Pedrinho",
+                            "texto": "Jorginho",
                             "correto": true
                         },
                         {
@@ -2938,7 +2938,7 @@
                             "erro_num": "erro2"
                         },
                         {
-                            "texto": "Jorginho",
+                            "texto": "Pedrinho",
                             "correto": false,
                             "erro_num": "erro3"
                         }
