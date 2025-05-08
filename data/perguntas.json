@@ -435,56 +435,6 @@
                     "autoria": []
                 },
                 {
-                    "pergunta": "Qual característica física de Nelson chama a atenção dos personagens em O Samba da Criação?",
-                    "alternativas": [
-                        {
-                            "texto": "Ele tinha um terceiro olho",
-                            "correto": false,
-                            "erro_num": "erro1"
-                        },
-                        {
-                            "texto": "Ele não tinha pés e flutuava acima do chão",
-                            "correto": false,
-                            "erro_num": "erro2"
-                        },
-                        {
-                            "texto": "Ele não tinha umbigo",
-                            "correto": true
-                        },
-                        {
-                            "texto": "Seus cabelos eram feitos de ouro",
-                            "correto": false,
-                            "erro_num": "erro3"
-                        }
-                    ],
-                    "autoria": []
-                },
-                {
-                    "pergunta": "Qual ex-aliado trai os Cavaleiros do Bicho e proíbe a música no Brasil?",
-                    "alternativas": [
-                        {
-                            "texto": "Zeca",
-                            "correto": false,
-                            "erro_num": "erro2"
-                        },
-                        {
-                            "texto": "Fada Madrinha",
-                            "correto": false,
-                            "erro_num": "erro3"
-                        },
-                        {
-                            "texto": "Sapão",
-                            "correto": false,
-                            "erro_num": "erro1"
-                        },
-                        {
-                            "texto": "Zé Droguinha",
-                            "correto": true
-                        }
-                    ],
-                    "autoria": []
-                },
-                {
                     "pergunta": "Qual foi o primeiro episódio a ter apenas 3 jogadores?",
                     "alternativas": [
                         {
@@ -583,6 +533,106 @@
                         }
                     ],
                     "autoria": ["Domenica Mendes"]
+                },
+                {
+                    "pergunta": "Qual jogador(a) participou de 3 episódios seguidos?",
+                    "alternativas": [
+                        {
+                            "texto": "Juliana Leyva",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Shelly",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Jean Macedo",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Felipe Xavier",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": ["anônimo"]
+                },
+                {
+                    "pergunta": "Quem diz \"Escudo do Mestre\"?",
+                    "alternativas": [
+                        {
+                            "texto": "Jujuba",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Malu, filha do Guaxa",
+                            "correto": true
+                        },
+                        {
+                            "texto": "A filha de um padrinho do SciCast",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Uma IA",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual desses animais não faz parte do trio original dos Cavaleiros do Bicho?",
+                    "alternativas": [
+                        {
+                            "texto": "Gato",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Coelho",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Tigre",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Burro",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual a cor do dragão em A Herança?",
+                    "alternativas": [
+                        {
+                            "texto": "Cinza",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Prata",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Azul",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Branco",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -1008,31 +1058,6 @@
                         },
                         {
                             "texto": "Morros do Jacaré, do Galo e do Touro",
-                            "correto": false,
-                            "erro_num": "erro3"
-                        }
-                    ],
-                    "autoria": ["anônimo"]
-                },
-                {
-                    "pergunta": "Qual jogador(a) participou de 3 episódios seguidos?",
-                    "alternativas": [
-                        {
-                            "texto": "Juliana Leyva",
-                            "correto": true
-                        },
-                        {
-                            "texto": "Shelly",
-                            "correto": false,
-                            "erro_num": "erro1"
-                        },
-                        {
-                            "texto": "Jean Macedo",
-                            "correto": false,
-                            "erro_num": "erro2"
-                        },
-                        {
-                            "texto": "Felipe Xavier",
                             "correto": false,
                             "erro_num": "erro3"
                         }
@@ -2414,6 +2439,206 @@
                         }
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "Qual característica física de Nelson chama a atenção dos personagens em O Samba da Criação?",
+                    "alternativas": [
+                        {
+                            "texto": "Ele tinha um terceiro olho",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Ele não tinha pés e flutuava acima do chão",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Ele não tinha umbigo",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Seus cabelos eram feitos de ouro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Tera e Keka são que tipo de animais?",
+                    "alternativas": [
+                        {
+                            "texto": "Gatos",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Pássaros",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Uncórnios",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Guaxinins",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual foi o primeiro episódio a ter padrinhos convidados a jogar?",
+                    "alternativas": [
+                        {
+                            "texto": "Madruguinha do Oeste",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "O Suicídio de Anthony C. Smith",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Nada de Novo em Raccoon Town",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Pacto Raul",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual ex-aliado trai os Cavaleiros do Bicho e proíbe a música no Brasil?",
+                    "alternativas": [
+                        {
+                            "texto": "Zeca",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Fada Madrinha",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Sapão",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Zé Droguinha",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual a cor da varinha que a elfa dá para Loreanne em A Herança?",
+                    "alternativas": [
+                        {
+                            "texto": "Laranja",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Vermelha",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Roxa",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Rosa",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o primeiro episódio a ter um personagem (de jogador ou NPC) chamado Adam?",
+                    "alternativas": [
+                        {
+                            "texto": "A Bruxa, A Morte e As Quatro Gatas",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "O Corvo",
+                            "correto": true
+                        },
+                        {
+                            "texto": "A Herança",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Pacto John Lennon",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Onde Elliot se refugia ao final do episódio O Corvo?",
+                    "alternativas": [
+                        {
+                            "texto": "Rio de Janeiro",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Londres",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Nova York",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Madrid",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual desses não era um dos poderes das personalidades de Elliot, em O Corvo?",
+                    "alternativas": [
+                        {
+                            "texto": "Criar barreiras mentais",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Controlar pessoas",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Perceber objetos",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Modificar temperatura",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -2571,31 +2796,6 @@
                     "autoria": ["anônimo"]
                 },
                 {
-                    "pergunta": "Tera e Keka são que tipo de animais?",
-                    "alternativas": [
-                        {
-                            "texto": "Gatos",
-                            "correto": true
-                        },
-                        {
-                            "texto": "Pássaros",
-                            "correto": false,
-                            "erro_num": "erro1"
-                        },
-                        {
-                            "texto": "Uncórnios",
-                            "correto": false,
-                            "erro_num": "erro2"
-                        },
-                        {
-                            "texto": "Guaxinins",
-                            "correto": false,
-                            "erro_num": "erro3"
-                        }
-                    ],
-                    "autoria": []
-                },
-                {
                     "pergunta": "Em Vô Lipe e a Volta do Saci, o que foi usado para enfrentar o lobisomem?",
                     "alternativas": [
                         {
@@ -2616,31 +2816,6 @@
                             "texto": "Um sapato de salto alto",
                             "correto": false,
                             "erro_num": "erro2"
-                        }
-                    ],
-                    "autoria": []
-                },
-                {
-                    "pergunta": "Qual foi o primeiro episódio a ter padrinhos convidados a jogar?",
-                    "alternativas": [
-                        {
-                            "texto": "Madruguinha do Oeste",
-                            "correto": false,
-                            "erro_num": "erro3"
-                        },
-                        {
-                            "texto": "O Suicídio de Anthony C. Smith",
-                            "correto": false,
-                            "erro_num": "erro2"
-                        },
-                        {
-                            "texto": "Nada de Novo em Raccoon Town",
-                            "correto": false,
-                            "erro_num": "erro1"
-                        },
-                        {
-                            "texto": "Pacto Raul",
-                            "correto": true
                         }
                     ],
                     "autoria": []
@@ -3691,6 +3866,256 @@
                             "texto": "Elói",
                             "correto": false,
                             "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quantos anões são resgatados pelos jogadores em A Herança?",
+                    "alternativas": [
+                        {
+                            "texto": "70",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "80",
+                            "correto": true
+                        },
+                        {
+                            "texto": "90",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "100",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual apresentador(a) a jogadora Bruna Diir imita na cena em que Murin entrega os martelos mágicos aos anões em A Herança?",
+                    "alternativas": [
+                        {
+                            "texto": "Sílvio Santos",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Oprah Winfrey",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Faustão",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Xuxa",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Ao final de A Herança, qual era a alcunha de Donovan IV?",
+                    "alternativas": [
+                        {
+                            "texto": "O Pai",
+                            "correto": true
+                        },
+                        {
+                            "texto": "O Herói",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "O Chorão",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "O Fracassado",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quantas canecas Cerkin fez para comemorar as aventuras de Murin, em A Herança?",
+                    "alternativas": [
+                        {
+                            "texto": "107",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "112",
+                            "correto": true
+                        },
+                        {
+                            "texto": "123",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "129",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Como se chamava a elfa do episódio A Herança?",
+                    "alternativas": [
+                        {
+                            "texto": "Liriel",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Fenriel",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Margriel",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Zeliel",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Como se chamava o presidente dos EUA no episódio Pacto John Lennon?",
+                    "alternativas": [
+                        {
+                            "texto": "Dwayne Douglas Johnson III",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "John Paul Harrison",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Enzo Valentine Valiant",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Terrence Denis Smith",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quem era o grande comerciante mencionado em A Herança?",
+                    "alternativas": [
+                        {
+                            "texto": "Cerkin Forja-prata",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Donovan III",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Ulner Forja-alma",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Donovan IV",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Que jogo foi citado como inspiração do episódio O Corvo?",
+                    "alternativas": [
+                        {
+                            "texto": "Project Snowblind",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Beyond: Two Souls",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Galerians",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Resident Evil 2",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em O Corvo, como se chama a droga da qual Elliot era cobaia de testes?",
+                    "alternativas": [
+                        {
+                            "texto": "Arifixina",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Cordalina",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Coraxicina",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Graleacimida",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em O Corvo, qual dessas invenções não é dada como um exemplo de algo que deu certo mesmo dando errado?",
+                    "alternativas": [
+                        {
+                            "texto": "Super bonder",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Marca-passo",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Penicilina",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Viagra",
+                            "correto": false,
+                            "erro_num": "erro1"
                         }
                     ],
                     "autoria": []
