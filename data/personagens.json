@@ -1,0 +1,3218 @@
+[
+    {
+      "personagem": "\"Cami\" Camila da Silva",
+      "interprete": "Jujulili",
+      "episodio": ["Cruzeiro Estrela Negra"],
+      "pronome": ""
+    },
+    {
+      "personagem": "\"Johny\" Mirosmar Silva",
+      "interprete": "Drey Lima",
+      "episodio": ["Eco das Estrelas"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "\"Nalu\" Ana Lúcia",
+      "interprete": "Rafa Malechesk",
+      "episodio": ["A Menina dos Sonhos"],
+      "pronome": ""
+    },
+    {
+      "personagem": "\"Pê\" Ishtar",
+      "interprete": "Ágata Sofia",
+      "episodio": ["A Capsula do Tempo"],
+      "pronome": ""
+    },
+    {
+      "personagem": "\"Sam\" Samuel",
+      "interprete": "Felipe Xavier",
+      "episodio": ["A Capsula do Tempo"],
+      "pronome": ""
+    },
+    {
+      "personagem": "\"Tars\" Teodoro Afonso Rodrigues Soares",
+      "interprete": "Guilherme Fabrício",
+      "episodio": ["Projeto Quasar"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "A.",
+      "interprete": "Anselmo",
+      "episodio": ["Pacto Belchior"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Abby",
+      "interprete": "Débora Mazetto",
+      "episodio": ["O Som da Escuridão"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Abigail",
+      "interprete": "Carol",
+      "episodio": ["A Fazenda do Seu Natalino"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ada",
+      "interprete": "Cinara",
+      "episodio": ["De volta para a pista"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ada",
+      "interprete": "Juliana Leyva",
+      "episodio": ["Aqui e Agora"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Adam Miller",
+      "interprete": "Danilo Batistini",
+      "episodio": "A Sombra de Tuluiazu",
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Adam",
+      "interprete": "Danilo Batistini",
+      "episodio": ["Onde está o Natal norte coreano?", "O Natal do Cauê", "O Fim do Natal", "O Show dos Gnomos"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Adele",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Sereno de Estrela"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Adrian",
+      "interprete": "Caio Lourêncio",
+      "episodio": ["A Ordem do Primeiro Filho"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Agata Magnus",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Fogo no Necrotério"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Agnes",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Cera"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Agostinho",
+      "interprete": "Ricardo Nespoli",
+      "episodio": ["Mistério em Jumosinha do Norte"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Águida",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["Reality ou Show?"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Alana",
+      "interprete": "Jujuba",
+      "episodio": ["Nina"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Alex Hamilton",
+      "interprete": "Hugo",
+      "episodio": ["Chocados no Espaço"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Alex Sander",
+      "interprete": "Guilherme Vertamatti",
+      "episodio": ["O imposto e o pé de galinha"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Alexa Parker",
+      "interprete": "Rafaela Malechesk",
+      "episodio": ["Jujubas de Ferro"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Alexia",
+      "interprete": "Shelly",
+      "episodio": ["O Desaparecimento de Dylan", "A Nova Residente"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ali",
+      "interprete": "Rafael Zipão",
+      "episodio": ["A Escola de Criaturas Adolescentes", "Clube dos Monstros, Ao Resgate!", "Escola de Monstros: O Fim"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Ali",
+      "interprete": "Juliana Leyva",
+      "episodio": ["Cruzeiro Estrela Negra"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Alice",
+      "interprete": "Agatha",
+      "episodio": ["Sangue no espaço"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Alicia",
+      "interprete": "Angélica Lyssa",
+      "episodio": ["A falta da Michele"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Aline Lima",
+      "interprete": "Shelly",
+      "episodio": ["O Último Hotel"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Aline Nakamura",
+      "interprete": "Sara",
+      "episodio": ["Eco das Estrelas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Alive",
+      "interprete": "Shelly",
+      "episodio": ["A Anjinha, O Demônio e A Morte (em treinamento)"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Allan Penoni",
+      "interprete": "Allan Penoni",
+      "episodio": ["RPG na Educação (SciCast#593)"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Amair",
+      "interprete": "Domenica Mendes",
+      "episodio": ["As Filhas da Floresta"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Amanda",
+      "interprete": "Amanda Evangelista",
+      "episodio": ["Casa de Boneca"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Amanda",
+      "interprete": "Danielle Golebiowski",
+      "episodio": ["A ESPERA"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Amarelo",
+      "interprete": "Felipe Queiroz",
+      "episodio": ["Os Cavaleiros Arco-íris"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Ameaça Silenciosa",
+      "interprete": "Ana Neves",
+      "episodio": ["As Princesas Orquizas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Amelie Leclerq",
+      "interprete": "Rebel Bia",
+      "episodio": ["O Homem de Terno Carmim"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ammy",
+      "interprete": "Carol",
+      "episodio": ["O Som da Escuridão"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Amora",
+      "interprete": "Fernanda Cortez",
+      "episodio": ["As Filhas da Floresta"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Amsterdam",
+      "interprete": "José Enio",
+      "episodio": ["Sangue no espaço"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Ana",
+      "interprete": "Isabela Fontanella",
+      "episodio": ["Os Órfãos, A Magia e o Jacaré Invisível"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ana",
+      "interprete": "Ana Beatriz",
+      "episodio": ["O Casamento, a Festa Junina e o Chifrudo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ana Clara",
+      "interprete": "Rafaela Malechesk",
+      "episodio": ["O Jogo da Nadine"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ana Júlia (Najuia)",
+      "interprete": "Luluzinha",
+      "episodio": ["O Pré I e O Grande Roubo do Coração"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Anastácia Calamena",
+      "interprete": "Ágata Sofia",
+      "episodio": ["O Mês que o Mar Levou Magnólia"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Anatevka (Tev)",
+      "interprete": "Rafael Telerman",
+      "episodio": ["O Segundo Sol"],
+      "pronome": ""
+    },
+    {
+      "personagem": "André Trapani",
+      "interprete": "André Trapani",
+      "episodio": ["RPG na Educação (SciCast#593)"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Andrômeda",
+      "interprete": "Amanda Evangelista",
+      "episodio": ["Operação Azevinho"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Andy",
+      "interprete": "Gabriel Balardino",
+      "episodio": ["Convite de Casamento"],
+      "pronome": "Elu"
+    },
+    {
+      "personagem": "Angelas Corrientes",
+      "interprete": "Juliana Leyva",
+      "episodio": ["O Cheirinho do Armário"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Angélica \"Lilica\"",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["Velozes, Listrados e Furiosos"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Angus",
+      "interprete": "Gus",
+      "episodio": ["Cera"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Anira Carter",
+      "interprete": "Shelly",
+      "episodio": ["Uma última volta no carrossel"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Anísia",
+      "interprete": "Shelly",
+      "episodio": ["Os Cavaleiros do Bicho e a Cinderela do Baile", "Cavaleiros do Bicho vs Sao Paolo", "Cavaleiros do Bicho Parte 3", "Os Cavaleiros do Bicho: A Batalha Final"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Anissos",
+      "interprete": "João Paulo Busche",
+      "episodio": ["A Boba, O Circo e As Crianças"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Anita",
+      "interprete": "Juliana Leyva",
+      "episodio": ["O Pré Dois e o Segredo da Cuca"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Anne Daiane",
+      "interprete": "Danielle Golebiowski",
+      "episodio": ["Cuco"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Antonia (Toinha)",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Mistério em Jumosinha do Norte"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Aparecida \"Cida\"",
+      "interprete": "Juliana Leyva",
+      "episodio": ["O Chapéu do Mineiro e os Zumbis"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Aradne Aranha",
+      "interprete": "Sabrina Palma",
+      "episodio": ["Cavaleiros do Arco-íris: O Último Corvo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Arandu",
+      "interprete": "Felipe Xavier",
+      "episodio": ["O mistério de Rita"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Arcoverde",
+      "interprete": "Gabriel Arcoverde",
+      "episodio": ["Por um Punhado de Armas"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Ardo",
+      "interprete": "Rafael Zorzal",
+      "episodio": ["O Casamento da Bruxa"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Ártemis",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Sem Tempo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Arturo",
+      "interprete": "Peu Lausi",
+      "episodio": ["Cera"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Aster",
+      "interprete": "João Galvão",
+      "episodio": ["O Jardim de Auravél"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Atena",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["Sonhos de Ananda"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Atla/Asvel",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Anjos de Metal: Êxodo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Audrey",
+      "interprete": "Isabela Fontanella",
+      "episodio": ["O Corvo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Audrey",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["O Sumiço do Idoso Sedutor"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Audrey Abeb",
+      "interprete": "Tati Kafka",
+      "episodio": ["A Urna de Augustus Maier"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Aurora Hikihisa",
+      "interprete": "Fernanda Cortez",
+      "episodio": ["Guerreiras Mágicas do Guaxinim"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ayla",
+      "interprete": "Rafaela Malechesk",
+      "episodio": ["A Princesa Orquiza e a Guerra"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Azhad",
+      "interprete": "Jean Macedo",
+      "episodio": ["Açúcar, Sangue e Madeira"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Azimuth (Azi)",
+      "interprete": "Juliana Leyva",
+      "episodio": ["O Segundo Sol"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Azul",
+      "interprete": "Fernando Malta",
+      "episodio": ["Os Cavaleiros Arco-íris"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Azzy (Ziza)",
+      "interprete": "Ágata Sofia",
+      "episodio": ["O Baile"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "B. Watson",
+      "interprete": "João Paulo Busche",
+      "episodio": ["A Caçada dos Injustos"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Baloo",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Os Três Ursos e a Soneca da Favo de Mel"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Bart",
+      "interprete": "Andrey",
+      "episodio": ["Metallic Raccoon: O Grande Show"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Bartolomeu Alonzo (Bart)",
+      "interprete": "Jean Macedo",
+      "episodio": ["O Bom, O Mau e O Ceifador"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Bela",
+      "interprete": "Thais Zuzu",
+      "episodio": ["A Menina dos Sonhos"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Benjamim Branco \"O Bacana\"",
+      "interprete": "Fernando Malta",
+      "episodio": ["Queimada: A Ascensão das Lendárias Cobras Roxas"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Bernand McDowall",
+      "interprete": "Felipe Xavier",
+      "episodio": ["O Olho de Deus"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Bernardo",
+      "interprete": "Rafael Zorzal",
+      "episodio": ["O Casamento, a Festa Junina e o Chifrudo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Bi",
+      "interprete": "Tarinê",
+      "episodio": ["A Morte, A Corva e O Contrato Mais Antigo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Bia",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["As Bolachas de Natal, Uma Aventura Fanta"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Bianca",
+      "interprete": "Debbie",
+      "episodio": ["Na sombra das ondas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Bianca",
+      "interprete": "Danielle Golebiowski",
+      "episodio": ["O Canto da Cigarra"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Big John",
+      "interprete": "Felipe Xavier",
+      "episodio": ["O Circo Pirata"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Blaise Dyon",
+      "interprete": "Shelly",
+      "episodio": ["O tipo certo de garota"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Blu",
+      "interprete": "Fernando Malta",
+      "episodio": ["Amada filha"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Blueberry",
+      "interprete": "Shelly",
+      "episodio": ["Eu beijei uma garota"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Bob Rock Reggae do Surf",
+      "interprete": "Danilo Batistini",
+      "episodio": ["Caixa de Brinquedos"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Boros",
+      "interprete": "Rafael Telerman",
+      "episodio": ["Terror no Flavia Regina"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Branca de Neve",
+      "interprete": "Mari Ribeiro",
+      "episodio": ["A Bruxa, A Morte e As Quatro Gatas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Brenda",
+      "interprete": "Fernanda Cortez",
+      "episodio": ["Chama"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Brielle",
+      "interprete": "Gabriel Balardino",
+      "episodio": ["A Anjinha, O Demônio e A Morte (em treinamento)"],
+      "pronome": ""
+    },
+    {
+      "personagem": "C.",
+      "interprete": "Crhis",
+      "episodio": ["Pacto Belchior"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Cacá",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Os Três Ursos e a Soneca da Favo de Mel"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Cadence",
+      "interprete": "Caroline Hashimoto",
+      "episodio": ["A Véia Embaixo da Cama"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Caius",
+      "interprete": "Gilles",
+      "episodio": ["A Provação da Água"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Capitão",
+      "interprete": "Danilo Batistini",
+      "episodio": ["A Fazenda do Seu Natalino", "Os Animais da Floresta e o Grande Roubo do Bolo!"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Carlos",
+      "interprete": "Renan Vieira",
+      "episodio": ["Duke"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Carlos Maguelan",
+      "interprete": "Sr. Nuvem",
+      "episodio": ["Fogo no Necrotério"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Carlos Rogato",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Primeiro Contato"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Carmelita",
+      "interprete": "Thais Zuzu",
+      "episodio": ["Eco das Estrelas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Carmen",
+      "interprete": "Débora Mazetto",
+      "episodio": ["Reality ou Show?"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Carol",
+      "interprete": "Fernanda Cortez",
+      "episodio": ["A falta da Michele"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Carolina",
+      "interprete": "Danielle Golebiowski",
+      "episodio": ["Não Coma Minha Janela"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Caspian",
+      "interprete": "Rafael Quina",
+      "episodio": ["O Jardim de Auravél"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Cassie",
+      "interprete": "Cinara",
+      "episodio": ["Sangue no espaço"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Cassius",
+      "interprete": "Adriano Trotta",
+      "episodio": ["Sereno de Estrela"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Cecília",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Convite de Casamento"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Cegueta",
+      "interprete": "Baruc",
+      "episodio": ["O Tesouro de Gary Boy"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Chang Chi",
+      "interprete": "Caroline Hashimoto",
+      "episodio": ["Pavio"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Charles",
+      "interprete": "Ramon",
+      "episodio": ["Chama"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Charlote Renoir",
+      "interprete": "Andressa Martins",
+      "episodio": ["O Último Hotel"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Chekov",
+      "interprete": "Gabriel Pinheiro",
+      "episodio": ["Primeiro Contato"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Chica Chicote Ferino",
+      "interprete": "Juliana Leyva",
+      "episodio": ["As Orquizas e a Copa do Mundo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Crhis",
+      "interprete": "Thais Boccia",
+      "episodio": ["Os Cavaleiros do Bicho e a Cinderela do Baile", "Cavaleiros do Bicho vs Sao Paolo", "Cavaleiros do Bicho Parte 3", "Os Cavaleiros do Bicho: A Batalha Final"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ciara MacMillan",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Os Vinhedos da Família Mallet"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Cibele",
+      "interprete": "Rafaela Rangel",
+      "episodio": ["Um Jogo Clínico"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Clara, neta da Vó Clarice",
+      "interprete": "Danielle Golebiowski",
+      "episodio": ["Jujubas de Ferro"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Clark",
+      "interprete": "Lucas Dressler",
+      "episodio": ["Sanatório Hollywood"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Claude (Claudinho)",
+      "interprete": "Sr. Nuvem",
+      "episodio": ["Teo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Cleiton Daskalakis",
+      "interprete": "Danilo Batistini",
+      "episodio": ["Os Herdeiros de Titi"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Clotilde/Camaleoa",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Os Animais da Floresta e o Grande Roubo do Bolo!"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Conan Obrian",
+      "interprete": "Ramón",
+      "episodio": ["Bichos Escrotos"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Cristina",
+      "interprete": "Cinara",
+      "episodio": ["O Samba da Criação"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Crotaro",
+      "interprete": "Gabriel Mezzena",
+      "episodio": ["O Lobo de Enio"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Dakota",
+      "interprete": "Debbie",
+      "episodio": ["Madruguinha do oeste"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Dandara (Danda)",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["Febre da Lebre"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Daniel",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Mistério em Jumosinha do Norte"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Daniel Ferreira",
+      "interprete": "Rafael Telerman",
+      "episodio": ["A Flecha no Seu Zé"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Darbie",
+      "interprete": "Shelly",
+      "episodio": ["Caixa de Brinquedos"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Davina Dun",
+      "interprete": "Andressa Martins",
+      "episodio": ["A Casa"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Dayenne",
+      "interprete": "Jujuba",
+      "episodio": ["Billie Jean"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Debbie Pru",
+      "interprete": "Debbie",
+      "episodio": ["O sal do Himalaia"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Deco",
+      "interprete": "Deah",
+      "episodio": ["O Futuro do João Lucas"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Deolindo",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Vô Lipe e a volta do Saci"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Diego (Digão)",
+      "interprete": "Senhor Basso",
+      "episodio": ["Baile das Rosas: Doces ou Travessuras"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Diego Albatroz",
+      "interprete": "Rafael Telerman",
+      "episodio": ["Cavaleiros do Arco-íris: O Último Corvo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Dimitri",
+      "interprete": "Caio Lourêncio",
+      "episodio": ["Açúcar, Sangue e Madeira"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Dina",
+      "interprete": "Danielle Golebiowski",
+      "episodio": ["Quando você morre?"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Dmitro",
+      "interprete": "Jean Macedo",
+      "episodio": ["Juju Alive"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Don Ramón",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Madruguinha do oeste"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Dona Lena",
+      "interprete": "Ewa",
+      "episodio": ["Cruzeiro Estrela Negra"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Dona Neves",
+      "interprete": "Shelly",
+      "episodio": ["A Fazenda do Seu Natalino"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Donavan Wolfgang",
+      "interprete": "Rodrigo Azevedo",
+      "episodio": ["A Vaca Fifi e Os Feijões"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Dora",
+      "interprete": "Juliana Leyva",
+      "episodio": ["Os Cavaleiros do Bicho, A Nova Geração: O Coelho e a Tia Zinha", "Cavaleiros do Bicho, A Nova Geração: Resgate em San Paolo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Dora",
+      "interprete": "Dani Golebiowski",
+      "episodio": ["Os Três Ursos e a Soneca da Favo de Mel"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Dorcas",
+      "interprete": "Luana Sabijon",
+      "episodio": ["Chama"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Drielle",
+      "interprete": "Debbie",
+      "episodio": ["A Deusa Menina"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Duda",
+      "interprete": "Fernanda Cortez",
+      "episodio": ["O Circo Pirata"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Dustin",
+      "interprete": "Lucas Dressler",
+      "episodio": ["O anão, o dragão e a bruxa"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Eddie Murphy",
+      "interprete": "Gabe, o Bardo",
+      "episodio": ["Nada de novo em Raccoon Town"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Edith",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Morte na Casa de Esqui"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Eduardo (Dudu)",
+      "interprete": "Felipe Xavier",
+      "episodio": ["O Casamento, a Festa Junina e o Chifrudo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Eli",
+      "interprete": "Allan Penoni",
+      "episodio": ["O Lobo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Elisabeth Blackwell",
+      "interprete": "Shelly",
+      "episodio": ["Casa de Boneca"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Elisha Faith",
+      "interprete": "Shelly",
+      "episodio": ["O imposto e o pé de galinha"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Emily",
+      "interprete": "Cinara",
+      "episodio": ["Eu estarei lá"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Emily",
+      "interprete": "Prix",
+      "episodio": ["A falta da Michele"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Emma",
+      "interprete": "Debbie",
+      "episodio": ["Pirâmide das Almas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Emma Elliot",
+      "interprete": "Cinara",
+      "episodio": ["O suicídio de Anthony C Smith", "Duke"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Emma King",
+      "interprete": "Thais Zuzu",
+      "episodio": ["Mãe?"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Enzo",
+      "interprete": "Gianfrancesco",
+      "episodio": ["O Pôr do Sol"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Érica",
+      "interprete": "Juliana Leyva",
+      "episodio": ["A Capsula do Tempo"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Erick",
+      "interprete": "Jean Macedo",
+      "episodio": ["Os Cavaleiros do Bicho, A Nova Geração: O Coelho e a Tia Zinha", "Cavaleiros do Bicho, A Nova Geração: Resgate em San Paolo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Érika",
+      "interprete": "Ana Neves",
+      "episodio": ["A Princesa, o Principe e a Guerra"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ester",
+      "interprete": "Luana Sabijon",
+      "episodio": ["A Vaca Fifi e Os Feijões"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Eudora Leroy",
+      "interprete": "Sara Barboza",
+      "episodio": ["Os Vinhedos da Família Mallet"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Evan",
+      "interprete": "Hector Souza",
+      "episodio": ["O lobo de Enio"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Evelyn",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Era uma vez três crianças"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ewa",
+      "interprete": "Juliana Leyva",
+      "episodio": ["O Pré I e O Grande Roubo do Coração"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "F.",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Pacto Belchior"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Fabianne",
+      "interprete": "Juliana Leyva",
+      "episodio": ["A Caçada dos Injustos"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Farfelle",
+      "interprete": "Shelly",
+      "episodio": ["O mistério de Rita"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Feh",
+      "interprete": "João Pedro (Panda)",
+      "episodio": ["Guaxinins: O Retorno dos Filhotes"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Felipa",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Não Coma Minha Janela"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Felipe",
+      "interprete": "Gabriel Pinheiro",
+      "episodio": ["A Medalha do Charles"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Felipe Xavier",
+      "interprete": "Felipe Xavier",
+      "episodio": ["RPG na Educação (SciCast#593)"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Fenix",
+      "interprete": "Luana Sabijon",
+      "episodio": ["Passarinhos"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Fênix Rubra",
+      "interprete": "Shelly",
+      "episodio": ["O anão, o dragão e a bruxa"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Flávio",
+      "interprete": "Peu Lausi",
+      "episodio": ["O Lobo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Flávio",
+      "interprete": "Patrick Buchmann",
+      "episodio": ["Os Cavaleiros do Bicho, A Nova Geração: O Coelho e a Tia Zinha","Cavaleiros do Bicho, A Nova Geração: Resgate em San Paolo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Fracasso",
+      "interprete": "Mr. Caio",
+      "episodio": ["O Tesouro de Gary Boy"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Francesco Maya",
+      "interprete": "Gustavo Martinez",
+      "episodio": ["Glória!"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Francis dos Santos",
+      "interprete": "Jean Macedo",
+      "episodio": ["Como Um Sabiá"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Fred",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Sábado 14"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Freduardo \"Fred\"",
+      "interprete": "Rafael Telerman",
+      "episodio": ["O Chapéu do Mineiro e os Zumbis"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Fyra",
+      "interprete": "Shelly",
+      "episodio": ["As Lobas da Lua Vermelha"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Galta Ciclone Rubro",
+      "interprete": "Fabíola Belo",
+      "episodio": ["As Orquizas e a Copa do Mundo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Gaspar Coruja",
+      "interprete": "João Paulo Busche",
+      "episodio": ["Cavaleiros do Arco-íris: O Último Corvo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Gelci",
+      "interprete": "Juliana Leyva",
+      "episodio": ["O Jogo da Nadine"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Geraldo",
+      "interprete": "Mike Abrantes",
+      "episodio": ["O Canto da Cigarra"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Gilberto Assis \"Gil\"",
+      "interprete": "Sr. Basso",
+      "episodio": ["O Solo de Lídia"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Giovani",
+      "interprete": "Giovani Pinheiro",
+      "episodio": ["A Volta da Cigarra"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Giovanni Collete",
+      "interprete": "André Trapani",
+      "episodio": ["Glória!"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Giuseppe",
+      "interprete": "Anselmo",
+      "episodio": ["Pacto Raul"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Giza",
+      "interprete": "Sara Barbosa",
+      "episodio": ["Guaxinins: O Retorno dos Filhotes"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Gramtag (Wesley)",
+      "interprete": "Vinivius Watzl",
+      "episodio": ["O anão, o dragão e a bruxa"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Grumm",
+      "interprete": "Adriano Trotta",
+      "episodio": ["A Escola de Criaturas Adolescentes", "Clube dos Monstros, Ao Resgate!", "Escola de Monstros: O Fim"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Guadalupe (Lupe)",
+      "interprete": "Juliana Leyva",
+      "episodio": ["Febre da Lebre"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Gulliver",
+      "interprete": "Gus",
+      "episodio": ["A Voz da Garotinha"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Gustava (Ghost)",
+      "interprete": "Naomi",
+      "episodio": ["Sem Tempo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Guto",
+      "interprete": "Drey Lima",
+      "episodio": ["O Verão da Cigarra"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Harvey",
+      "interprete": "Tarik",
+      "episodio": ["O Corvo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Heitor",
+      "interprete": "Felipe Xavier",
+      "episodio": ["As Bolachas de Natal, Uma Aventura Fanta"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Helena",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Zumbis e a Vaca que Pariu"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Henry Daniel Dent",
+      "interprete": "André Trapani",
+      "episodio": ["Bichos Escrotos"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Hillary",
+      "interprete": "Amanda Evangelista",
+      "episodio": ["Por um Punhado de Armas", "A Viajante, A Exilada e a Xerife"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ian",
+      "interprete": "Victor Hugo",
+      "episodio": ["O Jogo da Nadine"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Iara",
+      "interprete": "Juliana Leyva",
+      "episodio": ["Nina"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Iasmim Ribeiro",
+      "interprete": "Fabíola Belo",
+      "episodio": ["O Verão da Cigarra"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Inahi",
+      "interprete": "Tarinê",
+      "episodio": ["Um Jogo Clínico"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Irani",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Quando você morre?"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Irineu Souza",
+      "interprete": "André Trapani",
+      "episodio": ["Queimada: A Ascensão das Lendárias Cobras Roxas"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Isaac",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Morte na Casa de Esqui"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Isabel (Bel)",
+      "interprete": "Fernanda Cortez",
+      "episodio": ["Teo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Isabella Allen",
+      "interprete": "Rafaela Malechesk",
+      "episodio": ["Projeto Quasar"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Isadora",
+      "interprete": "Shelly",
+      "episodio": ["Pão, Margarina e um Meteoro"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Isis",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Convite de Casamento"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Isobel",
+      "interprete": "Ágata Sofia",
+      "episodio": ["A Provação da Água"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Ita",
+      "interprete": "Tarinê",
+      "episodio": ["Zumbis e a Vaca que Pariu"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Ivaldeunitina (panda)",
+      "interprete": "Shelly",
+      "episodio": ["Aqui e Agora"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Ivan Guaxa",
+      "interprete": "Naomi",
+      "episodio": ["Velozes, Listrados e Furiosos"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ivelize",
+      "interprete": "Shelly",
+      "episodio": ["O Futuro do João Lucas", "Águas Passadas"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Ivolet (Lete)",
+      "interprete": "Shelly",
+      "episodio": ["O Baile"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ivone Marcelia Montecino Ivanêz",
+      "interprete": "Shelly",
+      "episodio": ["Canciones de Família"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Ivy McDowall",
+      "interprete": "Shelly",
+      "episodio": ["O Olho de Deus"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Jack",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Acredite!"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Jane",
+      "interprete": "Rebel Bia",
+      "episodio": ["O Baile"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Jane Austin",
+      "interprete": "Debbie",
+      "episodio": ["A Sombra de Tuluiazu"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Jão",
+      "interprete": "Geraldo Nagib",
+      "episodio": ["Na sombra das ondas"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Jaque Souza",
+      "interprete": "Patrick Buchmann",
+      "episodio": ["O Verão da Cigarra"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Jasper",
+      "interprete": "Rafael Telerman",
+      "episodio": ["A Luz do Farol"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Jenny",
+      "interprete": "Prix",
+      "episodio": ["Billie Jean"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Jerivaldo \"Jamiro Guaxa\"",
+      "interprete": "Danilo Batistini",
+      "episodio": ["Velozes, Listrados e Furiosos"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Jessica",
+      "interprete": "Flavia Ward",
+      "episodio": ["Vô Lipe e a volta do Saci"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Jéssica (Jessy)",
+      "interprete": "Luana Sabijon",
+      "episodio": ["O Bom, O Mau e O Ceifador"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Jet",
+      "interprete": "Ágata Sofia",
+      "episodio": ["O Segundo Sol"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Jill Monroe",
+      "interprete": "Debbie",
+      "episodio": ["O tipo certo de garota"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Jimmy Costas",
+      "interprete": "Giovana",
+      "episodio": ["Uma última volta no carrossel"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Joana Teslone",
+      "interprete": "Rafaela Rangel",
+      "episodio": ["Açúcar, Sangue e Madeira"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Joaquim Epaminondas",
+      "interprete": "Hector Souza",
+      "episodio": ["A Flecha no Seu Zé"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Joe Sullivan",
+      "interprete": "Danilo Batistini",
+      "episodio": ["O Olho de Deus"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Johan Wagner",
+      "interprete": "Rafael Zorzal",
+      "episodio": ["A Urna de Augustus Maier"],
+      "pronome": ""
+    },
+    {
+      "personagem": "John",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Eu estarei lá"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "John",
+      "interprete": "Vagner Vieira",
+      "episodio": ["Parte de Mim"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Johny",
+      "interprete": "Gabriel Pinheiro",
+      "episodio": ["Acredite!"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Johny",
+      "interprete": "Gabriel Pinheiro",
+      "episodio": ["O Reflexo de Tuluiazu"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Jörgen",
+      "interprete": "Patrick Buchmann",
+      "episodio": ["Pavio"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "José",
+      "interprete": "Fernando Malta",
+      "episodio": ["Na sombra das ondas"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Joseph",
+      "interprete": "Rodrigo Mesquita",
+      "episodio": ["Era uma vez três crianças"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Joseph King",
+      "interprete": "Jean Macedo",
+      "episodio": ["Mãe?"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Josephine Trambley",
+      "interprete": "Isabela Fontanella",
+      "episodio": ["O tipo certo de garota"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Josué",
+      "interprete": "Ramón",
+      "episodio": ["A Décima Nona Coroa"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Juan Oliver",
+      "interprete": "Tiago Jedson",
+      "episodio": ["O contrato de Micli"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Judy",
+      "interprete": "Jujuba",
+      "episodio": ["O sal do Himalaia"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Julia Carvalho",
+      "interprete": "Danielle Golebiowski",
+      "episodio": ["Seguro de Vida"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Julie",
+      "interprete": "Debbie",
+      "episodio": ["Acredite!"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Julius Longwater",
+      "interprete": "João Paulo Busche",
+      "episodio": ["A Luz do Farol"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Juniper \"June\" Jones",
+      "interprete": "Rebel Bia",
+      "episodio": ["Juju Alive"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Juruparí",
+      "interprete": "Felipe Xavier",
+      "episodio": ["A Anjinha, O Demônio e A Morte (em treinamento)"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Kai Kimura",
+      "interprete": "Rafaela Rangel",
+      "episodio": ["Metallic Raccoon: O Grande Show"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Kaio Zunção (Kazu)",
+      "interprete": "Luco Borgs",
+      "episodio": ["Como Um Sabiá"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Kaleb",
+      "interprete": "Renan Vieira",
+      "episodio": ["Resiliente"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Kameko",
+      "interprete": "Shelly",
+      "episodio": ["As quatro estações shinobi"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Kamil Kowaski",
+      "interprete": "Patrick Buchmann",
+      "episodio": ["A Urna de Augustus Maier"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Kaoru",
+      "interprete": "Fernanda Dias",
+      "episodio": ["Sem Tempo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Karen",
+      "interprete": "Cinara",
+      "episodio": ["Resiliente"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Karina Melo",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Os Incríveis Pets de Lady Amanda"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Kássia",
+      "interprete": "Juliana Leyva",
+      "episodio": ["Alices"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Kat",
+      "interprete": "Shelly",
+      "episodio": ["Você Já Sentiu Falta de Algo Que Nunca Existiu?"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Kate",
+      "interprete": "Isabela Fontanella",
+      "episodio": ["Amada filha"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Kate",
+      "interprete": "Rafaela Malechesk",
+      "episodio": ["A Véia Embaixo da Cama"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Katherine Price",
+      "interprete": "Luana Sabijon",
+      "episodio": ["Parte de Mim"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Katherine Short",
+      "interprete": "Mari Ribeiro",
+      "episodio": ["Pacto John Lennon"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Kathryn",
+      "interprete": "Paula Potter",
+      "episodio": ["1910: O Caso do Imperial Prata"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Katia",
+      "interprete": "Ana Neves",
+      "episodio": ["A Chuva"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Katia Silene",
+      "interprete": "Tati Kafka",
+      "episodio": ["Sangue nas Nuvens"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Kauã",
+      "interprete": "Felipe Xavier",
+      "episodio": ["O Pré Dois e o Segredo da Cuca"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Kelvin",
+      "interprete": "Gilles",
+      "episodio": ["A Chuva"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Key Jr",
+      "interprete": "Tiani",
+      "episodio": ["Sem Tempo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Kiki",
+      "interprete": "Caio Lourêncio",
+      "episodio": ["A Creche dos Pequenos Monstrinhos"],
+      "pronome": ""
+    },
+    {
+      "personagem": "\"Kuro\" Carlos Kurokawa",
+      "interprete": "Caio Lourêncio",
+      "episodio": ["Contos da Meia-Noite - Letícia"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Lando",
+      "interprete": "Ricardo Nespoli",
+      "episodio": ["A Escuridão da Caverna"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Larissa Antunes",
+      "interprete": "Sara Barbosa",
+      "episodio": ["O Mês que o Mar Levou Magnólia"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Larissa Reeves",
+      "interprete": "Fernanda Cortez",
+      "episodio": ["Eu beijei uma garota"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Laura",
+      "interprete": "Agatha",
+      "episodio": ["O lobo de Enio"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Laura",
+      "interprete": "Thais Zuzu",
+      "episodio": ["O Pré I e O Grande Roubo do Coração"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "\"Lauri\" Lauriene",
+      "interprete": "Julena",
+      "episodio": ["Contos da Meia-Noite - Letícia"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Lazuli",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Você Já Sentiu Falta de Algo Que Nunca Existiu?"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Leia",
+      "interprete": "Thais Boccia",
+      "episodio": ["A Bruxa, A Morte e As Quatro Gatas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Leo Souza",
+      "interprete": "Leo Souza",
+      "episodio": ["RPG na Educação (SciCast#593)"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Leon",
+      "interprete": "Patrick Buchmann",
+      "episodio": ["A ESPERA"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Leon Hannes",
+      "interprete": "Jean Macedo",
+      "episodio": ["O Homem de Terno Carmim"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Leonardo",
+      "interprete": "Sr. Basso",
+      "episodio": ["Sangue nas Nuvens"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Letícia Andrade",
+      "interprete": "Jujulili",
+      "episodio": ["Contos da Meia-Noite - Letícia"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Letícia",
+      "interprete": "Juliana Leyva",
+      "episodio": ["As Bolachas de Natal, Uma Aventura Fanta"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Lia",
+      "interprete": "Shelly",
+      "episodio": ["Pirâmide das Almas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Liana",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Alices"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Lina",
+      "interprete": "Jujuba",
+      "episodio": ["Sanatório Hollywood"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Lisa",
+      "interprete": "Debbie",
+      "episodio": ["Morte na Casa de Esqui"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Liv Anderson",
+      "interprete": "Paula Potter",
+      "episodio": ["Casa de Boneca"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Lívia",
+      "interprete": "Shelly",
+      "episodio": ["Nina"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Liz Delphin",
+      "interprete": "Francine Tribes",
+      "episodio": ["A Luz do Farol"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Logan",
+      "interprete": "Sr. Basso",
+      "episodio": ["1910: O Caso do Imperial Prata"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Loiva",
+      "interprete": "Shelly",
+      "episodio": ["O Pré Dois e o Segredo da Cuca"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Longwater",
+      "interprete": "Pedro Rodrigues",
+      "episodio": ["O Poderoso N"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Loreanne",
+      "interprete": "Jujuba",
+      "episodio": ["A Herança"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Loreanne",
+      "interprete": "Jujuba",
+      "episodio": ["Onde está o Natal norte coreano?", "O Natal do Cauê", "O Fim do Natal", "O Show dos Gnomos"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Lorena",
+      "interprete": "Jujuba",
+      "episodio": ["Operação Azevinho"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Lorena Rogato",
+      "interprete": "Fernanda Cortez",
+      "episodio": ["Primeiro Contato"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Louis Du",
+      "interprete": "Pedro Quitete",
+      "episodio": ["O Último Hotel"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Louise",
+      "interprete": "Cinara",
+      "episodio": ["Sábado 14"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Louise",
+      "interprete": "Cinara",
+      "episodio": ["O Reflexo de Tuluiazu"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Luano",
+      "interprete": "Rafael Telerman",
+      "episodio": ["Tinta"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Lucas",
+      "interprete": "Felipe Xavier",
+      "episodio": ["O Pôr do Sol"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Lúcia Helena (Lena)",
+      "interprete": "Juliana Leyva",
+      "episodio": ["Teo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Lucky",
+      "interprete": "Jean Macedo",
+      "episodio": ["Guaxinins: O Retorno dos Filhotes"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Lukuki/Pantera Negra",
+      "interprete": "Lucas Sassaki",
+      "episodio": ["Os Filhos da Rainha Lira"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Lully Scully",
+      "interprete": "Jujuba",
+      "episodio": ["O contrato de Micli"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Lunara",
+      "interprete": "Rebel Bia",
+      "episodio": ["As Lobas da Lua Vermelha"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Lupita",
+      "interprete": "Danielle Golebiowski",
+      "episodio": ["MonsterChef"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Mabel O'Connor",
+      "interprete": "Caroline Hashimoto",
+      "episodio": ["O Cheirinho do Armário"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Mackenzie Besos",
+      "interprete": "Shelly",
+      "episodio": ["Eva"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Maggie",
+      "interprete": "Cinara",
+      "episodio": ["Pacto Raul"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Maia",
+      "interprete": "Juliana Leyva",
+      "episodio": ["A Voz da Garotinha"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Mariposa Peligrosa",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["Los Luchadores: El Desafio del Cuervo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Malker",
+      "interprete": "Peralta",
+      "episodio": ["O Casamento da Bruxa"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Marcelo Guaxinim",
+      "interprete": "Marcelo Guaxinim",
+      "episodio": ["RPG na Educação (SciCast#593)"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Marcos Antônio",
+      "interprete": "Thiago Kesley",
+      "episodio": ["A Menina dos Sonhos"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Margaux Favre",
+      "interprete": "Juliana Leyva",
+      "episodio": ["O Homem de Terno Carmim"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Marina",
+      "interprete": "Rafaela Malechesk",
+      "episodio": ["Baile das Rosas: Doces ou Travessuras"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Marina Zanella",
+      "interprete": "Juliana Leyva",
+      "episodio": ["A Volta da Cigarra"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Mário (Marinho)",
+      "interprete": "Patrick Buchmann",
+      "episodio": ["Febre da Lebre"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Marra",
+      "interprete": "Debbie",
+      "episodio": ["Sanatório Hollywood"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Martha",
+      "interprete": "Isabela Fontanella",
+      "episodio": ["A Ilha Condenada", "A Viajante, A Exilada e a Xerife"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Maru",
+      "interprete": "Fernando Malta",
+      "episodio": ["As quatro estações shinobi"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Mary Shelly",
+      "interprete": "Shelly",
+      "episodio": ["Eu estarei lá"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Matias",
+      "interprete": "Felipe Xavier",
+      "episodio": ["O Desaparecimento de Dylan"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Matias Fernandes (Úrsula)",
+      "interprete": "Debbie",
+      "episodio": "Úrsula",
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Max Payne",
+      "interprete": "João Galvão",
+      "episodio": ["O suicídio de Anthony C Smith", "Amada filha", "Duke"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Maya",
+      "interprete": "Jujulili",
+      "episodio": ["As Lobas da Lua Vermelha"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Megan O'brian",
+      "interprete": "Mônica de Faria",
+      "episodio": ["A Casa"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Megera",
+      "interprete": "Buru",
+      "episodio": ["O Tesouro de Gary Boy"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Melina",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["Não Coma Minha Janela"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Melina Stocker",
+      "interprete": "Rafaela Malechesk",
+      "episodio": ["Juju Alive"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Mell",
+      "interprete": "Juliana Leyva",
+      "episodio": ["Chocados no Espaço"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Melody Yoshikawa",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Guerreiras Mágicas do Guaxinim"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Mica Silva",
+      "interprete": "Juliana Leyva",
+      "episodio": ["Cinco"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Michael Dantes",
+      "interprete": "Andrey",
+      "episodio": ["Os Incríveis Pets de Lady Amanda"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Michael King",
+      "interprete": "Adriano Trotta",
+      "episodio": ["Mãe?"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Michele",
+      "interprete": "Jujuba",
+      "episodio": ["O Solo de Lídia"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Michelle Rodriguez",
+      "interprete": "Shelly",
+      "episodio": ["Nada de novo em Raccoon Town"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Miguel",
+      "interprete": "João Galvão",
+      "episodio": ["De volta para a pista"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Miguel",
+      "interprete": "Caio Lourêncio",
+      "episodio": ["Oi Miguel!"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Miguel Remolinos",
+      "interprete": "Adriano Trotta",
+      "episodio": ["Canciones de Família"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Minerva",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Reality ou Show?"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ming",
+      "interprete": "Shelly",
+      "episodio": ["A Sombra de Tuluiazu"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Mirrita",
+      "interprete": "Debbie",
+      "episodio": ["Os Ratinhos de Alcantarilla"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Misplica",
+      "interprete": "Shelly",
+      "episodio": ["Os Ratinhos de Alcantarilla"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Misplode",
+      "interprete": "Felipe Queiroz",
+      "episodio": ["Os Ratinhos de Alcantarilla"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Mixora",
+      "interprete": "Rafaela Malechesk",
+      "episodio": ["MonsterChef"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Moana",
+      "interprete": "Lucy",
+      "episodio": ["Eva"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Moe",
+      "interprete": "Fernando Malta",
+      "episodio": ["O Corvo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Mônica",
+      "interprete": "Débora Mazetto",
+      "episodio": ["Sangue nas Nuvens"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Mônica de Faria",
+      "interprete": "Mônica de Faria",
+      "episodio": ["RPG na Educação (SciCast#593)"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Morga Dentola",
+      "interprete": "Cinara",
+      "episodio": ["As Orquizas e a Copa do Mundo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Morgan",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Operação Azevinho"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Morgana",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Quando você morre?"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Morte",
+      "interprete": "Adriano Trotta",
+      "episodio": ["A Morte, A Corva e O Contrato Mais Antigo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Morty",
+      "interprete": "Giulian",
+      "episodio": ["A Deusa Menina"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Murin",
+      "interprete": "Danilo Batistini",
+      "episodio": ["A Herança"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Nádia",
+      "interprete": "Cinara",
+      "episodio": ["Eva"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Naia Almeida",
+      "interprete": "Juliana Leyva",
+      "episodio": ["O Mês que o Mar Levou Magnólia"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Nala",
+      "interprete": "Crhis",
+      "episodio": ["A Bruxa, A Morte e As Quatro Gatas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Nami",
+      "interprete": "Fabíola Belo",
+      "episodio": ["A Avó, O Aniversário e As Três Gatas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Nana/Cobra Caninana",
+      "interprete": "Juliana Leyva",
+      "episodio": ["Os Animais da Floresta e o Grande Roubo do Bolo!"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Nancy Armstrong",
+      "interprete": "Rebel Bia",
+      "episodio": ["Jujubas de Ferro"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Natália",
+      "interprete": "Cinara",
+      "episodio": ["A Medalha do Charles"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Nereci",
+      "interprete": "Fabíola Belo",
+      "episodio": ["A Escola de Criaturas Adolescentes", "Clube dos Monstros, Ao Resgate!", "Escola de Monstros: O Fim"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Nessa",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["Pavio"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Nick Faria",
+      "interprete": "Guilherme Sassaki",
+      "episodio": ["Pacto Raul"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Nick Foster",
+      "interprete": "Guilherme Sassaki",
+      "episodio": ["O suicídio de Anthony C Smith"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Nina Perez",
+      "interprete": "Sara Barbosa",
+      "episodio": ["Canciones de Família"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Niniel",
+      "interprete": "Juliana Leyva",
+      "episodio": ["A Princesa Orquiza e a Guerra"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Nívia",
+      "interprete": "Shelly",
+      "episodio": ["Memórias Nebulosas"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Nix",
+      "interprete": "Luana Sabijon",
+      "episodio": ["A Boba, O Circo e As Crianças"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Noah Miller",
+      "interprete": "João Queiroz",
+      "episodio": ["Projeto Quasar"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Nolan",
+      "interprete": "João Pedro (Panda)",
+      "episodio": ["Zumbis e a Vaca que Pariu"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Núbia",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["Pão, Margarina e um Meteoro"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Nublado",
+      "interprete": "Sr. Nuvem",
+      "episodio": ["Los Luchadores: El Desafio del Cuervo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Oásis/Texugo",
+      "interprete": "Sara",
+      "episodio": ["Os Filhos da Rainha Lira"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Olga",
+      "interprete": "Ana Neves",
+      "episodio": ["A Medalha do Charles"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Oliver",
+      "interprete": "Danilo Batistini",
+      "episodio": ["O sal do Himalaia"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Olivia Bruno",
+      "interprete": "Anna Schermak",
+      "episodio": ["Águas Passadas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Olívia Karen",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Baile das Rosas: Doces ou Travessuras"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Olívia Smoke",
+      "interprete": "Luana Sabijon",
+      "episodio": ["Seguro de Vida"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Osvaldo, o coelho feliz",
+      "interprete": "Tarik",
+      "episodio": ["A paranóia dos números"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Pandora",
+      "interprete": "Rebel Bia",
+      "episodio": ["As Filhas da Floresta"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Paola",
+      "interprete": "Jujuba",
+      "episodio": ["De volta para a pista"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Paola Albuquese",
+      "interprete": "Mariane Silvestre",
+      "episodio": ["Glória!"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Paper",
+      "interprete": "Fernando Malta",
+      "episodio": ["A paranóia dos números"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Paul",
+      "interprete": "Gabriel Pinheiro",
+      "episodio": ["Sábado 14"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Paul Ecleides",
+      "interprete": "Rafael Telerman",
+      "episodio": ["A Caçada dos Injustos"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Pedro",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Os Cavaleiros do Bicho e a Cinderela do Baile", "Cavaleiros do Bicho vs Sao Paolo", "Cavaleiros do Bicho Parte 3", "Os Cavaleiros do Bicho: A Batalha Final"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Pedro",
+      "interprete": "Rafael Andrade",
+      "episodio": ["Sereno de Estrela"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Persephone Tanaka",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Guerreiras Mágicas do Guaxinim"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Peter",
+      "interprete": "Gianfrancesco",
+      "episodio": ["O Circo Pirata"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Peter Fasworph",
+      "interprete": "Rafael Schubert",
+      "episodio": ["O Poderoso N"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Petra",
+      "interprete": "Mariane Silvestre",
+      "episodio": ["A Vaca Fifi e Os Feijões"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Pierre Corr",
+      "interprete": "Gabriel Pinheiro",
+      "episodio": ["O contrato de Micli"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Pierre Lebon",
+      "interprete": "Felipe Queiroz",
+      "episodio": ["Úrsula"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Pineapple",
+      "interprete": "Cinara",
+      "episodio": ["Eu beijei uma garota"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Pitchola",
+      "interprete": "Rodolpho Freire",
+      "episodio": ["Passarinhos"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Poliana Stradelli (Poli)",
+      "interprete": "Juliana Leyva",
+      "episodio": ["Cuco"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Pompom",
+      "interprete": "Ewa",
+      "episodio": ["A Avó, O Aniversário e As Três Gatas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Pote de Mel",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["As Princesas Orquizas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Priscila",
+      "interprete": "Ágata Sofia",
+      "episodio": ["O Samba da Criação"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Próspero",
+      "interprete": "Caio Lourêncio",
+      "episodio": ["A Loucura e o Tesouro de Florian Siebe"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Prya",
+      "interprete": "Sara Barbosa",
+      "episodio": ["A Ordem do Primeiro Filho"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Quatrana",
+      "interprete": "Shelly",
+      "episodio": ["A Avó, O Aniversário e As Três Gatas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Querubino (Bino)",
+      "interprete": "Xunim",
+      "episodio": ["Cinco"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Quetal",
+      "interprete": "Patrick Buchmann",
+      "episodio": ["Tinta"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Quinoa",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Aqui e Agora"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Quitéria",
+      "interprete": "Cinara",
+      "episodio": ["Alices"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Quitéria",
+      "interprete": "Tarinê",
+      "episodio": ["A ESPERA"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Rachel Boeing",
+      "interprete": "Bruna Diir",
+      "episodio": ["Pacto John Lennon"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Rafa",
+      "interprete": "Danielle Golebiowski",
+      "episodio": ["Terror no Flavia Regina"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Rafael",
+      "interprete": "Rafael Jacaúna",
+      "episodio": ["O Futuro do João Lucas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Rafaela Arruda (Rafa)",
+      "interprete": "Crhis",
+      "episodio": ["A Flecha no Seu Zé"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Rahanna Ives",
+      "interprete": "Shelly",
+      "episodio": ["Os Incríveis Pets de Lady Amanda"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Raji/Naja",
+      "interprete": "Adriano Trotta",
+      "episodio": ["Os Filhos da Rainha Lira"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Ramiro Volador",
+      "interprete": "Luco Borgs",
+      "episodio": ["Terror no Flavia Regina"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Ramona",
+      "interprete": "Andressa Martins",
+      "episodio": ["O Reflexo de Tuluiazu"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Ramona Lírio de Almeida",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Oi Miguel!"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Rania",
+      "interprete": "Sara Barbosa",
+      "episodio": ["A Creche dos Pequenos Monstrinhos"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Ray/Misael",
+      "interprete": "Caio Lourêncio",
+      "episodio": ["Anjos de Metal: Êxodo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Rebeca Taylor",
+      "interprete": "Rafaela Rangel",
+      "episodio": ["O Cheirinho do Armário"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Regina \"Regis\"",
+      "interprete": "Debbie",
+      "episodio": ["Queimada: A Ascensão das Lendárias Cobras Roxas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Regina Silveira",
+      "interprete": "Renata Bruscato",
+      "episodio": ["Os Herdeiros de Titi"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Richard",
+      "interprete": "Adriano Trotta",
+      "episodio": ["Memórias Nebulosas"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Rick Sinzo",
+      "interprete": "Wilson Negreiros",
+      "episodio": ["A Boba, O Circo e As Crianças"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Rick, o Vermelho",
+      "interprete": "Gabe, o Bardo",
+      "episodio": ["O imposto e o pé de galinha"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Rico",
+      "interprete": "Felipe Xavier",
+      "episodio": ["A Chuva", "Resiliente"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Roberto",
+      "interprete": "Patrick Buchmann",
+      "episodio": ["O Solo de Lídia"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Rock",
+      "interprete": "Jujuba",
+      "episodio": ["A paranóia dos números"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Rodrigo",
+      "interprete": "André Manenti",
+      "episodio": ["Águas Passadas"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Rogger Bodas",
+      "interprete": "Adriano Trotta",
+      "episodio": ["A Loucura e o Tesouro de Florian Siebe"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Ronan",
+      "interprete": "Gabriel Pinheiro",
+      "episodio": ["Por um Punhado de Armas"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Roy",
+      "interprete": "Fernando Malta",
+      "episodio": ["Os Órfãos, A Magia e o Jacaré Invisível"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Ruben Cohen",
+      "interprete": "Sr. Basso",
+      "episodio": ["O Bom, O Mau e O Ceifador"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Runa",
+      "interprete": "Francine Tribes",
+      "episodio": ["As Princesas Orquizas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Rupert",
+      "interprete": "Shelly",
+      "episodio": ["O Reflexo de Tuluiazu"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Russel",
+      "interprete": "Rafael Telerman",
+      "episodio": ["Parte de Mim"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Ruth Aveiro",
+      "interprete": "Fabíola Belo",
+      "episodio": ["Cuco"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Safira",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["Você Já Sentiu Falta de Algo Que Nunca Existiu?"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Saladino",
+      "interprete": "Senhor Basso",
+      "episodio": ["A Ordem do Primeiro Filho"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Sally Brown",
+      "interprete": "Cinara",
+      "episodio": ["Uma última volta no carrossel"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Salomé",
+      "interprete": "Juliana Leyva",
+      "episodio": ["O Som da Escuridão"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Samantha Biver",
+      "interprete": "Renata Bruscato",
+      "episodio": ["A Nova Residente"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Samantha Clarck",
+      "interprete": "Paula Potter",
+      "episodio": ["A Casa"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Samu",
+      "interprete": "Cinara",
+      "episodio": "A Escuridão da Caverna",
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Samu",
+      "interprete": "Cinara",
+      "episodio": "Caixa de Brinquedos",
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Samuel Pereira",
+      "interprete": "Gabriel Balardino",
+      "episodio": ["A Volta da Cigarra"],
+      "pronome": "Elu"
+    },
+    {
+      "personagem": "Saraswati",
+      "interprete": "Rebel Bia",
+      "episodio": ["Metallic Raccoon: O Grande Show"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Scarlet Wilson",
+      "interprete": "Amanda Evangelista",
+      "episodio": ["Fogo no Necrotério"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Scarlett Johansson",
+      "interprete": "Crhis",
+      "episodio": ["Nada de novo em Raccoon Town"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Sebastião",
+      "interprete": "Felipe Queiroz",
+      "episodio": ["Vô Lipe e a volta do Saci"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Selene",
+      "interprete": "Ágata Sofia",
+      "episodio": ["Sonhos de Ananda"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Ser-Gião",
+      "interprete": "Príncipe Vidane (Vitinho)",
+      "episodio": ["A Princesa Orquiza e a Guerra"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Seu Jorge",
+      "interprete": "Jeferson",
+      "episodio": ["O Samba da Criação"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Sidney",
+      "interprete": "Fernanda Cortez",
+      "episodio": ["Os Órfãos, A Magia e o Jacaré Invisível"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Silas",
+      "interprete": "Felipe Xavier",
+      "episodio": ["A Princesa, o Principe e a Guerra"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Sinien",
+      "interprete": "Shelly",
+      "episodio": ["A Viajante, A Exilada e a Xerife"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Sofia Kennedy",
+      "interprete": "Fernanda Cortez",
+      "episodio": ["Os Herdeiros de Titi"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Sofia Melosa",
+      "interprete": "Ágata Sofia",
+      "episodio": ["O Poderoso N"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Solene",
+      "interprete": "Leyci",
+      "episodio": ["O Casamento da Bruxa"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Sophie",
+      "interprete": "Domenica Mendes",
+      "episodio": ["Os Vinhedos da Família Mallet"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Steven Magalhães",
+      "interprete": "Caio Cruz",
+      "episodio": ["Cinco"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Stuart",
+      "interprete": "Henrique Santos",
+      "episodio": ["Passarinhos"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Sunny - Raio de Sol",
+      "interprete": "Tati Kafka",
+      "episodio": ["A Creche dos Pequenos Monstrinhos"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Susan",
+      "interprete": "Isabela Fontanella",
+      "episodio": ["Billie Jean"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Sussuarana",
+      "interprete": "Wilson Negreiros",
+      "episodio": ["Los Luchadores: El Desafio del Cuervo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Suzano",
+      "interprete": "Felipe Xavier",
+      "episodio": ["As quatro estações shinobi"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Tamatéa",
+      "interprete": "Shelly",
+      "episodio": ["A Décima Nona Coroa"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Tanara",
+      "interprete": "Ágata Sofia",
+      "episodio": ["O Jardim de Auravél"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Tasha",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["A Escuridão da Caverna"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Tati",
+      "interprete": "Rebel Bia",
+      "episodio": ["O Chapéu do Mineiro e os Zumbis"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Tessa",
+      "interprete": "Nanaka",
+      "episodio": ["Bichos Escrotos"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Texas",
+      "interprete": "Jeferson",
+      "episodio": ["A Ilha Condenada"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Thábata",
+      "interprete": "Sara Barbosa",
+      "episodio": ["A Provação da Água"],
+      "pronome": ""
+    },
+    {
+      "personagem": "The Paper",
+      "interprete": "Fernando Malta",
+      "episodio": ["Pacto John Lennon"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "The Paper",
+      "interprete": "Fernando Malta",
+    "episodio": ["Onde está o Natal norte coreano?", "O Natal do Cauê", "O Fim do Natal", "O Show dos Gnomos"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Thomas",
+      "interprete": "Mateus Araujo",
+      "episodio": ["Era uma vez três crianças"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Thomas",
+      "interprete": "Gilles",
+      "episodio": ["A Nova Residente"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Thomas Bacon",
+      "interprete": "Roberto Pena",
+      "episodio": ["Úrsula"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Tia Nadir",
+      "interprete": "Débora Mazetto",
+      "episodio": ["Como Um Sabiá"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Tom",
+      "interprete": "Marcelo Rebelo",
+      "episodio": ["O Reflexo de Tuluiazu"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Traça",
+      "interprete": "Debbie",
+      "episodio": ["A Bruxa, A Morte e As Quatro Gatas"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Trim",
+      "interprete": "Juliana Leyva",
+      "episodio": ["Tinta"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Túlio (Tutu)",
+      "interprete": "Hector Souza",
+      "episodio": ["Pirâmide das Almas"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Ubuthi",
+      "interprete": "Felipe Xavier",
+      "episodio": ["O Sumiço do Idoso Sedutor"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Ulfgorn",
+      "interprete": "Jeferson",
+      "episodio": ["O mistério de Rita"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Valentina",
+      "interprete": "Jujuba",
+      "episodio": ["O Pôr do Sol"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Valentina",
+      "interprete": "Ana Neves",
+      "episodio": ["A Décima Nona Coroa"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Vanda",
+      "interprete": "Crhis",
+      "episodio": ["A Deusa Menina"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Vanessa",
+      "interprete": "João Queiroz",
+      "episodio": ["O Canto da Cigarra"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Velho Billy",
+      "interprete": "Danilo Batistini",
+      "episodio": ["O Desaparecimento de Dylan"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Verde",
+      "interprete": "Nanaka",
+      "episodio": ["Os Cavaleiros Arco-íris"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Verônica",
+      "interprete": "Ana Neves",
+      "episodio": ["O Sumiço do Idoso Sedutor"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Vicente (Vivi)",
+      "interprete": "Luco Borgs",
+      "episodio": ["Sonhos de Ananda"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Vinwine",
+      "interprete": "Bruna Diir",
+      "episodio": ["A Herança"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Violet",
+      "interprete": "Ágata Sofia",
+      "episodio": ["O Lobo"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Violeta",
+      "interprete": "Fernanda Cortez",
+      "episodio": ["Oi Miguel!"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Vitor",
+      "interprete": "Patrick Buchmann",
+      "episodio": ["Memórias Nebulosas"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Vivian",
+      "interprete": "Poka",
+      "episodio": ["Pão, Margarina e um Meteoro"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Viviene",
+      "interprete": "Shelly",
+      "episodio": ["A Véia Embaixo da Cama"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Wagner",
+      "interprete": "João Galvão",
+      "episodio": ["O Monstro"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Walker",
+      "interprete": "Felipe Xavier",
+      "episodio": ["A Voz da Garotinha"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Weber",
+      "interprete": "Guilherme Vertamatti",
+      "episodio": ["A Ilha Condenada"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Xaví",
+      "interprete": "Allan Penoni",
+      "episodio": ["MonsterChef"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Xerife Robbins",
+      "interprete": "João Galvão",
+      "episodio": ["Madruguinha do oeste"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Yuliana",
+      "interprete": "Jéssica Loyana (Mell)",
+      "episodio": ["O Monstro"],
+      "pronome": "Ela"
+    },
+    {
+      "personagem": "Yuri Pavlovna",
+      "interprete": "Felipe Xavier",
+      "episodio": ["Seguro de Vida"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Zaira Siebe",
+      "interprete": "Juliana Leyva",
+      "episodio": ["A Loucura e o Tesouro de Florian Siebe"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Zaiton Fahir",
+      "interprete": "Bom Bardo",
+      "episodio": ["A Princesa, o Principe e a Guerra"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Zaud/Metatron",
+      "interprete": "Julio Matos",
+      "episodio": ["Anjos de Metal: Êxodo"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Zig",
+      "interprete": "Gabriel Balardino",
+      "episodio": ["Chocados no Espaço"],
+      "pronome": "Elu"
+    },
+    {
+      "personagem": "Zoe Pierce",
+      "interprete": "Caroline Hashimoto",
+      "episodio": ["Um Jogo Clínico"],
+      "pronome": ""
+    },
+    {
+      "personagem": "Zulgar",
+      "interprete": "Patrick Buchmann",
+      "episodio": ["O Monstro"],
+      "pronome": "Ele"
+    }
+  ]
