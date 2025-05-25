@@ -633,6 +633,31 @@
                         }
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "Quanto pesava o dinossauro que os jogadores tentaram derrubar em Madruguinha do Oeste?",
+                    "alternativas": [
+                        {
+                            "texto": "1 tonelada",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "2 toneladas",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "5 toneladas",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "10 toneladas",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -733,7 +758,7 @@
                             "erro_num": "erro1"
                         },
                         {
-                            "texto": "Num carro",
+                            "texto": "Em uma van",
                             "correto": true
                         }
                     ],
@@ -2639,6 +2664,331 @@
                         }
                     ],
                     "autoria": []
+                },
+                {
+                    "pergunta": "Onde Paper, Rachel e Kat se escondem para fugir dos perseguidores, em Pacto John Lennon?",
+                    "alternativas": [
+                        {
+                            "texto": "Hotel",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Restaurante",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Salão de cabeleireiro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Peixaria",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o motivo de Thomas Bacon, personagem do Pena, ir na missão do episódio Úrsula?",
+                    "alternativas": [
+                        {
+                            "texto": "Ele era amigo do rei",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Ele foi convidado por Matias Fernandes",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Ele era professor do príncipe",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Para provar que a terra era redonda",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Onde Olga, Natália e Felipe encontraram as primeiras cobras em A Medalha do Charles?",
+                    "alternativas": [
+                        {
+                            "texto": "Em um carro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Em um açougue",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Em um pet shop",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Em um beco",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Onde estava Matilda Corvo, em Cavaleiros do Arco-íris: O Último Corvo?",
+                    "alternativas": [
+                        {
+                            "texto": "Com os coiotes no deserto",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Com os crocodilos no lago",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Com os gatos na floresta",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Com as harpias na montanha",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o disfarce assumido por Fahir em A Princesa, O Príncipe e a Guerra?",
+                    "alternativas": [
+                        {
+                            "texto": "Pedinte",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Clérigo",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Bardo",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Guerreiro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o nome da alienígena que fica na nave dos personagens em Primeiro Contato?",
+                    "alternativas": [
+                        {
+                            "texto": "Drew",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Samara",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Ali",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Robin",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em A Chuva, quem bate à porta da casa onde os personagens estão antes que a chuva comece?",
+                    "alternativas": [
+                        {
+                            "texto": "Uma escoteira",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Um policial",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Um vizinho",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Uma repórter",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Para onde os personagens de O Lobo achavam que estavam indo?",
+                    "alternativas": [
+                        {
+                            "texto": "Um acampamento",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Um internato",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Um cruzeiro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Uma ilha",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Como se chamava o mestre dos luchadores de Los Luchadores: El Desafio del Cuervo?",
+                    "alternativas": [
+                        {
+                            "texto": "A",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "B",
+                            "correto": true
+                        },
+                        {
+                            "texto": "C",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "D",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Segundo a crença da cidade em A Décima Nona Coroa, como as pessoas poderiam se proteger das mortes quando o sino tocava?",
+                    "alternativas": [
+                        {
+                            "texto": "Comendo cenoura",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Tomando vacina",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Usando chapéu",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Rezando para o rei",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual desses não era algo perdido pelas personagens de Uma Última Volta no Carrossel?",
+                    "alternativas": [
+                        {
+                            "texto": "Uma paciente",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Um pet",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "O emprego",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "O filho",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Passarinhos, onde Stuart se esconde para fugir da coruja?",
+                    "alternativas": [
+                        {
+                            "texto": "Embaixo de um androide",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Em um arbusto",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Embaixo de um carro",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Dentro de uma caixa de correio",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual jogo é mencionado como uma inspiração do episódio Passarinhos?",
+                    "alternativas": [
+                        {
+                            "texto": "NieR: Automata",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Deus Ex: Mankind Divided",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Detroit: Become Human",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Horizon Zero Dawn",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
                 }
             ]
         },
@@ -4114,6 +4464,181 @@
                         },
                         {
                             "texto": "Viagra",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Qual o nome verdadeiro do personagem do Fencas em Pacto John Lennon?",
+                    "alternativas": [
+                        {
+                            "texto": "Ben",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Douglas",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Mike",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Luke",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "No episódio A Casa, com quantas mulheres o experimento foi iniciado?",
+                    "alternativas": [
+                        {
+                            "texto": "A",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "B",
+                            "correto": true
+                        },
+                        {
+                            "texto": "C",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "D",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Pergunta sobre A Flechada no Seu Zé?",
+                    "alternativas": [
+                        {
+                            "texto": "A",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "B",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "C",
+                            "correto": true
+                        },
+                        {
+                            "texto": "D",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Como se chama o garoto para quem Aradne promete contar sobre sua aventura em Cavaleiros do Arco-Íris: O Último Corvo?",
+                    "alternativas": [
+                        {
+                            "texto": "Felipe",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Jojo",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Nefi",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Ednei",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Em Guerreiras Mágicas do Guaxinim, qual mangá Ágata pergunta se os ratos têm?",
+                    "alternativas": [
+                        {
+                            "texto": "Fruits Basket",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "JoJo",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Sailor Moon",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "Gundam",
+                            "correto": true
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Segundo o GuaxaVerso #136 (Ainda Estamos Aqui, Com a Shelly), qual destes países está no top 10 países ouvintes do RPGuaxa?",
+                    "alternativas": [
+                        {
+                            "texto": "Angola",
+                            "correto": false,
+                            "erro_num": "erro1"
+                        },
+                        {
+                            "texto": "Turquia",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Singapura",
+                            "correto": true
+                        },
+                        {
+                            "texto": "Moçambique",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        }
+                    ],
+                    "autoria": []
+                },
+                {
+                    "pergunta": "Quantas paródias de música foram cantadas após o Escudo do Mestre do episódio A Décima Nona Coroa?",
+                    "alternativas": [
+                        {
+                            "texto": "1",
+                            "correto": false,
+                            "erro_num": "erro2"
+                        },
+                        {
+                            "texto": "2",
+                            "correto": true
+                        },
+                        {
+                            "texto": "3",
+                            "correto": false,
+                            "erro_num": "erro3"
+                        },
+                        {
+                            "texto": "Todas as paródias foram cantadas durante o Escudo do Mestre",
                             "correto": false,
                             "erro_num": "erro1"
                         }
