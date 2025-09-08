@@ -16,6 +16,7 @@ input, button, textarea, select {
   --main-color: #5abc5a;
   --secondary-color: #19caca;
   --accent-color: #D48FA8;
+  --main-font: "Gabarito", sans-serif;
 }
 
 body {
@@ -23,7 +24,7 @@ body {
   background-attachment: fixed;
   background-size: contain;
   background-color: black;
-  font-family: "Gabarito", sans-serif;
+  font-family: var(--main-font);
   margin: 20px;
 }
 
@@ -161,6 +162,15 @@ p {
 .pergunta {
   font-weight: 600;
   color: white;
+}
+
+.autoria-pergunta {
+  font-size: 0.6rem;     /* Tamanho ainda menor (usando rem) */
+  color: #888;            /* Cinza mais claro */
+  margin: 0;   /* Espaçamento compacto */
+  padding: 0;
+  opacity: 0.8;           /* Transparência sutil */
+  font-family: var(--main-font);
 }
 
 /* Progresso da pergunta */

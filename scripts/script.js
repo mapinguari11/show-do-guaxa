@@ -1,6 +1,8 @@
 //###VARIÁVEIS GERAIS###
 //Lista de perguntas e respostas
-let perguntasRPGuaxa; // Variável global para armazenar o JSON
+let perguntasRPGuaxa; // Variável global para armazenar o JSON de perguntas
+//lista de personagens e jogadores
+let personagensRPGuaxa; //Variável global para armazenar o JSON de personagens
 
 //pequena mostra de personagens para testes das ajudas.
 const personagensConvidados = [
@@ -58,19 +60,16 @@ let jogoAtivo = true;
 
 //Variáveis de pergunta
 let perguntasSorteadas = []; //para armazenar perguntas, para não repetir
-let perguntaFeita; //armazena todas as informações da pergunta atual, incluindo .pergunta e .alternativa[i]
+let perguntaFeita; //armazena todas as informações da pergunta atual, incluindo.pergunta e .alternativa[i]
 let indiceAtual = 0; // Índice da pergunta atual
-//let acertos = 0; // Contador de acertos (para modo teste?)
 let nivelPerguntas = 0; //para nível de dificuldade
-let errada1;
-let errada2;
-let errada3;
+let errada1, errada2, errada3; // variaveis para identificar as alternativas erradas
 
 //Variáveis de ajuda
 let personagemConvidado; //usado em Personagem Convidado
 let convidado1, convidado2, convidado3; //usados em Corrida contra Personagens
-const personagensSorteados = [];
-const ajudasUsadas = [];
+const personagensSorteados = []; // armazena personagens já sorteados, para não repetir
+const ajudasUsadas = []; // armazena ajudas usadas, para que jogador use cada ajuda apenas uma vez
 
 //PEGANDO ELEMENTOS HTML
 //Estrutura do jogo
@@ -108,10 +107,16 @@ function iniciarJogo() {
   perguntaElemento.innerHTML = `Boas vindas, Guaxouvinte!<br> Logo, logo começaremos o Show do Milhão de Guaxinins... Mas antes, me diga: qual o seu nome e seu atributo?`;
 }
 
-//Validar atributo
+//Validar atributo e nome (chamada quando jogador clica no botão para enviar nome e atributo)
 function validarAtributo() {
   let nomeEscolhido = entradaNome.value;
   let atributoEscolhido = parseInt(entradaAtributo.value);
+  
+  if (nomeEscolhido == "") {
+    alert("Digite seu nome!");
+    return;
+  }
+  
   if (atributoEscolhido !== 2 &&
       atributoEscolhido !== 3 &&
       atributoEscolhido !== 4 &&
@@ -120,6 +125,7 @@ function validarAtributo() {
     alert("Digite um atributo válido!");
     return;
    }
+  
     nomeJogador = nomeEscolhido;
     atributoJogador = atributoEscolhido;
 
@@ -131,23 +137,28 @@ function validarAtributo() {
     botaoIniciar.classList.remove("hidden");   
 }
 
+// limpa a tela antes de cada pergunta ser carregada
 function limparTela() {
   perguntaElemento.textContent = "";
   botaoIniciar.classList.add("hidden");
   carregarPergunta();
 }
 
-//Função para carregar uma nova pergunta
-function carregarPergunta() {
-  verificarNivel(); //verifica nível antes de exibir pergunta
-
-  if (nivelPerguntas === 0) {
+function exibirNivel() {
+    if (nivelPerguntas === 0) {
     progressoElemento.innerHTML = `${indiceAtual+1}/Nível Fácil`;
   } else if (nivelPerguntas === 1) {
     progressoElemento.innerHTML = `${indiceAtual+1}/Nível Médio`;
   } else {
     progressoElemento.innerHTML = `${indiceAtual+1}/Nível Difícil`;
   }
+}
+
+//Função para carregar uma nova pergunta
+function carregarPergunta() {
+    verificarNivel(); //verifica nível antes de exibir pergunta
+    exibirNivel(); //exibe nível e número da pergunta
+  
 
   //randomiza a ordem das perguntas
   let indiceAleatorio = Math.floor(Math.random() * (perguntasRPGuaxa.fases[nivelPerguntas].questoes.length));
@@ -166,7 +177,16 @@ function carregarPergunta() {
 
   respostasElemento.innerHTML = ""; // Limpa as respostas anteriores
 
-  // Percorre todas as respostas da pergunta atual
+  // 1. PRIMEIRO: Exibe a autoria (se existir) - ANTES das alternativas
+  if (perguntaAtual.autoria && perguntaAtual.autoria.length > 0) {
+    const autorDiv = document.createElement('div');
+    autorDiv.className = 'autoria-pergunta';
+    autorDiv.style.marginBottom = '20px'; // Espaçamento antes das alternativas
+    autorDiv.innerHTML = `<p><em>Autoria: ${perguntaAtual.autoria.join(', ')}</em></p>`;
+    respostasElemento.appendChild(autorDiv);
+  }
+
+  // 2. SEGUNDO: Cria os botões das alternativas
   for (let i = 0; i < perguntaAtual.alternativas.length; i++) {
     // Pega a resposta atual com base no índice 'i'
     const alternativa = perguntaAtual.alternativas[i];
@@ -200,12 +220,14 @@ function carregarPergunta() {
 
 //Função que acompanha progresso do jogador e muda o nível
 function verificarNivel() {
-  if (indiceAtual<=4) {
+  if (indiceAtual <=4) {
     nivelPerguntas = 0;
   } else if (indiceAtual <=9) {
     nivelPerguntas = 1;
-  } else {
+  } else if (indiceAtual <=13) {
     nivelPerguntas = 2;
+  } else {
+    nivelPerguntas = 3;
   }
 }
 
@@ -273,6 +295,8 @@ function testarConvidado() {
     //rolar 2d6: se crítico: 3 pts. se acerto: 1 pt. se erro: 0 pt.
     let dado1 = umDSeis();
     let dado2 = umDSeis();
+
+    console.log(dado1, dado2);
     //calcular pts:
     let pontosDoTeste = 0;
     
@@ -288,11 +312,11 @@ function testarConvidado() {
         pontosDoTeste += 1;
     }
 
-    console.log("pontos do teste: " + pontosDoTeste);
     if (personagemConvidado.personagem === 'Marcelo Guaxinim') {
         pontosDoTeste = 6;
     }
-    console.log("pontos do teste: " + pontosDoTeste);
+
+    console.log(pontosDoTeste);
 
     const alternativaCorreta = perguntaFeita.alternativas.find(alternativa => alternativa.correto === true);
 
@@ -302,7 +326,6 @@ function testarConvidado() {
 
     const erradas = [errada1, errada2, errada3];
     const ordemErradas = [...erradas];
-    console.log(`array das respostas erradas: ${ordemErradas.map(obj => obj.texto)}`);
 
     //definindo a resposta do personagem
     if (pontosDoTeste >= 3) {
@@ -310,19 +333,17 @@ function testarConvidado() {
         // Personagem tem certeza e a resposta está certa.
         campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Com certeza é ${alternativaCorreta.texto}.`;
     } else if (pontosDoTeste === 2) {
-        //1/2 de chance de acertar
+        //3/4 de chance de acertar
         // Personagem tem quase certeza.
-        const pool50PorCento = [alternativaCorreta, ordemErradas[0]];
-        console.log(`array 50%: ${pool50PorCento.map(obj => obj.texto)}`);
-        const resposta50PorCento = Math.floor(Math.random()*2);
-        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Estou entre duas... Mas creio que a resposta seja ${pool50PorCento[resposta50PorCento].texto}.`;
+        const pool75PorCento = [alternativaCorreta, alternativaCorreta, alternativaCorreta, ordemErradas[0]];
+        const resposta75PorCento = Math.floor(Math.random()*4);
+        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Não estou 100%, mas creio que a resposta seja ${pool75PorCento[resposta75PorCento].texto}.`;
     } else if (pontosDoTeste === 1) {
-        //1/3 de chance de acertar
+        //1/2 de chance de acertar
         // Personagem não tem certeza e escolhe aleatoriamente.
-        const poolUmTerco = [ordemErradas[0], alternativaCorreta, ordemErradas[1]];
-        console.log(`array 1/3: ${poolUmTerco.map(obj => obj.texto)}`);
-        const respostaUmTerco = Math.floor(Math.random() * 3);
-        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Nossa, eu não sei não... Acho que é... ${poolUmTerco[respostaUmTerco].texto}`;
+        const pool50Porcento = [alternativaCorreta, ordemErradas[0]];
+        const resposta50Porcento = Math.floor(Math.random() * 2);
+        campoFalaConvidado.innerHTML = `<strong>${personagemConvidado.personagem}</strong>: Estou entre duas... Acho que é... ${pool50Porcento[resposta50Porcento].texto}`;
     } else {
         //1/4 de chance de acertar.
         let indiceChute = Math.floor(Math.random() * 4);
@@ -363,7 +384,6 @@ function correrContraPersonagens() {
     do {
         convidado3 = sortearConvidado();
     } while (convidado3.personagem === 'Marcelo Guaxinim');
-    console.log(`convidado 1: ${convidado1.personagem}, convidado 2: ${convidado2.personagem}, convidado 3: ${convidado3.personagem}`)
 
     limparSidebar();
     mostrarBotaoResposta();
