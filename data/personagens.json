@@ -696,6 +696,12 @@
       "pronome": "Ele"
     },
     {
+      "personagem": "Cesar",
+      "interprete": "Felipe Xavier",
+      "episodio": ["1920: O Idioma Que Não Pode Ser Apagado"],
+      "pronome": "Ele"
+    },
+    {
       "personagem": "Chang Chi",
       "interprete": "Caroline Hashimoto",
       "episodio": ["Pavio"],
@@ -1272,6 +1278,12 @@
       "pronome": ""
     },
     {
+      "personagem": "Helena Blake",
+      "interprete": "Mariane Silvestre",
+      "episodio": ["1930: Anđelka e o Raio da Morte"],
+      "pronome": "Ela"
+    },
+    {
       "personagem": "Henry Daniel Dent",
       "interprete": "André Trapani",
       "episodio": ["Bichos Escrotos"],
@@ -1404,6 +1416,12 @@
       "pronome": "Ele"
     },
     {
+      "personagem": "Jacques \"Jaci\"",
+      "interprete": "Patrick Buchmann",
+      "episodio": ["1930: Anđelka e o Raio da Morte"],
+      "pronome": "Ele"
+    },
+    {
       "personagem": "Jane",
       "interprete": "Rebel Bia",
       "episodio": ["O Baile"],
@@ -1485,6 +1503,12 @@
       "personagem": "Joaquim Epaminondas",
       "interprete": "Hector Souza",
       "episodio": ["A Flecha no Seu Zé"],
+      "pronome": "Ele"
+    },
+    {
+      "personagem": "Joe Bombora",
+      "interprete": "Jean Macedo",
+      "episodio": ["1930: Anđelka e o Raio da Morte"],
       "pronome": "Ele"
     },
     {
@@ -2874,6 +2898,12 @@
       "pronome": "Ele"
     },
     {
+      "personagem": "Simone",
+      "interprete": "Juliana Leyva",
+      "episodio": ["1920: O Idioma Que Não Pode Ser Apagado"],
+      "pronome": "Ela"
+    },
+    {
       "personagem": "Sinien",
       "interprete": "Shelly",
       "episodio": ["A Viajante, A Exilada e a Xerife"],
@@ -3118,6 +3148,12 @@
       "interprete": "Fernanda Cortez",
       "episodio": ["Oi Miguel!"],
       "pronome": ""
+    },
+    {
+      "personagem": "Virginia",
+      "interprete": "Debbie",
+      "episodio": ["1920: O Idioma Que Não Pode Ser Apagado"],
+      "pronome": "Ela"
     },
     {
       "personagem": "Vitor",
